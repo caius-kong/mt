@@ -32,6 +32,10 @@ def pre_handle(line):
     return line
 
 
+def del_blank(s):
+    return " ".join([x for x in s.split(" ") if x != ""])
+
+
 def content_handle(content_line):
     content = seg_tag_pattern.sub('', content_line)
     if html_pattern.match(content):
@@ -41,8 +45,7 @@ def content_handle(content_line):
     content = html_tag_pattern.sub('', content)
     # if css_pattern.match(content):
     #     content = css_pattern.sub("", content).strip()
-    content = content.strip(' ')
-    return content
+    return del_blank(content)
 
 
 def init_file_path_list(root_dir):
@@ -113,8 +116,8 @@ def small_file_clean_data(file_path, sfile, tfile):
 
 # input params
 # tlang_code, input_folder = get_args()
-tlang_code = 'fr'
-input_folder = '/Users/caius_kong/Documents/work/2018/MT/TMX/fr-FR/2018.11'
+tlang_code = 'de'
+input_folder = '/Users/caius_kong/Documents/work/2018/MT/TMX/de-DE/2018.11'
 
 # match pattern
 source_pattern = re.compile(r'<tuv xml:lang="EN-US">', re.IGNORECASE)
