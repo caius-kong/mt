@@ -36,6 +36,10 @@ def del_blank(s):
     return " ".join([x for x in s.split(" ") if x != ""])
 
 
+def is_not_space(s):
+    return s != '' and s != '\n'
+
+
 def content_handle(content_line):
     content = seg_tag_pattern.sub('', content_line)
     if html_pattern.match(content):
@@ -45,7 +49,10 @@ def content_handle(content_line):
     content = html_tag_pattern.sub('', content)
     # if css_pattern.match(content):
     #     content = css_pattern.sub("", content).strip()
-    return del_blank(content)
+    if http_pattern.match(content):
+        content = http_pattern.sub("", content).strip()
+    content = del_blank(content)
+    return content
 
 
 def init_file_path_list(root_dir):
@@ -95,6 +102,7 @@ def small_file_clean_data(file_path, sfile, tfile):
         if skip_file_pattern.match(line):
             break
         if source_pattern.match(line):
+            # 新的一轮，清理残留数据
             target_content = ''
             source_line = lines[i + 1]
             source_content = content_handle(source_line)
@@ -102,7 +110,7 @@ def small_file_clean_data(file_path, sfile, tfile):
             target_line = lines[i + 1]
             target_content = content_handle(target_line)
         # 当本轮解析的st/tt同时有效时，写入
-        if source_content != '' and source_content != '\n' and target_content != '' and target_content != '\n':
+        if is_not_space(source_content) and is_not_space(target_content):
             sfile.write(source_content)
             source_write_count += 1
             tfile.write(target_content)
@@ -129,6 +137,7 @@ html_tag_pattern = re.compile(r'</?\w+[^>]*>')
 html_pattern = re.compile(r'<!DOCTYPE html>[\W\w]*</html>', re.IGNORECASE)
 tr_pattern = re.compile(r'<tr[^>]*>[\W\w]*<[/]?tr[^>]*>')
 # css_pattern =  re.compile(r'[\W\w]*{[\W\w]*}')
+http_pattern = re.compile(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+')
 
 file_path_list = []
 init_file_path_list(input_folder)
