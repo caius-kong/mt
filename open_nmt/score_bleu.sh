@@ -9,4 +9,4 @@
 # Optional: -sample 1       (If > 1, number of samples for estimation of k-fold error margin (95% certitude) - 10 is a good value.)
 # Optional: -scorer bleu    (Accept: bleu|ter|dlratio)
 # Optional: -order 4        (Number of sample for estimation of error margin)
-th $OPENNMT_HOME/tools/score.lua input/en-de/tgt-test.txt < output/pred13.txt
+th $OPENNMT_HOME/tools/score.lua input/en-de/tgt-test.txt < output/en-de-pred13.txt
