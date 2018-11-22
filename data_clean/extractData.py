@@ -47,11 +47,11 @@ def close_files(not_extract_sfile, not_extract_tfile, extract_sfile, extract_tfi
 
 # input params
 # tlang_code = get_args()
-tlang_code = 'de'
+tlang_code = 'fr'
 
 sfile_path = 'output/all_en.align'
 tfile_path = 'output/all_' + tlang_code + '.align'
-not_extract_sfile_path = 'output/src-train.txt'
+not_extract_sfile_path = 'output/not_extract_en.txt'
 not_extract_tfile_path = 'output/not_extract_' + tlang_code + '.txt'
 extract_sfile_path = 'output/extract_en.txt'
 extract_tfile_path = 'output/extract_' + tlang_code + '.txt'
