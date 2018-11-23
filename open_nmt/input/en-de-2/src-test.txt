@@ -1,0 +1,2500 @@
+Internet connection is required to run privacy scan. Please check your internet connection and try again.
+The apps listed below collect your private information.
+Trend Micro recommends you to check these apps to decide if you want to remove them.
+Network error occured. The scan result is incomplete.
+The app is not installed and not added to Trust List.
+All history records will be added to Trust List. Please confirm.
+Your specific current location to potentially track where you are
+Your address book to potentially contact the people you know
+Access the audio file recorded from your microphone to potentially spy on you
+Access pictures taken by your camera to potentially spy on you
+Your text messages to potentially collect your personal information
+Your device’s unique identification number to potentially profile you better
+Your registered country and network provider to potentially profile you better
+The identification number given to your SIM card to potentially profile you better
+Your email account information on mobile device to potentially contact you
+Your call history to potentially collect personal information
+Files downloaded from the Internet for potential data theft
+The information you type on your screen to potentially collect sensitive information, such as passwords
+Your music, videos and photos to potentially collect sensitive personal information
+An adware aggressively displays advertisements and may harvest user data.
+An update is currently in progress. Please perform the scan after the update completes.
+A scan is currently in progress. Please perform the update after the scan completes.
+This update is currently in progress. Please wait...
+You can still activate your subscription later by tapping “%s” on the main screen.
+Your license has expired. Please renew your subscription to use the features.
+To continue using protection, please tap \"%1$s\" to extend your subscription.
+By extending your subscription, you are agreeing to the Trend Micro License Agreement.
+Disabling the Mobile Security administrator will disable the uninstall protection.\n\nAre you sure you want to continue?
+You must set the screen lock for your mobile device.
+Please enable this feature to use Lost Device Protection services.
+You can still use Virus Scanner, but all the premium features will be disabled.
+To continue using premium protection, please tap \"%1$s\" to extend your subscription.
+A scan is currently in progress. Please perform the installation after the scan completes.
+An update is currently in progress. Please perform the installation after the update completes.
+Network connection error. Check it and try again.
+Easily back up and restore your data across your mobile device.
+Ready to backup?\n\nActivate Backup & Restore now to keep your important data safe.
+Unable to start Backup & Restore. Please try again.
+The network is currently unavailable. Please try again later
+The installation is invalid. Please install Backup & Restore again from the store.
+Downloading app in the browser. Install when it completes.
+Add an email address to receive unlock key
+Collected problem log will be sent to Trend Micro.
+Problem log sent to Trend Micro. Token number: %s.
+Mobile Security stopped unexpectedly. Do you want to report it to Trend Micro?
+Mobile Security has stopped unexpectedly and it will now quit.
+Unable to reach Trend Micro. Please try again.
+Please sign in with your Trend Micro Account
+It is required for full protection and subscription management.
+Unable to reach Trend Micro. Please try again later.
+This mobile device is locked by Trend Micro Mobile Security.
+The unlock key is valid for single use only.
+Lost Device Protection feature is now available for use.
+Do you worry about your personal data and privacy leakage if your device is lost?
+Sign in or create account for full protection
+Do you worry about your children while surfing?
+Google service is required to track your device\'s location and do remote lock/wipe.
+To enable google service, please setup a google account on this device.
+Copyright © 2013 Trend Micro, Inc.\nAll rights reserved.
+Activate your app to use the following premium features:
+Uses cloud based virus intelligence to check every app installed for safety.
+Uses cloud based Data Theft intelligence to check every app installed for safety.
+Blocks dangerous and unwanted websites and provides levels of protection for your children.
+Lets you use a web console to find, lock and wipe your mising device.
+Provides access to Trend Micro\'s technical assistance via phone, email and website.
+Trend Micro cannot locate your lost device if this setting is disabled.\n\nDo you want to continue?
+Find My Android is enabled to let you find this device, if lost.
+To regain protection, visit Google Play or the Trend Micro website.
+Collect problem log and send to Trend Micro
+Check the token and report to Trend Micro
+Make sure that you can reach the Internet and try again.
+The Market billing service is not available. Please use another method to extend your protection.
+Please install the latest Market app and then try again.
+The Market billing service is currently unavailable. Please try again later.
+Do you want to use it on this mobile device?
+Do not use mobile network for auto update
+All history records will be deleted. Please confirm.
+Visit portal to locate, scream, wipe and lock the lost device
+Use an unlock key instead of a password to unlock this device.
+The network is currently unavailable. Please try again later.
+Please wait for 30 seconds to send it again.
+Do you want to continue scanning in the background?
+Enter your activation code or serial number below
+You cannot use this Activation Code in your current location.
+You cannot use this Activation Code on this device.
+You can tap here and go to Settings to sign in to your Trend Micro account.
+Tap the Menu key and go to Settings to sign in to your Trend Micro account.
+Do you worry about your privacy on Facebook™?
+You are now ready to scan your Facebook™ privacy settings.
+The installation is invalid. Please install Privacy Scanner again from the store.
+Does Trend Micro Mobile Security make you feel safer?
+Spare a few seconds to rate the app
+Please provide your valuable feedback and help us to improve.
+This will allow you to find your mobile device when required.
+Copyright © #YEAR# Trend Micro Incorporated. All rights reserved.
+Protect your Android tablet and smartphone from loss, theft and infection.
+How do you want to get the app?
+Scan the QR Code to open Google Play
+Visit or search Google Play™ for Trend Micro Mobile Security to install the app.
+* If you have trouble installing the app from Google Play or Amazon Appstore,
+Visit or search Amazon™ for Trend Micro Mobile Security to install the app.
+Protect your privacy on an Android tablet or smartphone.
+Scan the QR Code with your Android Device.
+When Google Play opens, tap Install to get the app.
+Provide an email address you can access on your mobile device.
+You will receive an email with a link to install Mobile Security on your Android device
+Please provide an email address in the correct format.
+Check your mobile device for the download link.
+Sign into your Google account and choose your device.
+Launch the App and Sign In with Your Trend Micro Account
+to learn more or find a lost device.
+Copyright &copy; 2011-2012 Trend Micro Incorporated. All rights reserved.
+Track your missing mobile device on the map using GPS or wireless networks.
+Sound a one-minute alarm on your missing mobile device.
+Stop anyone from using your missing mobile device.
+To keep protecting your mobile device, please renew your service now.
+To keep protecting your mobile device, please buy the service now.
+The service is temporarily unavailable. Please try again soon.
+From the Option list, click Content.Select Enable Javascript.Click Advanced.Select all the options.Click OK.
+Select Tools > Options.From the Security tab, click Custom level.Scroll down to the Active scripting section and select Enable.Click OK.
+Provide an email address you can access on your mobile device
+The text does not match with the displayed characters. The letters are case-sensitive. Please try again.
+Email a link to your mobile device to download
+The text does not match the displayed characters. The letters are case-sensitive. Please try again.
+Use this key to unlock your mobile device.
+Makes it easy to locate, lock or wipe a missing mobile device.
+Protect your Android and Windows 8 from loss, data theft, and more.
+Find your mobile device anywhere at any time.
+Delete all of the data stored on your lost device.
+Stop anyone from using your lost mobile device.
+Do you want to create an easy access link to this portal on your mobile device?
+Email a link to your mobile device to download:
+Please provide an email address in the correct format.
+Sound an alarm on the device - even if it is on silent.
+Tell your mobile device location to your friends on Facebook.
+Stop any access to the device without a password.
+Erase all your personal data on the lost mobile device.
+Learn how to deal with a lost mobile device with protection tips.
+The service is temporarily unavailable. Please try again later.
+If you don\'t want to use Google Checkout
+Securely access your stuff on any device, anytime.
+Securely store your online passwords and use them on any device
+Scan your device for the carrier IQ software
+Backup your Android device securely to the cloud
+The Privacy Scanner enables you to quickly check and fix the privacy settings on Facebook
+To renew your Titanium subscription please visit www.trendmicro.com or open the Titanium console on your computer.
+Trend Micro Mobile Security is included as part of your Trend Micro Titanium Internet Security subscription.
+The Google service for this purchase is currently unavailable.
+You cannot buy this app through Google Play. To purchase or renew your subscription, visit:
+Please try again. If this problem persists, please contact Trend Micro support.
+Thank you for purchasing #PRODUCT_NAME# to protect your mobile device.
+Your subscription will continue until the expiration date shown below.
+To renew your subscription, please refer to the product console on your PC.
+We're available 24/7. 1-800-Geek Squad (1-800-433-5778) Terms & Conditions Please do no reply to this message.
+This message is generated by an automated system.
+© 2013 BBY Solutions, Inc. All Rights Reserved.
+Thank you for activating #PRODUCT_NAME# to protect your mobile device.
+Your subscription will continue through the period specified in the contract.
+You can renew the subscription on #MachineName1# at any time by tapping "Activate" in the app.
+You have received this message from an unmonitored email address.
+If you have questions or need help, please visit http://www.trendmicro.com/support/consumer.
+You have successfully transferred a license for #PRODUCT_NAME# from #MachineName2# to #MachineName1#.
+#MachineName2# is now running a trial version of #PRODUCT_NAME# and will expire in 30 days.
+Premium features have now been enabled on #MachineName1# and will expire on the date shown below.
+For any technical questions or assistance please visit http://go.trendmicro.com/geeksquad/index.html.
+Product features have now been enabled on #MachineName1#.
+For any technical questions or assistance, plese visit www.trendmicro.com/mobilehelp.
+You have successfully transferred a license for #PRODUCT_NAME# to #MachineName1#.
+For any technical questions or assistance please visit http://go.trendmicro.com/geeksquad/index.html..
+You have successfully transferred your subscription for #PRODUCT_NAME# to #MachineName1#.
+For any technical questions or assistance please visit http://www.trendmicro.com/mobilehelp..
+For any technical questions or assistance please visit http://www.trendmicro.com/mobilehelp.
+To enable protection for your #MachineName1#, tap "Buy / Activate" in the app at any time.
+Now you can also protect your devices from loss.
+To get an Activation Code, please contact your service provider.
+Tap the link below, or copy the address into your web browser:
+If you have questions or need help, please visit here
+If you have questions or need help, please visit here.
+If you are having problems installing #PRODUCT_NAME# from Google Play or Amazon Appstore, click here.
+If you have questions or need help, please visit http://www.trendmicro.com/support/consumer
+#DOWNLOAD_URL# To download and install #PRODUCT_NAME# from Amazon Appstore, use the following link:
+Thank you for choosing to protect your mobile device from data theft, viruses, and more.
+Tip: Now you can also protect your devices from loss.
+For any technical questions or assistance please visit .
+Thank you for choosing again to protect your mobile device from data theft, viruses, and more.
+You have successfully transferred a license for from mobile device to mobile device .
+You can visit to manage your subscription at any time.
+You have successfully transferred a license for to mobile device .
+Premium features have now been enabled on mobile device . Your subscription details are shown below:
+Thank you for purchasing to protect your mobile device . Your subscription details are shown below:
+Your purchased protection will be immediately activated on this device. Do you want to continue?
+Tap the license that you want to transfer to this device:
+You will need to sign in to manage your subscription.
+Receive the latest news and offers from Trend Micro
+Create a Trend Micro Account to get better support and enjoy additional features.
+I\'ve read and agree to the Trend Micro License Agreement.
+I\'ve read and agree to the Trend Micro Personal Information Privacy Policy.
+You can still activate the premium subscription later by tapping “” in the main screen.
+You can still activate the premium subscription later by tapping “” in the main screen.
+Provides filtering for young adults between 14 and 18. More details.
+Provides filtering for children between 10 and 13. More details.
+Provides filtering for children 9 or younger. More details.
+Privacy Scanner warns you of apps that potentially steal your private information or have aggressive advertising.
+The apps listed below collect your private information or show unusual behavior.
+Check these apps to decide if you want to remove them.
+Sends out your specific current location to potentially track where you are.
+Accesses pictures taken from your camera and sends them out. This may compromise your privacy.
+Accesses your text messages and sends them out to potentially collect your personal information.
+Sends out your device’s unique identification number to potentially profile you better.
+Sends out your registered country and network provider information to potentially profile you better.
+Sends out the identification number given to your SIM card to potentially profile you better.
+Sends out your music, videos and photos to potentially collect sensitive personal information.
+Accesses your text and multimedia messages to potentially collect your personal information.
+Accesses your phone call history, and may use it inappropriately to compromise your privacy.
+Accesses your music, videos and photos to potentially collect sensitive personal information.
+Accesses your specific current location to potentially track where you are.
+Accesses your bookmarks in your mobile browser to potentially know about your interests.
+Accesses your device’s unique identification number to potentially profile you better.
+Accesses your registered country and network provider information to potentially profile you better.
+Sends out text or multimedia messages without your knowledge.
+Deletes text or multimedia messages without your knowledge.
+Pops up the Phone app with a pre-filled phone number to initiate a phone call.
+Accesses your microphone and records audio clips. This may compromise your privacy.
+Opens camera to see through it and potentially takes pictures. This may compromise your privacy.
+Displays ads in notifications that you cannot remove.
+Launches other app’s installation package, but cannot install without your permission.
+Creates ads icon on your home screen, such as, shortcut to a web ad.
+Changes your browser’s homepage, such as, to link to a web ad.
+Displays ads in notifications to gain your attention.
+Accesses your phone number to potentially collect your personal information.
+You can still activate your subscription later by tapping “” on the main screen.
+You can still activate your subscription later by tapping “” on the main screen.
+To continue using protection, please tap \\" to extend your subscription.
+To continue using protection, please tap \\" to extend your subscription.
+By extending your subscription, you are agreeing to the Trend Micro License Agreement.
+Disabling the Mobile Security administrator will disable the uninstall protection.Are you sure you want to continue?
+To continue using premium protection, please tap \\" to extend your subscription.
+To continue using premium protection, please tap \\" to extend your subscription.
+Ready to backup?Activate Backup & Restore now to keep your important data safe.
+Unable to start Backup & Restore. Please try again.
+The installation is invalid. Please install Backup & Restore again from the store.
+Problem log sent to Trend Micro. Token number: .
+Please sign in with your Trend Micro Account
+Sign in with your Trend Micro account to get full protection and manage your subscription.
+Please provide the correct email address and password.
+Copyright © 2014 Trend Micro, Inc.All rights reserved.
+Uses cloud based privacy intelligence to check every app installed for safety.
+Lets you use a web console to find, lock and wipe your missing device.
+Provides access to Trend Micro\'s technical assistance via email and website.
+Trend Micro cannot locate your lost device if this setting is disabled.Do you want to continue?
+Find My Android is enabled to let you find this device, if lost.
+Anonymously share your device\'s information with Trend Micro
+Purchase or activate subscription now to protect your device and data.
+Activate subscription now to protect your device and data.
+The Google Play billing service is currently unavailable.
+Uninstalling without Clean Tool may not remove this security threat completely.
+has been successfully removed. However, you mobile device is still at potential risk.
+Connect to the Internet to get the most current information.
+What is Trend Micro Mobile Security Personal Edition?
+* Text blocking feature is not available on Android 4.4 (KitKat).
+Does Trend Micro Mobile Security Personal Edition work without connecting to the network?
+Call &hisoft Text Blocking: to block unwanted calls and text messages*.
+Why do I need a Trend Micro account?
+A Trend Micro account is required for the following features:
+Backup &hisoft Restore: to securely upload and download the data from the backup server.
+The network connection is required for creating or signing in to a Trend Micro account.
+Activating your Trend Micro Mobile Security enables you to use the following premium features:
+How can I transfer protection from another device to this mobile device?
+To transfer protection from another device to this device:
+Connect this device to the Internet and sign in to your Trend Micro account.
+Why do I need an alternate email address and how can I set it?
+Can I install this app on more than one mobile devices?
+How can I remove the Trend Micro icon from the notification bar?
+If my mobile device is locked, how could I unlock it?
+How can I disable Trend Micro Mobile Security?
+How can I uninstall Trend Micro Mobile Security?
+If you have any trouble installing the app, tap here.
+Copyright © Trend Micro Incorporated. All rights reserved.
+Protect your Android and iOS devices from loss, theft and infection.
+Visit or search Google Play for Trend Micro Mobile Security to install the app.
+* If you have trouble installing the app from Google Play or the Amazon Appstore,
+Visit or search the Amazon Appstore for Trend Micro Mobile Security to install the app
+Scan the QR Code with your mobile device.
+Email the download link to your mobile device.
+On which device do you want to install Trend Micro Mobile Security?
+Click Buy Now to upgrade to the paid version.
+Copyright © 2011-2012 Trend Micro Incorporated.All rights reserved.
+Copyright © 2011-2012 Trend Micro Incorporated.All rights reserved.
+Track your missing mobile device on the map using GPS orwireless networks.
+Track your missing mobile device on the map using GPS orwireless networks.
+Permanently delete all of the data stored on yourmissing mobile device.
+Permanently delete all of the data stored on yourmissing mobile device.
+To keep protecting your mobile device, please renew yourservice now.
+To keep protecting your mobile device, please renew yourservice now.
+To keep protecting your mobile device, please buy theservice now.
+To keep protecting your mobile device, please buy theservice now.
+The service is temporarily unavailable. Please try againsoon.
+The service is temporarily unavailable. Please try againsoon.
+From the Option list, clickContent.Select EnableJavascript.ClickAdvanced.Select all theoptions.Click OK.
+Select Tools >Options.From the Security tab, click Customlevel.Scroll down to the Active scriptingsection and select Enable.ClickOK.
+Select Tools >Options.From the Security tab, click Customlevel.Scroll down to the Active scriptingsection and select Enable.ClickOK.
+Provide an email address you can access on your mobiledevice
+Provide an email address you can access on your mobiledevice
+The text does not match the displayed characters. Theletters are case-sensitive. Please try again.
+Makes it easy to locate, lock or wipe a missing mobiledevice.
+Protect your device from loss, datatheft, and more.
+Do you want to create an easy access link to this portalon your mobile device?
+Mozilla FirefoxFrom the Option list, click Content.Select Enable Javascript.Click Advanced.Select all the options.Click OK.
+Mozilla FirefoxFrom the Option list, click Content.Select Enable Javascript.Click Advanced.Select all the options.Click OK.
+To continue the renewal process, please sign in again by selecting [Settings] -> [Sign out].
+Please uninstall all previous versions of Trend Micro Mobile Security before using this version.
+You can still activate the premium subscription later by tapping \\" on the main screen.
+You can still activate the premium subscription later by tapping \\" on the main screen.
+Please try again to provide the correct password.
+Trend Micro Mobile Security keeps you safe by automatically scanning for privacy risks and threats.
+To get protection, please sign into your Trend Micro account by tapping Menu and selecting Settings.
+You can remotely delete your contacts, call history, text messages, account information, and SD card content.
+If you lose this device, you will use the name above to identify it here:
+Locks this device if someone changes or removes the SIM card
+Thanks for finding my device! Please contact me at [email address]
+This activates the device administrator so you can remotely delete all data from a lost device.
+No keywords added. Annoying Message Protection now disabled.
+Please confirm that you want to delete all of the contacts.
+Prevent unauthorized uninstallation by activating \"Uninstall Protection\" (uses device administrator permission).
+Please confirm that you want to delete all websites from the list.
+Please type your Trend Micro account password to confirm that you want to make this change.
+Your subscription has expired. Please renew now to use the premium features.
+You can try the premium features for days
+Privacy Scanner warns you about apps that could potentially steal private information or aggressively show advertising.
+This app could potentially steal private information from your mobile device.
+Trend Micro will use an online database to check new apps for threats
+You must connect to the Internet to start this scan
+Unable to Connect Online to Start the Scan
+You must connect to the Internet to start a privacy scan.
+The apps listed below collect private information or behave unusually.
+The scan could not show complete results due to a network error.
+You have added what you selected to the Trusted List.
+You have added everything to the Trusted List.
+The app is not installed or added to the Trusted List.
+All history records will be added to the Trusted List. Please confirm.
+Sends out your specific current location and could potentially track where you go.
+Accesses and sends out audio files recorded from your microphone, which could compromise your privacy.
+Accesses and sends out photos taken by your camera, which could compromise your privacy.
+Accesses and sends out your text messages, which could compromise your privacy.
+Sends out account information stored on your mobile device, which could compromise your privacy.
+Collects potentially sensitive information, like passwords, by capturing what you type on your screen.
+Sends out potentially sensitive information about your music, videos, and photos.
+Collects potentially sensitive information from your text and multimedia messages.
+Collects the list of calls you have made, which could compromise your privacy.
+Collects potentially sensitive information about your music, videos, and photos.
+Collects potentially sensitive information about the websites you have opened with your mobile browser.
+Deletes text or multimedia messages without asking first.
+Displays a phone number for you to call without warning or explanation.
+Accesses your microphone to create audio files that could compromise your privacy.
+Tries to make you give permission to install more apps.
+Inserts an advertisement on your home screen that may open a website.
+May change what your mobile browser will display whenever it opens.
+Tries to get your attention with surprise notifications.
+Shares traits with other apps that have a malicious intent.
+Seems camouflaged to obfuscate its actual origin or purpose.
+Includes the addresses of websites that you should avoid.
+Could transmit text messages for the benefit of the app without your knowledge.
+Includes codes for potentially sending text messages without your knowledge.
+Includes codes for potentially sending multimedia messages without your knowledge.
+Includes codes for potentially intercepting text messages without your knowledge.
+Apps with this level of access on a rooted device can do whatever they want.
+Mismatches between the file extension and the actual file may indicate a malicious file.
+Potentially unwanted apps may pose high risk or have untoward impact on your security and/or privacy.
+Please start the scan after the update in progress has finished.
+Please start the privacy scan after the threat scan in progress has finished.
+Please start the threat scan after the privacy scan in progress has finished.
+Please get the update after the scan in progress has finished.
+You have not yet finished receiving an update. Please wait a few moments...
+This device does not have enough space available to receive the update
+If you have already purchased an Activation Code, look for it in your order confirmation.
+You can still activate your subscription later by tapping \\" on the main screen.
+You can still activate your subscription later by tapping \\" on the main screen.
+Please renew your subscription to use these features.
+To continue the protection, please tap \\" to extend your subscription.
+To continue the protection, please tap \\" to extend your subscription.
+Disabling the Mobile Security administrator will disable the uninstall protection.\Do you still want to continue?
+Please enable this feature to use the Lost Device Protection feature.
+You can still use the Virus Scanner, but all the premium features will no longer work.
+To keep using the premium features, tap \\" to extend your subscription.
+To keep using the premium features, tap \\" to extend your subscription.
+You seem to have received a damaged file. Tap here to try again.
+You seem to have a connection problem. Tap here to try again.
+You had some trouble downloading the update. Tap here to try again.
+To clear the data, please reinstall Trend Micro Mobile Security.
+Please start installing the app after the scan in progress has finished.
+Please try to install the app after you have finished receiving the update now in progress.
+Network connection error. Check it and then try again.
+Easily back up and restore your data across different mobile devices.
+Ready to back up?Activate Backup & Restore now to keep your important data safe.
+You seem to have a problem with your network connection. Please try again later.
+You seem to have an invalid installation. Please reinstall Backup & Restore again.
+Install the app when you have finished downloading it.
+Add an email address to receive the unlock key
+You may use no more than three email addresses
+You will send a log file which recorded the problems found to Trend Micro.
+Please provide the token number above when you contact Trend Micro customer support.
+Trend Micro Mobile Security stopped unexpectedly. Do you want to send a report to Trend Micro?
+Sign in or create a Trend Micro account
+Please connect through Wi-Fi to the Internet and try again.
+You can only use the unlock key once.
+You can now start using Lost Device Protection.
+Ever thought of what might happen to your personal data if you lost your mobile device?
+You will find this security feature so easy to use. Try it now!
+Sign in or create an account to get full protection
+Ever wonder what your kids see when they go online?
+To enable the Google service, please set up a Google account on this device.
+Checks every installed app for threats using a constantly-updated online database.
+Stops apps from threatening your privacy using a constantly-updated online database.
+Blocks risky or unwanted websites and limits what your children can see and do online.
+Get help from Trend Micro experts via the Internet.
+Helps your battery last longer, improves performance by optimizing memory, and cleans out old unnecessary files.
+Find My Android can help you find this device if you lose it.
+Collect problem logs and send to Trend Micro
+Display the app icon on the status bar
+View and manage subscriptions connected to your account
+Make sure that your device can reach the Internet and try again.
+The Market billing service did not respond. Please try another way to extend your protection.
+The Market billing service did not respond. Please try again later.
+Do not use mobile network for auto updates
+Please confirm that you want to delete all of the history records.
+Visit the website to locate, start a scream, wipe, or lock a lost device
+Use a key instead of a password to unlock this device.
+Please wait 30 seconds before trying to send it again.
+Trend Micro sent an unlock key to your email address.
+Provide your activation code or serial number below
+You cannot use this activation code in your current location.
+You cannot use this activation code on this device.
+This activation code has expired or someone has used it already. Please provide another.
+Set up an account to get full protection
+Tap here and go to Settings to sign into your Trend Micro account.
+Tap the Menu key and go to Settings to sign into your Trend Micro account.
+Restart your mobile device to use this feature.
+Enable the Real-Time Scan to regain protection now
+Unable to reach the Google service. Try again later.
+Sign into your Trend Micro account to activate this feature
+You can now find, lock, or wipe the data off a lost device
+Download this app for free to back up and restore your data more easily
+Back up your data now for your protection
+You must sign into Facebook before checking for privacy concerns
+memory already in use. Tap to make improvements.
+Do you really know who can see what you share on Facebook™?
+You can now scan your Facebook™ privacy settings.
+Trend Micro found a problem with your installation of the app. Please install Privacy Scanner again.
+Does Trend Micro Mobile Security help you feel safer?
+This feature can help find your mobile device if necessary.
+Purchase or activate your subscription now to protect your device and data.
+Activate your subscription now to protect your device and data.
+Unable to reach the Google Play billing service right now. Please try again later.
+You must download the Trend Micro Clean Tool to remove this security threat completely.
+Uninstalling without using the Clean Tool may not completely remove this security threat.
+has been successfully removed, but you mobile device remains at risk.
+This app seems malicious. Stop installing it to keep your device and data safe.
+I trust this app and want to download it.
+Enabling this feature will help you check apps for security risks before they reach your device.
+Unable to Reach the Trend Micro Virtual Private Network
+Either way, making some simple changes can solve the problem.
+You cannot use this feature because this device cannot connect to the Trend Micro VPN.
+Check your Facebook privacy so you can know exactly who sees what you share
+To enhance your privacy, tap a concern below and change the setting.
+Enable a Wi-Fi or data connection to check your privacy settings.
+Unable to update your privacy settings. Please try again.
+Unable to get your privacy settings. Please try again.
+Trend Micro will soon support even more devices. Please check again soon.
+To get notifications from Trend Micro, sign into your Google account.
+Before using Trend Micro Privacy Scanner, please accept the following license agreement.
+The start and stop times are the same.
+You can change none of the Just-a-Phone options.
+You can change none of the Power Saver options.
+Smart Power Saver automatically changes Wi-Fi, 3G/4G, and Bluetooth connections to save power.
+I still want to receive instant messages and email
+Love this app? Take a moment to rate it.
+activate your product with Serial Number or Activation Code.
+Trend Micro Mobile Security - Personal Edition Activated
+Trend Micro Mobile Security - Personal Edition License Transferred
+Trend Micro Mobile Security - Personal Edition Retrieve UnlockKey
+Thanks for choosing Trend Micro Mobile Security - Personal Edition
+This email will be used to signin and manage your subscription.
+Thank you for purchasing to protect your mobile device . Your subscription details are shown below:
+If you have any question about your Activation Code or subscription, please contact your service provider.
+You have successfully transferred a license for from mobile device to mobile device .
+The protection has now been enabled on mobile device . Your subscription details are shown below:
+You cannot use this account to sign in.
+You cannot use this serial number to activate Mobile Security.
+Manage apps and files on your mobile device
+Please tap the top-right detail setting icon and then tap \"Uninstall for all users\".
+Moving this app to SD card will disable the autostart.
+Moving this app to SD card will disable the widget and autostart.
+Unable to load all the files, due to insufficient memory. Displaying files only.
+Sign in with your Trend Micro Account to get full protection and manage your subscription.
+Do you want to delete the file \\"?
+Do you want to delete the file \\"?
+Please sign into your Trend Micro Account to start using Mobile Security.
+Nothing available because you haven\'t used any app after installing Mobile Security.
+To sort your apps by usage time(last used), do the following:
+Return to Mobile Security to see this list
+Trend Micro scanned this app, and everything looks good.
+Go to \"Settings > Wi-Fi(or WLAN)\" to change your Wi-Fi connection.
+Go to \"Settings > Wi-Fi(or WLAN)\" to select a Wi-Fi connection.
+You can Click \"Cancel\" to continue using free virus scanner.
+Or Click \"Buy / Activate\" to buy your preminum feature.
+Try out Mobile Security for free, with all of its premium features.
+Trend Micro will use the following email address for identification purposes:
+You can opt out at any time from the app.
+Mobile Security needs permissions before you can use all of the Lost Device Protection features.
+Lost Device Protection cannot fully protect your device
+Mobile Security needs permissions to use this feature.
+Turn on Accessibility for Mobile Security to allow SafeSurfing to protect against malicious websites.
+Allow Mobile Security permission to access your Storage to use this feature
+Your apps info will be sent to Trend Micro for deep scanning.
+Enable Mobile Security Accessibility to protect your Surfing safe
+Turn on Accessibility for Mobile Security to stay protected from malicious websites.
+Turn on Usage Access for Mobile Security to protect your device.
+Mobile Security needs more permissions to fully protect your device.
+Allow Mobile Security permission to access your Storage before running a scan.
+Free memory less than . Tap here to optimize
+Please do not use the following special characters:< > &
+Confirm your email address and set a password.
+Mobile Security needs more permissions to fully protect your device
+Create a Trend Micro Account to get additional support and enjoy extra features.
+Allow Mobile Security permission to access your Telephone to use this feature.
+Allow Mobile Security permission to access your Contacts to use this feature.
+Allow Mobile Security permission to access your SMS to use this feature.
+Allow Mobile Security permission to access your Telephone to use Call Blocking.
+You can still activate the premium subscription later by tapping \"\" on the main screen.
+To resolve the issue, remove some apps or restore the device to factory settings.
+This list will also be used for Messenger Protection.
+Turn on Real Time Scanning for automatic protection
+This app may threaten your security or privacy.Tap Uninstall to remove this app from you device.
+Apps which have vulnerabilities may leave devices open to attack.
+Vulnerabilities are security weaknesses which may leave devices open to attack.
+Turn on Usage for Mobile Security to protect against fake financial and shopping apps.
+Turn on Accessibility for Mobile Security to protect against malicious websites
+Mobile Security needs permissions turned on to fully protect your device
+Limit what your children can see and do online.
+You can find or lock a lost device, or wipe off the device data
+Stops Mobile Security from being uninstalled without authorization
+Connect to Internet to run Scan from Cloud
+Unable to Connect Online to start the scan
+Complete results not shown because of a network error.
+Seems to be disguised to hide its actual origin or purpose.
+Not enough space available to receive the update
+You can still activate your subscription later by tapping \"\" on the main screen.
+Disabling the Mobile Security administrator will end Uninstall Protection. Do you still want to continue?
+Turn this feature on to use Lost Device Protection.
+To keep using the premium features, tap \"\" to extend your subscription.
+Unable to connect. Tap here to try again.
+Unable to download update. Tap here to try again.
+Please reinstall Trend Micro Mobile Security to clear data.
+Please wait until the scan is complete, then install the app.
+Please wait until the update is complete, then install the app.
+Unable to connect. Please check your connection and try again.
+Ready to back up?Activate Backup &amp; Restore now to keep your important data safe.
+Unable to start Backup &amp; Restore. Please try again.
+Please wait until the app has downloaded, then reinstall.
+There is a limit of three email addresses
+A log file will be sent to Trend Micro.
+Unable to connect to Trend Micro. Please try again.
+Please check your email address and password, and try again.
+Please check your email address and try again
+The unlock key can only be used once.
+Turn on Google Service, please set up a Google account on this device.
+Alerts you to ransomware, malware and viruses, in addition to scanning for vulnerabilities and privacy risks.
+Lets you go online to find, lock, or wipe the data off a missing device.
+Helps your battery last longer, improves performance by optimizing memory, and removes unneeded files.
+Filters websites and allows you to lock your apps from unauthorized use.
+Turn on Location Services to allow you to find your device if it is lost.
+Visit Google Play or the Trend Micro website to regain protection.
+Turn on Uninstall Protection to stop the unauthorized uninstallation of Mobile Security.
+Off, allow permissions to turn on Uninstall Protection
+TMMS needs permissions. Tap to see how to fix them.
+Send a notification when the battery is less than 50%.
+Send a notification when the memory usage is over 80%.
+Make sure your device can connect to the Internet and try again.
+Mobile networks cannot be used for automatic updates
+Visit the website to turn on the alarm, or to wipe or lock a lost device
+Please activate Mobile Security with a different serial number.
+Please check your Internet connection and try again.
+Provide your Activation Code or serial number below
+Please check your Activation Code and try again.
+This Activation Code cannot be used in your current location.
+This Activation Code cannot be used for this device.
+Turn on Real Time Scan to restart protection
+call or text blocked during the last 
+call or text screened during the last 
+Facebook privacy concern fixed during the last 
+Turn on this feature to protect yourself when using Line and WhatsApp
+This app seems dangerous. Stop installing this app to keep your device and data safe.
+Turn on this feature to check apps for security risks before they reach your device.
+Unable to connect to the Trend Micro Virtual Private Network
+This feature requires that this device is connected to the Trend Micro VPN.
+Check your privacy on Facebook to know who sees what you share
+Connect to the Internet to check privacy settings.
+Please tap the top-right detail setting icon and then tap \"Uninstall for all users\".
+Moving this app to an SD card disables autostart.
+Moving this app to an SD card disables the widget and autostart.
+Do you want to delete the file \"\"?
+App Manager lets you remove unwanted files and apps.
+To sort apps by time last used, do the following:
+Go to \"Settings > Wi-Fi(or WLAN)\" to change your Wi-Fi connection.
+Go to \"Settings > Wi-Fi(or WLAN)\" to select a Wi-Fi connection.
+Allow Mobile Security permission to access your Telephone to use this feature
+Tap below to find out how to set permissions for Mobile Security to use Uninstall Protection.
+Please do not use the following special characters:< > &amp;
+Use only letters, numbers and the following special characters:@ . - _
+Messenger Protection alerts you to dangerous links when you use Line and/or WhatsApp. Select your app(s):
+The level you select here will also be used for SafeSurfing
+The level you select here will also be used for Messenger Protection
+To use this feature, install Line and/or WhatsApp
+To use Messenger Protection with , please install .
+Mobile Security scans incoming URLs for your protection when you use Line and WhatsApp.
+Please confirm that you want to delete all of the trusted Wi-Fi.
+Use App Lock and Website Filtering to help manage your child’s use of the device
+Mobile Security needs more permissions to use this feature
+app locked and the protection level is set to
+apps locked and the protection level is set to
+Requires the Apps with usage access permission and the Draw over other apps permission.
+Connect at least 4 dots. Please try again.
+Mobile Security will lock this app again when the screen turns off.
+To reset your pattern, enter your Trend Micro Account Password and tap OK.
+To reset your PIN, enter your Trend Micro Account Password and tap OK.
+You have reset your unlock method. To unlock your device, use your Trend Micro Account Password.
+Get here faster, use a pattern or PIN instead.
+App Lock is on. Locked apps require a password to open.
+Your unlock method is now your Trend Micro Account Password.
+Select an age to set the filtering rules
+Virus Scanner: to scan apps and files on your mobile device using the local virus definitions.
+Call &amp; Text Blocking: to block unwanted calls and text messages*.
+Go to Settings, and clear Display app icon on status bar.
+Sign in or register with Mobile Community to post your questions and get the technical support.
+Attackers could gain access to sensitive information or capabilities.
+Attackers could copy backup data saved by the app.
+Malware can use this error to attack your app.
+The app cannot protect some sensitive information because of poorly designed permissions.
+Other apps can connect to this debuggable one to read or modify its data.
+Attackers can gain access to sensitive information stored in a risky location.
+Attackers could exploit a security flaw to use the app in unintended ways.
+Secure protocols are ignored by the app, which destroys privacy and data integrity.
+This app poses a security risk because it stores data in vulnerable locations on the device.
+Because security protocols are not followed, there is the risk of information disclosures or attacks.
+Permissions are not used properly, which may allow attackers to take unauthorized actions.
+Vulnerabilities may allow unauthorized access to sensitive information.
+Attackers can use malicious SQL code to disclose, modify, or delete information in the app’s database.
+Attackers can modify the app to give it malicious capabilities.
+This app may threaten your privacy. Tap Uninstall to remove this app from your device.
+To continue your protection, please tap \"\" to extend your subscription.
+Your subscription to Trend Micro Mobile Security has
+All of the premium features will expire. Tap \"\" to extend your subscription.
+All of the premium features have expired. Tap \"\" to renew your subscription.
+Set up Safe Install to keep your device safe when installing apps from alternative app stores.
+Check the safety of apps downloaded from alternative app stores
+Mobile security need permission to use this feature
+To turn on Safe Install, choose \&apos;\&apos; and tap \&apos;\&apos;.
+Tap Cancel to stop the installation of this app.
+Please go to Security Scan and allow the storage permission in order to scan this app.
+I trust this app, so let me install this app
+Choose Normal to receive alerts for regular daily use, without notifications about minor risks.
+Choose High to receive alerts for apps that show any signs of fraud or danger.
+Choose Low to receive alerts only for apps confirmed as fraudulent or dangerous.
+To use Safe Install, tap \"Buy Now\" to extend your subscription.
+Please remove Okaeri and then try to set it up again.
+Please finish setting up the Okaeri app to continue using Trend Micro Mobile Security.
+Please install the Okaeri app to continue using Trend Micro Mobile Security.
+If the problem persists, please contact Trend Micro and mention this error code: 
+Please contact Trend Micro and mention this error code: 
+Please check your JewerlyBox or contact Trend Micro for help.
+Trend Micro needs to finish some important maintenance work right now.
+calls and texts blocked during the last 
+calls and texts screened during the last 
+Facebook privacy concerns fixed during the last 
+This feature is not available in Android N.
+Tap \"Cancel\" to use the free virus scanner.
+Use App Lock and Website Filtering to help manage your child\&apos;s use of the device
+Easily uninstall or learn more about your apps.
+Block dangerous websites and protect against unsecure WiFi.
+Manage what your children can see and do online.
+Find, lock, or wipe the data off of a missing device.
+Mobile Security needs permissions before you can use all of the System Tuner features.
+Attackers can use malicious SQL code to disclose, modify, or delete information in the app\&apos;s database.
+I have read and agree to the Trend Micro License Agreement.
+I have read and agree to the Trend Micro Personal Information Privacy Policy.
+Provides filtering for young adults between 14 and 18. More details
+Provides filtering for children between 10 and 13. More details
+Provides filtering for children 9 or younger. More details
+Found new risk in app update. Tap Uninstall to remove this app from your device.
+To continue your protection, please tap \"%1$s\" to extend your subscription.
+By extending your subscription, you agree to the Trend Micro License Agreement.
+All of the premium features will expire. Tap \"%1$s\" to extend your subscription.
+All of the premium features have expired. Tap \"%1$s\" to renew your subscription.
+To turn on Safe Install, choose \&apos;%1$s\&apos; and tap \&apos;%2$s\&apos;.
+Choose Normal to receive alerts for regular daily use,\n without notifications about minor risks.
+Choose High to receive alerts for apps that show any\n signs of fraud or danger.
+Choose Low to receive alerts only for apps confirmed\n as fraudulent or dangerous.
+Ready to back up?\\n\\nActivate Backup &amp; Restore now to keep your important data safe.
+Please sign in with your Trend Micro Account.
+Copyright (c) 2016 Trend Micro, Inc.\\nAll rights reserved.
+By extending your subscription, you also agree to the Trend Micro License Agreement.
+If the problem persists, please contact Trend Micro and mention this error code: %2$s
+Please contact Trend Micro and mention this error code: %2$s
+%1$s privacy risks fixed during the last %2$s
+%1$s privacy risk fixed during the last %2$s
+%1$s privacy risks fixed during the last %2$s
+%1$s risky sites blocked during the last %2$s
+%1$s risky site blocked during the last %2$s
+%1$s risky sites blocked during the last %2$s
+%1$s calls and texts blocked during the last %2$s
+%1$s call or text blocked during the last %2$s
+%1$s calls and texts blocked during the last %2$s
+%1$s calls and texts screened during the last %2$s
+%1$s call or text screened during the last %2$s
+%1$s calls and texts screened during the last %2$s
+%1$s Facebook privacy concerns fixed during the last %2$s
+%1$s Facebook privacy concern fixed during the last %2$s
+%1$s Facebook privacy concerns fixed during the last %2$s
+%1$d%% memory already in use. Tap to make improvements
+Want to Know More About the Find My Smart Phone Service?
+Please contact Trend Micro and mention this error code: %2$s.
+%1$s has been removed, but the device remains at risk.
+Just-a-Phone Mode shut down Wi-Fi on your device. \\n\\nDo you want to switch Wi-Fi back on?
+Switch off when the screen darkens after: %1$d min
+Switch off when the screen darkens after: %1$d mins
+Switch off if your device cannot connect after: %1$d min
+Switch off if your device cannot connect after: %1$d mins
+Switch on to check for a connection every: %1$d mins
+Would you like to rate us five stars?
+Not enough memory to load all files. Displaying %1$d files.
+Do you want to delete these %1$d files?
+Do you want to delete the file \"%1$s\"?
+Please do not use the following special characters:\\n< > &amp;
+Unable to activate. Please contact Trend Micro for help and mention this error code: %2$s.
+Use only letters, numbers and the following special characters:\\n@ . - _
+To use Messenger Protection with %1$s, please install %2$s.
+%1$d dangerous website blocked during the past %2$s.
+%1$d dangerous websites blocked during the past %2$s.
+%1$d Facebook privacy alert during the past %2$s.
+%1$d Facebook privacy alerts during the past %2$s.
+* Text Blocking is not available on Android 4.4 (KitKat) and later.
+System Tuner: helps you optimize memory and battery life.
+App Manager: allows you to easily uninstall or learn more about your apps.
+App Lock: helps you manage who can use the apps on your device.
+Call &amp; Text Blocking: blocks unwanted calls and text messages*.
+Why do I need a Trend Micro Account?
+A Trend Micro Account is required for the following features:
+A network connection is required for creating or signing into a Trend Micro Account.
+Activating Trend Micro Mobile Security allows you to use the following premium features:
+How can I transfer protection to this mobile device from a different device?
+Connect this device to the Internet and sign into your Trend Micro Account.
+Why do I need an alternate email address and how can I set it up?
+Can I install this app on more than one mobile device?
+Go to Settings, and clear Display app icon on status bar.
+If my mobile device is locked, how do I unlock it?
+Attackers can use malicious SQL code to disclose, modify, or delete information in the app\'s database.
+You can still activate the premium subscription later by tapping \"\" on the main screen.
+Fake apps trick users into installing them by using real companies 
+Apps which include threats pose a risk to your safety. 
+Potentially unwanted applications are installed in devices and may 
+Ransomware locks you out of your device or prevents you 
+Apps which pose a privacy risk may be secretly attempting to 
+To view the rest of the scan results, please buy or activate your 
+You can still activate your subscription later by tapping \"\" on the main screen.
+All of the premium features will expire. Tap \"\" to extend your subscription.
+All of the premium features have expired. Tap \"\" to renew your subscription.
+When you download apps from alternative stores, Trend Micro checks them for security 
+To turn on Safe Install, choose \'\' and tap \'\'.
+Choose Normal to receive alerts for regular daily use, 
+Choose High to receive alerts for apps that show any 
+Choose Low to receive alerts only for apps confirmed 
+To use Safe Install, tap \"Buy Now\" to extend your subscription.
+An Internet connection is required to run Scan from Cloud. Please check your Internet 
+Log file sent to Trend Micro. Token number: .
+Send a notification when the battery is less than 50%.
+Send a notification when the memory usage is over 80%.
+calls and texts blocked during the last 
+call or text blocked during the last 
+calls and texts blocked during the last 
+calls and texts screened during the last 
+call or text screened during the last 
+calls and texts screened during the last 
+Facebook privacy concerns fixed during the last 
+Facebook privacy concern fixed during the last 
+Facebook privacy concerns fixed during the last 
+memory already in use. Tap to make improvements
+has been removed, but the device remains at risk.
+Power below . Set up Power Save Mode.
+Switch off when the screen darkens after: min
+Switch off when the screen darkens after: mins
+Switch off if your device cannot connect after: min
+Switch off if your device cannot connect after: mins
+Switch on to check for a connection every: mins
+Your device has extra battery time of .
+Not enough memory to load all files. Displaying files.
+Do you want to delete the file \"\"?
+Go to \"Settings > Wi-Fi(or WLAN)\" to change your Wi-Fi connection.
+Go to \"Settings > Wi-Fi(or WLAN)\" to select a Wi-Fi connection.
+Tap \"Cancel\" to use the free virus scanner.
+Once you have , please return to Mobile Security.
+Please do not use the following special characters: &
+Use only letters, numbers and the following special characters:@ . - _
+To use Messenger Protection with , please install .
+Use App Lock and Website Filtering to help manage your child\'s use of the device
+app locked and the protection level is set to
+apps locked and the protection level is set to
+Thanks for finding my device! Please contact me at :[email address]
+Tap Start, then follow the instructions that appear.
+Security Scan uses threat based intelligence to check apps for safety
+Requires the Accessibility permission and the Draw over other apps permission.
+Tap below to open App Freeze, which can Force Stop selected apps, and clear memory.
+Below apps are running. You can rest assured that optimization of all of the below apps.
+Secret Snap will send a notification to the following email when a photo is taken:
+Requires the Camera and Storage permission for Mobile Security
+Encrypt data can help you to protect your privacy information
+Contact the manufacturer of your device to fix this issue.
+Your Trend Micro Maximum Security license was updated.
+You can find or lock a lost device, or wipe off the device data.
+Lock your device screen to help protect your data.
+Tap to return to the home screen. Scanning will continue.
+Allow all permissions to let Mobile Security fully protect your device.
+More than of memory is being used.Optimize now.
+Turn this off to prevent malicious USBs from accessing your data without permission.
+You are now ready to find, lock or wipe the data off a lost device
+Files not removed. Please tap Start and follow the instructions to try again.
+Allow all app permissions to fully protect your mobile device and your data.
+Turn on Notification access for Mobile Security so your apps can be scanned in real time.
+Sign into your Trend Micro Account to activate this feature
+Turn on Find My Android to enhance your protection
+Turn on Secret Snap to enhance your protection
+Turn this off to prevent dangerous apps from being installed on your device.
+Copyright (c) 2017 Trend Micro, Inc.All rights reserved.
+Fake apps trick users into installing them by using real companies
+Potentially unwanted applications are installed in devices and may
+Ransomware locks you out of your device or prevents you
+Apps which pose a privacy risk may be secretly attempting to
+To view the rest of the scan results, please buy or activate your
+When you download apps from alternative stores, Trend Micro checks them for security
+Choose Normal to receive alerts for regular daily use,
+Choose High to receive alerts for apps that show any
+Choose Low to receive alerts only for apps confirmed
+An Internet connection is required to run Scan from Cloud. Please check your Internet
+%% memory already in use. Tap to make improvements
+Just-a-Phone Mode shut down Wi-Fi on your device. Do you want to switch Wi-Fi back on?
+Please do not use the following special characters:< > &#038;
+Use only letters, numbers and the following special characters:&#064; . - _
+app locked and the protection level is set to&#160;
+apps locked and the protection level is set to&#160;
+More than %% of memory is being used.Optimize now.
+Turn on this feature to protect yourself when using Facebook Messenger, Line and WhatsApp
+To sort apps by size or time last used, do the following:
+To use this feature, install Facebook Messenger, Line and/or WhatsApp
+Mobile Security scans incoming URLs for your protection when you use Facebook Messenger, Line and WhatsApp.
+Thanks for finding my device! Please contact me at: [email address]
+Allow Mobile Security permission to access your Storage to use this feature.Tap to change settings.
+Lost device protection required you sign in Trend Micro Account before you enable this feature
+Requires the Accessibility permission for Mobile Security.Tap to change settings.
+Requires the Accessibility permission and the Draw over other apps permission.Tap to change settings.
+Allows Mobile Security to remotely delete data from a lost device
+Camera, Contacts, Location, Phone, SMS, and Storage permissions required
+Remotely deletes all SD card data from a lost device
+Collect logs needs the following permission to collect logs to send to Trend Micro.
+System Tuner needs the following permissions to optimize your device.
+Ensures you can answer the phone when running App Freeze
+App Manager needs the following permission to remove unwanted files and apps.
+Allows Mobile Security to access your SD card
+Allows Mobile Security to check for dangerous links
+Network protection need below permission to block dangerous websites and protect against unsecure WiFi.
+Call Blocking needs the following permission to block unwanted phone calls.
+Scan Memory Card needs the following permission to scan your memory card
+Allows Mobile Security to access the memory card
+Allows Mobile Security to delete data from the SD card
+Files not moved. Please tap Allow Now to try again.
+Turn on this feature to protect yourself when using instant messaging apps
+Allow Mobile Security permission to access your Phone to use this feature
+Messenger Protection alerts you to dangerous links when you use below apps:
+To use this feature, install instant messaging apps
+Mobile Security scans incoming URLs for your protection when you use instant messaging apps.
+Mobile Security needs Location, Phone, Contacts, Storage, Camera, SMS permission to fully protect your device
+Requires the Camera and Storage permission for Mobile Security.Tap to change settings.
+Mobile Security needs the Accessibility permission for the following features:
+Allow Mobile Security permission to access your Phone to use Call Blocking. Tap to change settings.
+Messenger protection needs the following permission to check instant messages for dangerous links.
+Send a notification when the battery is less than .
+SD Card Lock needs the following permission to delete the data from a device.
+Attackers can gain access to sensitive information stored in a risky location.
+Sends out account information stored on your mobile device, which could compromise your privacy.
+Collects potentially sensitive information, like passwords, by capturing what you type on your screen.
+Inserts an advertisement on your home screen that may open a website.
+Apps with this level of access on a rooted device can do whatever they want.
+You can still activate the premium subscription later by tapping \"\" on the main screen.
+To get protection, please sign into your Trend Micro account by tapping Menu and selecting Settings.
+To resolve the issue, remove some apps or restore the device to factory settings.
+This activates the device administrator so you can remotely delete all data from a lost device.
+This app may threaten your security or privacy.Tap Uninstall to remove this app from you device.
+This app may threaten your privacy. Tap Uninstall to remove this app from your device.
+Fake apps trick users into installing them by using real companies
+Found new risk in app update. Tap Uninstall to remove this app from your device.
+Please start the scan after the update in progress has finished.
+Please start the privacy scan after the threat scan in progress has finished.
+Please start the threat scan after the privacy scan in progress has finished.
+Please get the update after the scan in progress has finished.
+You can still activate your subscription later by tapping \"\" on the main screen.
+Disabling the Mobile Security administrator will end Uninstall Protection. Do you still want to continue?
+When you download apps from alternative stores, Trend Micro checks them for security
+Please provide the token number above when you contact Trend Micro customer support.
+Sign in with your Trend Micro account to get full protection and manage your subscription.
+Turn on Google Service, please set up a Google account on this device.
+This Activation Code cannot be used in your current location.
+Sign into your Trend Micro Account to activate this feature
+Your purchased protection will be immediately activated on this device. Do you want to continue?
+Just-a-Phone Mode shut down Wi-Fi on your device. Do you want to switch Wi-Fi back on?
+Manage apps and files on your mobile device
+Please sign into your Trend Micro Account to start using Mobile Security.
+Sign in with your Trend Micro Account to get full protection and manage your subscription.
+Mobile Security scans incoming URLs for your protection when you use instant messaging apps.
+Block dangerous websites and protect against unsecure WiFi.
+Contact the manufacturer of your device to fix this issue.
+Turn this off to prevent dangerous apps from being installed on your device.
+Allows Mobile Security to remotely delete data from a lost device
+Remotely deletes all SD card data from a lost device
+System Tuner needs the following permissions to optimize your device.
+SD Card Lock needs the following permission to delete the data from a device.
+Want to protect this device using your existing license?
+You are not connected to a Wi-Fi network.
+VPN is on and protecting you from security risks found on .
+Suspicious interference. Your data or privacy could be at risk.
+Use Trend Micro VPN to protect this device even while connected to an unsecured Wi-Fi network.
+is currently in the Approved List, but has security issue.
+Connect the Wi-Fi network to the Internet to check the safety of all security items.
+Unable to check due to an Internet connection issue.
+We recommend that you connect to a different network.
+Security issues found on . Your data and privacy could be at risk.
+Your data and privacy will be properly secured even while connected to an unsecured Wi-Fi network.
+Are you sure you want to remove from your Approved List?
+Requires the Location permission. Tap to change settings.
+Network Protection needs the following permissions to block dangerous websites and protect against unsecured Wi-Fi networks.
+If this Wi-Fi network is unsecured, you will receive notifications when this device connects to it.
+If any Wi-Fi network is unsecured, you will receive notifications when this device connects to it.
+Security risks found on the connected Wi-Fi network.
+Immediately switch to a secured Wi-Fi/ 3G/ 4G connection.
+Do not use an unsecured Wi-Fi for sending personal information.
+Turn on two-factor authentication for your web accounts if available.
+Stop apps running in the background to improve your device performance.
+Protect your device from dangerous links sent on messaging apps.
+Your data and privacy could be at risk.
+I have read and agree to the Trend Micro License Agreement.
+I have read and agree to the Trend Micro Personal Information Privacy Policy.
+Please see our Privacy Policy for more information.
+Note: Annoying calls come from unknown numbers and disconnect within three seconds
+Provides filtering for young adults between 14 and 18. More details
+Provides filtering for children between 10 and 13. More details
+Provides filtering for children 9 or younger. More details
+Apps which include threats pose a risk to your safety.
+By extending your subscription, you agree to the Trend Micro License Agreement.
+Please sign in with your Trend Micro Account.
+By extending your subscription, you also agree to the Trend Micro License Agreement.
+<![CDATA[]]> risky site blocked during the last 
+<![CDATA[]]> risky sites blocked during the last 
+<![CDATA[]]> call or text blocked during the last 
+<![CDATA[]]> calls and texts blocked during the last 
+<![CDATA[]]> call or text screened during the last 
+<![CDATA[]]> calls and texts screened during the last 
+<![CDATA[]]> Facebook privacy concern fixed during the last 
+<![CDATA[]]> Facebook privacy concerns fixed during the last 
+Want to Know More About the Find My Smart Phone Service?
+Please contact Trend Micro and mention this error code: .
+Unable to activate. Please contact Trend Micro for help and mention this error code: .
+We recommend that you connect to a different network.
+Use Trend Micro VPN to protect this device even while connected to an unsecured Wi-Fi network.
+is currently in the Approved List, but has security issue.
+Your data and privacy will be properly secured even while connected to an unsecured Wi-Fi network.
+Certain features available in Trend Micro products collect
+Please review our Privacy Policy and Data Collection Notice.
+By installing this app, you accept the terms of the Trend Micro License Agreement.
+Protect your device from fraud, scams,cryptocurrency miners, and malicious websites.
+Notify me when the battery is less than charged
+Notify me when 80% of the memory is used
+Apps which include threats pose a risk to your safety.
+Please sign in with your Trend Micro Account.
+Notify me when the battery is less than charged
+call or text blocked during the last 
+calls and texts blocked during the last 
+call or text screened during the last 
+calls and texts screened during the last 
+Facebook privacy concern fixed during the last 
+Facebook privacy concerns fixed during the last 
+Turn on this feature to filter out explicit or unwanted websites.
+System Tuner has gained of memory on this device.
+Wi-Fi Checker needs the following permissions to protect against unsecured Wi-Fi networks.
+Protect your device from dangerous links in messaging apps or browsers.
+The password should have between 8 and 50 characters.
+Add more random letters, numbers, and symbols to make your password stronger.
+To keep your password secure, do not share it with others or online.
+Tap this slider to turn off the VPN for the selected apps.
+Select more apps to make them even safer.
+Ask Trend Micro to review this site (if you consider it safe)
+Someone who cares about you has decided that you may not open this page.
+SafeSurfing needs the following permissions to block dangerous websites.
+You will be notified about suspicious links when using the selected apps from the list below.
+Turn on SafeSurfing to make Website Filter better.
+Apps in the VPN Supported Apps list are not currently protected by SafeSurfing.
+Allow the Accessibility permission to turn SafeSurfing on again.
+Mobile Security needs the Accessibility permission for the following features:
+Security risks found on . Tap to see details.
+Security risks found on the trusted Wi-Fi .
+Turn on this feature to check if a Wi-Fi network is safe.
+Apps in the VPN Supported Apps list are now protected by SafeSurfing again.
+The reject call action is incompatible with your current device OS.
+Requires the Apps with usage access permission. Tap to change settings.
+Lists all the apps you last used and their size
+The following table explains the two Full Disk Encryption agents for third-party product encryption management.
+For information about all available agents, see .
+plug_in_prog_parent_program includes a framework called Plug-in Manager that integrates new solutions into the existing plug_in_prog_parent_program environment.
+None of the plug-in solutions currently support IPv6.
+Some native plug_in_prog_parent_program features are licensed separately and activated through Plug-in Manager.
+Plug-in programs are not part of the plug_in_prog_parent_program program.
+The plug-in programs have separate licenses and management consoles.
+Access the management consoles from within the plug_in_prog_parent_program web console.
+Refer to specific plug-in program documentation for details on configuring and managing the program.
+Deploy server connection settings to trend_client_program_plural to enable client_computer_single-server communication.
+Use the Summary screen to check client_computer_single installation status and version numbers.
+Use the Logs screen to check logs about client_computer_single installation and server setting deployment.
+provides granular policy controls and flexibly integrates with other management tools, including and .
+Once deployed, automated reporting, auditing, and policy synchronization with PolicyServer simplifies endpoint security management.
+For information about , see the supporting documentation at:
+Every group in PolicyServer MMC contains one or more policy folders.
+The right pane shows the results window, which provides controls to:
+Display a list of policies and their values
+For information about the PolicyServer MMC interface, see .
+In Windows, go to the Full Disk Encryption installation directory.
+The default location is C:\Program Files\Trend Micro\Full Disk Encryption\.
+Specify the user name and password, then click Login.
+Recovery Console opens to the Manage Disks page.
+Accessing the Recovery Console from Full Disk Encryption Preboot
+By default, only Administrator and Authenticator accounts may access the Recovery Console.
+To allow other users to access the Recovery Console, enable user recovery from your management console.
+Three items are required to enable PolicyServer AD synchronization:
+A PolicyServer group configured to point to one or more valid AD organizational units (OUs).
+Appropriate credentials to access the AD domain that match the PolicyServer group's distinguished name.
+During synchronization, PolicyServer is updated to reflect current users and group assignments for paired groups.
+This prevents overriding the your action for this user.
+PolicyServer supports Active Directory (AD) synchronization for a configured PolicyServer group.
+Synchronization will automatically add and remove AD users from configured PolicyServer groups.
+The following table explains the options available when adding a new user.
+Specify the account user name that the user uses to authenticate.
+A locked account cannot log on to devices.
+For more information about user roles, see .
+Select Yes to only allow the user to belong to one policy at a time.
+The user may not be added to any other policy groups.
+Select the authentication method available to the user.
+Each device can belong to only one group.
+In the left pane, expand the desired policy group and click Devices.
+In the right pane, right-click the whitespace and select Add Device.
+If there is a match, the Source field populates with devices.
+Select applicable devices from the Source field, then click the blue arrow to add them.
+Click Apply to add the device to the selected group.
+The following procedure explains how to add new users to the Enterprise.
+Adding a new user to the Enterprise does not assign the user to any groups.
+To access Enterprise Users, do one of the following:
+Expand the Enterprise, expand the group, then open Users.
+Right-click the white space in the right pane and select Add User.
+Specify the user name for the new user account (required).
+Specify the first name for the new user account (required).
+Specify the last name for the new user account (required).
+Specify the employee ID for the new user account (optional).
+Select whether to temporarily disable the new user account (optional).
+While frozen, the user is unable to log on to devices.
+It is not possible to add Enterprise Administrator or Authenticator accounts to groups.
+Select whether the new user account is allowed to be a member of multiple group policies.
+Select the method that the new user account uses to log on to devices.
+The default authentication method for users is None.
+The user cannot log on to devices until the user account is added to a group.
+Click the to the right of the last named tab.
+Specify a name for the Title of the new tab.
+Select the radio button for the appropriate layout style.
+Select Auto-fit On to make the height all widgets on the tab consistent.
+The new tab is added to the right of existing tabs.
+If the Group User Type selection is User, the default authentication method is None.
+Right-click a group in the left pane tree structure, and then click Add.
+The new group is added to the tree structure inside the Top Group.
+Do not select this option if all devices are 5.0 and later.
+A user can be a member of multiple groups.
+Expand the group in the left pane, then click Users.
+Go to the right pane and right-click the whitespace, then select Add Existing User.
+The Source field populates with any accounts that match the search criteria.
+Select users from the Source list and click the blue arrow to add them.
+The selected user moves to the Destination list.
+Click Enter User Password located at the bottom of the window.
+In the window that appears, specify the user’s authentication method.
+Click Apply to close the Change Password window.
+Adding PolicyServer as a Managed Product to Control Manager
+To perform additional configuration, see the Administrator's Guide.
+has several options to add users to :
+Bulk import numerous users with a CSV file
+Use the External Directory Browser with Active Directory
+Specify the user name and password, then confirm the password.
+Select the authentication method from the Authentication Type drop-down list.
+The new user appears in the User List and a confirmation window appears.
+After adding widgets to a tab, drag-and-drop the widgets to various locations within the tab.
+Click the Add Widgets at the upper right corner of the tab.
+Use the search bar to select a specific widget.
+All selected widgets are added to the tab.
+Add a single selected item to Destination field.
+Add all found items based on search criteria to Destination field.
+Remove a single selected item from Destination field.
+The following table explains the policies governing PolicyServer MMC.
+Exit the administration tool after the Timeout (minutes) has expired with no activity.
+Lockout the administrator logon after this number of consecutive failed log on attempts.
+Admin User locked due to too many failed logins.
+Policy request aborted due to failed policy integrity check.
+File request aborted due to failed policy integrity check.
+A response to one of the personal challenge questions was incorrect.
+The number of users has exceeded the maximum allowed by this license.
+Reduce the number of existing users to restore this user account.
+The following table explains policies governing PolicyServer Group Administrator privileges.
+Specify whether the Group Administrator is allowed to add devices.
+Specify whether the Group Administrator is allowed to add new users.
+Specify whether the Group Administrator is allowed to add new users to the enterprise.
+Specify whether the Group Administrator is allowed to add/modify subgroups.
+Specify whether the Group Administrator is allowed to change policies.
+Specify whether the Group Administrator is allowed to copy and paste subgroups.
+Specify whether the Group Administrator is allowed to remove devices.
+Specify whether the Group Administrator is allowed to remove subgroups.
+Specify whether the Group Administrator is allowed to remove users.
+Specify whether the Group Administrator is allowed to remove users from the enterprise.
+keeps comprehensive logs and generates reports about events and updates.
+Use logs and reports to assess policy controls and to verify component updates.
+For more information about scanning, repairing, and authentication, see .
+For standard hard drives (not a self-encrypting drive), the following options are available:
+Launch File Explorer: Click to open a window that shows your file directory.
+You can copy files from your drive to an external storage device.
+The Recovery Tool will decrypt those files before adding them to the external device.
+recommends backing up your most important files this way.
+Cache All Users: Click to allow authentication without a network connection to PolicyServer.
+For self-encrypting drives (SED), the following option is available:
+Unlock SED: The Recovery Console performs one of the following actions depending on the disk configuration:
+includes different agents to perform specific encryption and authentication tasks.
+Before installing the agents, consult the following table for specific agent installation requirements.
+Each endpoint meets the minimum system requirements to install the intended agents.
+The boot drive of each endpoint has an unmodified MBR boot sector.
+For example, endpoints with multiple operating systems that include modified boot sectors are not supported.
+Each endpoint has network access and can communicate with PolicyServer during installation.
+The relevant agent installation packages are stored on each endpoint.
+PolicyServer is installed or upgraded to version .
+For environments using PolicyServer MMC, there is at least one top-level group configured.
+For environments using , there is at least one policy configured.
+The user account has permission to add devices to the group or policy.
+Enterprise administrator and authenticator accounts have device installation privileges.
+To give installation privileges to other user accounts, see .
+The installing Windows account has Local Administrator privileges.
+For automated deployments, the installing account for each endpoint must have Local Administrator privileges as well.
+If domain authentication/Single Sign-on is enabled, the user name matches the user name in Active Directory.
+The Active Directory password is used for authentication
+An automated software distribution tool is installed, such as SMS, SCCM, Tivoli, GPO, or LANDesk.
+Direct access to the endpoint hard drive is available for script deployment.
+Do not run deployment scripts from USB devices or from shared network drives.
+For help making installation scripts, use Command Builder and Command Line Helper.
+For environments using , the environment is ready for agent deployment through Plug-in Manager.
+For more information, see the OfficeScan Plug-in Online Help.
+Specify whether users are allowed to configure Wi-Fi policies on the device.
+Specify whether users are allowed to access system recovery utilities on the device.
+Specify whether users are allowed to uninstall Full Disk Encryption.
+Specify the name or SSID of the network.
+Ensure that the password meets the following length requirements:
+5 to 10 characters, or 10 to 26 hexadecimal [0-9][a-f] characters
+8 to 63 characters, or 64 hexadecimal [0-9][a-f] characters
+No authentication, WEP, WEP Open, WEP Shared, WPA2 Enterprise, WPA2 Personal, WPA Enterprise, WPA Personal
+Specify the user name if the network requires user-based authentication.
+The following table explains the policies governing installation privileges on devices with File Encryption installed.
+This policy specifies whether a user other than an Administrator can uninstall the endpoint application.
+The following table explains the sync interval policy.
+Use the following table to understand when PolicyServer generates an alert report.
+Consecutive Failed Logon Attempts on a Single Device
+An alert is sent when multiple, consecutive authentication attempts to any device have all failed.
+An alert is sent when PolicyServer detects that an entity has tampered with policies.
+You can customize alert criteria using predefined security levels to help categorize alerts.
+Allowing a User to Install Agents in a Group
+Before installing the agents, allow at least one user in a group to install agents.
+Right-click the user account and then select Allow User to Install to This Group.
+The default setting is Disallow User To Install To This Group.
+Right-click the user and then select List Groups.
+Right-click the user and then select Allow User To Install To This Group.
+The user can now install devices to this group.
+"An error in the Plug-in Service program occurred.
+When attempting to install or upgrade the , the following error may appear:
+Plug-in Manager was unable to download a plug-in program.
+Full Disk Encryption, File Encryption, DriveArmor, KeyArmor, or PolicyServer
+You must use PolicyServer MMC to configure the authentication methods available to users.
+It is not possible to use to configure the allowed authentication methods.
+For a complete list of the configurable methods to authenticate users and devices, see .
+If a device violates the policy criteria, can reset, lock, or erase the disk.
+If that user violates the policy criteria, can reset, lock, or erase the disk.
+Groups act as a container for users for policy management.
+The following table explains policies that govern authenticating local and domain user accounts.
+Specify policies regarding authenticating to the local device only.
+Specify whether passwords can contain alpha, numeric, special or a combination.
+Specify if the user name can be contained in the password.
+Specify the number of consecutive characters allowed in a password.
+Specify the number of past passwords the user is not allowed to use.
+Specify the number of alpha characters that must be used in a password.
+Specify the number of lower case characters that must be used in a password.
+Specify the number of numeric characters that must be used in a password.
+Specify the number of special characters that must be used in a password.
+Specify the number of upper case characters that must be used in a password.
+Specify the policies that are used for Self Help.
+Specify the number of questions required to be answered correctly to authenticate the user.
+Specify the personal challenge question(s) used for Self Help.
+Specify the policies that are used for User Passwords.
+Specify (in days) when to force a user to change their password.
+Specify if the user name is case sensitive
+Optional: Specify the distinguished name of the authentication server.
+If no Distinguished Name is specified, this will default to the LDAP server Default Naming Convention.
+Specify the user name that will be connected to Active Directory.
+Specify the password that will be connected to Active Directory.
+NetBIOS name of the domain for Single Sign On.
+Default is NetBIOS value used by the PolicyServer.
+The host name can be a domain name.
+Specifies the port to be used for the connection.
+If no port number is specified, the LDAP provider uses the default port number.
+Type of server used to authenticate client user requests.
+Remember last used user name and display it in the authentication screen.
+The following table explains policies governing Enterprise and Group Authenticator rights and privileges.
+Specify whether Enterprise and Group Authenticators are allowed to add devices.
+Specify whether Enterprise and Group Authenticators are allowed to add new users.
+Specify whether Enterprise and Group Authenticators are allowed to add new users to the enterprise.
+Specify whether Enterprise and Group Authenticators are allowed to add/modify subgroups.
+Specify whether Enterprise and Group Authenticators are allowed to copy and paste subgroups.
+Specify whether Enterprise and Group Authenticators are allowed to remove devices.
+Specify whether Enterprise and Group Authenticators are allowed to remove subgroups.
+Specify whether Enterprise and Group Authenticators are allowed to remove users.
+Specify whether Authenticators are allowed to remove users from the enterprise.
+allows users to deploy agents in the following ways:
+Run the agent installation program and configure PolicyServer settings manually on each endpoint.
+This option is prefered for test installations and endpoints that have individual hardware specifications.
+This option is prefered for environments that include many similar endpoints such as large enterprises.
+Insufficient system setup or hard disk drive preparation may result in irreversible data loss.
+Verify that you have completed all relevant prerequisites before continuing.
+Deploy Full Disk Encryption agents to endpoints that already have agents through the plug-in.
+For information about using the plug-in, see the OfficeScan Plug-in Online Help.
+To assist with creating scripts for automated deployments, includes the following tools:
+The Command Builder is a larger tool that encompasses the functionality of the Command Line Helper.
+The following list explains the events that initiate policy synchronization between agents and PolicyServer:
+After the operating system loads and the agent service starts
+At regular intervals based on the PolicyServer synchronization policy
+Manually, by clicking the Synchronize Policies button in the agent context menu
+Device actions initiate after the agent receives policy updates.
+related_product_list are trademarks or registered trademarks of inc_company_name.
+All other product or company names may be trademarks or registered trademarks of their owners.
+Read through the documentation before installing or using the product_or_service.
+users can belong to any number of groups while devices can only belong to one group.
+The default group is the group that controls the user's policies.
+The first group listed in the group membership is the default group for the user.
+The user must be allowed to install to the default group.
+Right-click the user and then select Move to top.
+From the Full Disk Encryption preboot, select Change Password After Login.
+The interface is different for different authentication methods.
+From the upper-left menu, select Authentication, then select the desired authentication method.
+The New Password window for the chosen authentication method appears.
+Provide and confirm the new password, and then click Next.
+To change the password, the user must authenticate to File Encryption with a User account role.
+The user can then change the password using any authentication method allowed by policy.
+Use PolicyServer MMC to manage the policy at:
+Right-click the File Encryption tray icon, then select Change Password.
+For more information about authentication methods, see .
+Provide and confirm the new password, and click Next.
+Provide and confirm the new password, then click Next.
+Define new answers for all Self Help questions, then click Next.
+Changing the Encryption Management for Apple FileVault PolicyServer
+For information about why agents may need to change the PolicyServer that manages policies, see .
+Uninstall the Encryption Management for Apple FileVault agent.
+Follow the fresh install instructions to reinstall Encryption Management for Apple FileVault at .
+Make sure to specify the new PolicyServer credentials.
+Changing the Encryption Management for Microsoft BitLocker PolicyServer
+Uninstall the Encryption Management for Microsoft BitLocker agent.
+Follow the fresh install instructions to reinstall Encryption Management for Microsoft BitLocker at .
+Right-click the File Encryption tray icon and select About File Encryption.
+Specify the new PolicyServer IP address or host name and then click OK.
+Changing the keyboard layout affects both keystrokes and the on-screen keyboard.
+Once Windows boots, the keyboard layout is set by the Windows operating system.
+A restart is required to commit the keyboard layout changes.
+The Select the keyboard language (layout) window appears.
+The client_computer_single tree displays when you access certain screens on the web console.
+Above the client_computer_single tree are menu items specific to the screen you have accessed.
+The client_computer_single tree provides access to the following functions:
+Search for endpoints: Locate specific computer_device_plural by typing search criteria in the text box.
+Synchronize with OfficeScan: Synchronize the plug-in program’s client_computer_single tree with the plug_in_prog_parent_program server’s client_computer_single tree.
+Deploy Server Settings: Displays the Deploy Server Settings screen.
+ColorCode is a unique authentication method designed for quick access and easy memorization.
+Use the Command Builder to generate scripts used to install PolicyServer and agents.
+The Command Line Helper tool is located in the Tools folder.
+The Command Line Helper can only run on systems with Full Disk Encryption or PolicyServer installed.
+This section explains the configurable options for all enterprise policies affecting all agents.
+Go to StartAdministrative ToolsActive Directory Users and Computers.
+The Active Directory Users and Computer screen appears.
+For each OU you intend to create, perform the following steps:
+Right-click the new domain created during AD installation and then select New.
+From the New Object - Organizational Unit screen, specify the new name and click OK.
+The new group appears in the left navigation under the domain name.
+Perform this step for as many organizational units you intend to use with PolicyServer.
+The new groups will be used to synchronize with a PolicyServer group.
+Before synchronization, users must be added to the groups.
+For each user you intend to create, perform the following steps:
+Right-click the intended OU and go to NewUser.
+From the New Object - User screen, specify the new user's account information and click Next.
+Specify and confirm the new user's domain password and click Next.
+The domain controller is configured with a new OU and a user in that group.
+To synchronize that group with PolicyServer, install PolicyServer and create a group for synchronization.
+This next section assumes that PolicyServer is already installed.
+For best results, create a Sender Policy Framework (SPF) DNS entry.
+To create an SPF record in other DNS Servers (BIND), consult the vendor documentation.
+On a Windows DNS Server, open DNS Management Console.
+Right-click the forward lookup zone for the domain, and select Other New Records.
+This section explains the configurable options for policy rules affecting all devices.
+By default, only Administrator accounts can uninstall agents.
+Under Lockout and Lock Device Actions, configure the following options:
+Use Account lockout action to specify whether the remote authentication or erase action occurs at lockout.
+For Full Disk Encryption or File Encryption devices, separately configure the following:
+Under Password Requirements, specify the password character limitations.
+The sum total of letters, numbers, and symbols cannot exceed 255 characters.
+Under Agent, specify the Sync internal in minutes.
+The following procedure explains how to configure Directory Management for the new PolicyServer data source.
+The Directory Management screen displays the available policy targets in the directory tree.
+Add PolicyServer to as a managed server before starting this procedure.
+Select the server and then click Add Folder.
+Specify a directory name and then click Save.
+Drag the previously added PolicyServer data source into the new folder.
+Click < Back to return to the Policy Management screen.
+The following procedure explains the configurable options for policy rules affecting File Encryption devices.
+Under Encryption Key, select the encryption for the File Encryption encrypted folder.
+User key: Use a unique key for each user.
+Only the user can decrypt files that he or she encrypted.
+Policy key: Use a unique key for each policy.
+Only users and devices in the policy can decrypt files.
+Enterprise key: Any user or device in the Enterprise can decrypt the files.
+Selecting Policy key or Enterprise key controls the sharing for the File Encryption shared key.
+Select Disable optical drives to control whether removable media is accessible from the endpoint.
+Select Disable USB drives to control when the USB ports are disabled.
+If a folder does not exist, it is created.
+If no drive letter is specified, all USB devices are affected.
+Select Encrypt device to start full disk encryption when the agent synchronizes policies with PolicyServer.
+Select Encrypt only used space to encrypt only the used space.
+Select Select encrypt key size to specify a device encryption key size in bits.
+For information about configurable options and available tools in Full Disk Encryption, see .
+Select Enable Wi-Fi configuration to use a predetermined Wi-Fi configuration during preboot.
+Select Enable logon background color to specify the background color during logon.
+Select Enable logon banner to specify a logon banner image.
+Image should not exceed 128 KB in size and should measure 512 x 64 pixels.
+Accepted file formats are PNG with transparency (recommended), JPG and GIF
+The following are the main tasks required for initial PolicyServer configuration.
+Use the Enterprise and Enterprise administrator account that were configured during PolicyServer installation.
+If you intend to install PolicyServer MMC separate from PolicyServer, see .
+Allow certain users to install new devices to the group.
+Use a proxy server to connect to the managed products.
+supports proxy connection over HTTP or SOCKS5 protocols.
+Specify the IP address or URL of the proxy server.
+Specify the listening port of the proxy server.
+Specify the user name to access the server if the proxy requires authentication.
+Specify the password to access the server if the proxy requires authentication.
+Click the Edit button next to your server.
+Select Use a proxy server for the connection.
+Registering a smart card allows a user to log on with smart card authentication.
+For information about Full Disk Encryption Preboot smart card authentication, see .
+Select PIN, then click OK to confirm the policy change.
+Install the proxy on the separate endpoint to direct and filter traffic between agents and PolicyServer.
+For an example network scenario including legacy agents, see .
+The default port for the Traffic Forwarding Service is 8080.
+The default port for the Client Web Service is 80.
+Copy the PolicyServer installation folder to the local hard drive.
+Go to the path \TMEE_PolicyServer\Tools\Optional Installations\TMEEProxy Installer and run TMEEProxyInstaller.exe.
+After installation completes, note the IP address and port number displayed in the installation screen.
+This IP address and port will be used in agent installation.
+Go to StartAdministrative ToolsInternet Information Services (IIS) Manager.
+The Internet Information Services (IIS) Manager screen appears.
+The following procedure explains the configurable options for policy rules that affect authentication and user accounts.
+If users require domain authentication, select Enable domain authentication under Domain User Settings.
+If you selected Enable domain authentication, specify the server information for your Active Directory (AD) account.
+Configure the host name of the AD server.
+Allow all users, domain and local accounts, to authenticate devices.
+Allow users from organizational units (OUs) within an AD to authenticate devices.
+Select Enable domain authentication to enable the Active Directory users option.
+Specify which already added users can authenticate to managed endpoints.
+In order to select specific users with this option, you must populate the user list.
+Add OUs with the Active Directory users option or add users with the Users widget.
+For more information about the Users widget, see .
+If you selected Active Directory users, add OUs to the policy by their distinguished name.
+After selecting Active Directory users, the following additional options appear:
+Specify each OU by its sequence of relative distinguished names (RDN) separated by commas.
+After specifying the OU distinguished name, click OK.
+Wi-Fi settings are available from the Recovery Console accessible from the Full Disk Encryption Preboot.
+Go to the Wi-Fi tab on the Network Setup screen.
+From the Wi-Fi settings screen, you can disconnect from your current wireless connection by clicking Disconnect.
+Run Task Manager and search for the service Trend Micro Full Disk Encryption.
+If there is no wireless card detected, the wireless network icon does not display.
+For more information, see the Administrator's Guide for PolicyServer MMC.
+Click the wireless connection icon in the upper-right corner of the Full Disk Encryption preboot logon.
+Click Close to complete the wireless network setup.
+All policies including encryption, password complexity and authentication
+Remote device actions, including killing a device, erasing data, or delaying authentication
+Event logs about authentication events, management events, device encryption status, and security violations
+PolicyServer manages encryption keys and synchronizes policies across all endpoints in the organization.
+PolicyServer also enforces secure authentication and provides real-time auditing and reporting tools to ensure regulatory compliance.
+You can flexibly manage PolicyServer with PolicyServer MMC or with .
+One PolicyServer database may have one Enterprise configuration.
+The PolicyServer Microsoft SQL database securely stores all user, device, and log data.
+The database is either configured on a dedicated server or added to an existing SQL cluster.
+The log and other databases can reside separately.
+Starting from 5.0, all agents use Service to communicate with PolicyServer.
+Endpoint Encryption Service uses a Representational State Transfer web API (RESTful) with an AES-GCM encryption algorithm.
+After a user authenticates, PolicyServer generates a token related to the specific policy configuration.
+Until the user authenticates, the service denies all policy transactions.
+For information about deployment scenarios, see the Installation and Migration Guide.
+All 3.1.3 and earlier agents use Simple Object Access Protocol (SOAP) to communicate with PolicyServer.
+Under certain situations, SOAP may allow insecure policy transactions without user authentication.
+Legacy Web Service filters SOAP calls by requiring authentication and limiting the commands that SOAP accepts.
+Conref - Adding a New User to a Group
+Adding a user to the Enterprise does not assign the user to any groups.
+Adding a user to a group adds the user to the group and to the Enterprise.
+On the right pane, right-click the whitespace and select Add New User.
+Specify the email address that applies to the user name (optional).
+While frozen, the user is unable to log on devices.
+That user is treated as a group administrator or group authenticator.
+The new user is added to the selected group and to the Enterprise.
+The user can now log on to devices.
+Groups simplify managing agents, users, policies, subgroups, and devices.
+Enterprise administrators and authenticators may not be added to groups because their permissions supercede all groups.
+Right-click the Enterprise in the left pane, then click Add Top Group.
+Specify the name and description for the group.
+If using devices that do not support Unicode, select Support Legacy Devices.
+Some legacy devices may not be able to communicate with PolicyServer using Unicode.
+Assign Unicode and legacy devices to different groups.
+The new group is added to the tree structure in the left pane.
+To use to manage PolicyServer, you must add PolicyServer as a managed product.
+Make sure to complete the following tasks before proceeding:
+supports only one configured PolicyServer instance in at a time.
+It is not possible to add multiple PolicyServer configurations.
+Review all system requirements for compatible product versions.
+In the Server Type drop-down list, select Endpoint Encryption.
+Server: Specify the PolicyServer host name and the port number.
+Display name: Specify the name for PolicyServer shown in the Managed Servers screen.
+Under Connection, select Use a proxy server for the connection if PolicyServer requires a proxy connection.
+Synchronization between and PolicyServer may require several minutes to complete.
+PolicyServer is added as a new managed product to .
+The agent for hardware and software encryption with preboot authentication.
+Strong preboot authentication restricts access vulnerabilities until the user is validated.
+The agent for file and folder encryption on local drives and removable media.
+administrators and users have several authentication methods to log on to devices.
+The methods available are determined by the PolicyServer policy configuration.
+Active Directory LDAP synchronization for single sign-on (SSO).
+Question and answer combinations that allow users to reset a forgotten password without contacting Technical Support.
+A physical card used in conjunction with a PIN or fixed password.
+Conref - Changing the Full Disk Encryption PolicyServer
+Changing the PolicyServer requires access to Full Disk Encryption Recovery Console.
+From the Full Disk Encryption Recovery Console, click the PolicyServer tab.
+The following procedure explains the configurable options for policy rules affecting Full Disk Encryption devices.
+The Full Disk Encryption policy rules settings appear.
+Do not deploy encryption to Full Disk Encryption agents without first preparing the endpoint's hard drive.
+This task explains how to confirm that the agent install initiates correctly on the endpoint.
+To view the deployment status, open the log files at:
+When the agent deployment completes, reboot the endpoint to complete the installation.
+The following procedure explains how to configure a policy that affects users and devices.
+To add a user account to the policy, make sure that the user account already exists.
+From the Product drop-down list, select Endpoint Encryption.
+For more information about the available policy options, see the Administrator's Guide.
+Conref - Creating Policy Target and Adding Device to Policy
+Select one of the following policy target options:
+None (Draft Only): Create a policy with no targets (endpoints)
+Filter by Criteria: does not support filtering by criteria
+Conref - Deleting a Device from the Enterprise
+Deleting any device from the Enterprise also removes the device from all policy groups.
+To mitigate this risk, immediately decrypt the device and uninstall the agent software.
+For information about uninstalling agents, see the Installation and Migration Guide.
+At the warning message, click Yes to confirm.
+Before deploying agents, make sure that the endpoints meet the minimum system requirements.
+To select multiple endpoints, hold CTRL and select applicable endpoints.
+Click Install, then select one of the following options:
+It is not possible to deploy the Encryption Management for Apple FileVault agent using the plug-in.
+Deploy the File Encryption agent, which includes all features and policies.
+At the message, click OK to confirm the deployment.
+If successful, any selected endpoint is prompted to restart.
+devices are agents that have registered with PolicyServer.
+Installing any agent automatically registers the endpoint with PolicyServer as a new device.
+Click the icon to select the agent and filter the devices shown in the table.
+Use the search field to specify parameters to search against.
+Any attributes listed in devices attributes can be searched.
+Use Device Attributes to view a current snapshot of the selected device.
+Locking a device reboots the endpoint and forces it into a state that requires Remote Help.
+The lock command is issued when the agent communicates with PolicyServer.
+Initiating a kill command deletes all device data.
+The deleted data is different depending on the scope of data that the associated agent manages.
+The kill command is issued when the agent communicates with PolicyServer.
+Back up all the data before initiating a kill command.
+Initiating a soft reset command reboots the endpoint.
+The command issues the next time that the agent communicates with PolicyServer.
+Conref - Editing Policies with Multiple-choice / Single-selection
+Right-click the policy to be modified and then click Properties.
+Select a default setting from the Policy Value drop-down list.
+Select the available options for the Policy Range area.
+The policy change is activated once the agent synchronizes with PolicyServer.
+The following table explains the security policy rules for lost or stolen devices.
+PolicyServer temporarily locks the device and notifies the user that the device is locked.
+The ability to authenticate or reset the password is disabled during the time delay.
+The duration of the time delay is determined by policy.
+Once the time delay has expired, the user is permitted to authenticate.
+PolicyServer erases all data controlled by the associated agent.
+This option is only available if you select Archive.
+This option is only available if you select Archive and Burn.
+No window will display after selecting this option.
+While file names and folder content may be viewed, the file contents are not available.
+This is due to Windows operating system caching the file structure for quick search capability.
+There is no functionality available for password recovery with self-extracting files.
+If a password is forgotten, the encrypted file cannot be recovered.
+Due to a Windows limitation, executable (self-extracting) files cannot be larger than 2 GB.
+The digital certificates may be stored on smart cards depending on your environment and policy settings.
+Select the drive with the CD or DVD to write the encrypted file to.
+The new password is updated and a confirmation message appears.
+Intel Core 2 Duo 2.0 GHz processor or equivalent
+Microsoft .NET Framework 3.5 SP1 (Windows 7 and later operating systems)
+Microsoft .NET Framework 3.5 (Windows 8 and later operating systems)
+For devices with UEFI, set the boot priority to Legacy First.
+Microsoft .NET Framework 2.0 SP1 or later (Windows XP)
+Software encryption: ATA, AHCI, or IRRT hard disk controller
+RAID and SCSI BIOS settings are not supported.
+The Response field loads with an 8-character string.
+Groups management differs between PolicyServer MMC and .
+After modifying policies and groups, PolicyServer synchronizes groups across both consoles.
+always takes precedence over PolicyServer MMC for policy and group assignment.
+automatically creates a group each time a policy with specific targets is deployed.
+Add and modify groups directly from the left pane of PolicyServer MMC.
+Groups in PolicyServer MMC can be assigned as follows:
+Top Group: Top Groups are the highest level of groups under the Enterprise.
+Each Top Group has a unique node underneath the Enterprise.
+Subgroups may not be more permissive than the Top Group.
+You must manually assign devices and users to each subgroup.
+Adding users to a subgroup does not automatically add the users to the Top Group.
+However, you can add users to both the Top Group and subgroup.
+PolicyServer maintains a user directory separate from the Active Directory database.
+This allows PolicyServer absolute security over access to all devices, user rights, and authentication methods.
+For information about configuring Active Directory integration, see the Installation and Migration Guide.
+Specify the following parameters for the Active Directory LDAP Server:
+Wait for the specified Active Directory domain to populate.
+The Active Directory tree for the specified domain appears in the left pane.
+The available users populate in the right pane.
+Click OK to add the users to the specified location.
+Copy the installation package to the local hard drive.
+After a moment, the installation welcome screen appears.
+Specify the user name of an account with permission to add devices to the Enterprise.
+A message appears asking if you want to restart or shut down the endpoint.
+The endpoint restarts for software-based encryption or shuts down for hardware-based encryption.
+Click Yes to restart or shutdown the endpoint.
+Full Disk Encryption installation is complete when the Full Disk Encryption preboot displays.
+At the preboot screen, the user must log on.
+The user is required to change their password after logging on.
+The next time Windows starts, Full Disk Encryption encrypts the disk.
+Policies are synchronized with PolicyServer after the endpoint restarts.
+At the PolicyServer Services screen, click Install at the right.
+At the Product Activation screen, select your licensing method:
+Click Register Online to register your product and receive an Activation Code.
+Select Use a trial license to evaluate a managed configuration for 30 days.
+This will be required for user and device authentication.
+Enterprise administrator accounts can manage all device, user, and policy settings from PolicyServer MMC and .
+You can create more Enterprise administrator accounts at a later time.
+At the Windows Service Logon screen, click Continue.
+At the Database Administrator Logon screen, choose your database connection method:
+Select Microsoft SQL Express to create a new database instance.
+Use Microsoft SQL Express only for networks of fewer than 1500 endpoints, or for evaluation purposes.
+Microsoft SQL Express is only available in environments that do not have SQL Server configured.
+Select SQL Server to specify an existing Microsoft SQL Server instance.
+If you select SQL Server, specify the following information:
+The SQL Server host name or IP address.
+Use the following syntax to specify an instance:
+The user name with the sysadmin role for the specified SQL Server instance.
+At the Endpoint Encryption Service screen, specify the following parameters:
+The port number must be a positive integer between 1 and 65535.
+Select this option if no certificate is available.
+The installer generates a certificate for encrypted communication.
+Select this option to use a specific certificate.
+For group-level logs, go to Group NameLog Events.
+All log events for the past seven (7) days automatically display.
+This section describes additional utilities packaged with that perform product maintenance tasks.
+Generate a log package for all events that occur while replicating specific issues.
+Modify your SQL server and Windows service user credentials without reinstalling PolicyServer.
+Update your license Activation Code without reinstalling PolicyServer in environments managed by PolicyServer MMC.
+Conref - Migrating 3rd party Agents to a New PolicyServer
+Other Mac OS user account types will be unable to initiate encryption.
+Wait for the hard drive decryption to complete.
+The user can use the endpoint as usual.
+Right-click the device, and then select Remove Device.
+For more information about removing devices, see the Administrator's Guide.
+Open Enterprise Devices or expand a group and open Devices.
+All devices in the Enterprise or group appear in the right pane.
+In the right pane, right-click the device and select Kill Device.
+Once installed, the agent is inactive until the policy to encrypt the device is enabled.
+The agent becomes inactive again if encryption is disabled at a later time.
+It is now possible to use the Enterprise Administrator and Enterprise Authenticator roles to install agents.
+For information about understanding and managing the agent, see the Administrator's Guide.
+For the Full Disk Encryption agents that never connect to PolicyServer, perform a standalone (unmanaged) installation.
+For information about installing the standalone Full Disk Encryption agent, see the Installation and Migration Guide.
+Full Disk Encryption does not support endpoints with multiple hard disks.
+Full Disk Encryption does not support RAID and SCSI drives.
+Full Disk Encryption does not support eDrive drives for Windows 8 or later environments.
+Full Disk Encryption does not support GUID Partition Table (GPT) drives.
+The Full Disk Encryption agent can only install on an endpoint with one physical drive.
+Remove all other drives before installing Full Disk Encryption.
+Before proceeding, make sure to read the following topics:
+These notes are used by TMCM, MMC, and PolicyServer topics
+In environments that use , changes to PolicyServer policies are always controlled by .
+For information about configuring LDAP and Active Directory settings, see the Installation Guide available at:
+For more information, see Devices and Users in the Administrator's Guide.
+Verify that all of the agent installation prerequisites have been completed.
+Run a hard drive integrity utility on the system drive.
+Windows will perform Check Disk on the next restart.
+From Disk Utility, you can check drive integrity and repair disk problems.
+Disconnect all USB storage devices until after the agent is installed and the endpoint is restarted.
+Copy the installation files to the system drive.
+The following illustration shows how to deploy using to manage PolicyServer.
+protects enterprise networks from malware, network viruses, web-based threats, spyware, and mixed threat attacks.
+The agent guards the endpoint and reports its security status to the server.
+The following illustration shows how to deploy on managed endpoints.
+In this example, is the primary management console.
+However, administrators can use either or PolicyServer MMC to manage PolicyServer in deployments.
+Use the plug-in to deploy agents to managed endpoints.
+You can select endpoints based on specific criteria and see the status of the deployment.
+The agent and the agent are independent on the same endpoint.
+Expand the Enterprise, then go to Enterprise Maintenance.
+Anything meeting the purge criteria is deleted from the database.
+The Full Disk Encryption preboot cannot automatically detect the authentication for WEP security.
+If the authentication type is WEP-OPEN or WEP-PSK, manually specify the security type.
+To use a listed network, select the SSID, then click OK.
+To configure an unlisted network, click Other Network, specify the SSID settings, then click Connect.
+Do not close the screen or restart your endpoint during configuration.
+Remote Help authentication is triggered by device policy rules.
+Remote Help policy rules are configurable in both PolicyServer MMC and .
+Standard reports capture specific log information in a report format.
+Self Help requires the user to respond with answers to predefined personal challenge questions.
+Self Help can replace fixed password or other authentication methods.
+Consider the following when choosing your authentication method or when configuring Self Help:
+Self Help is not available for Administrator and Authenticator accounts.
+Self Help is not available for accounts that use domain authentication.
+PolicyServer is unable to change or retrieve previous domain passwords.
+Self Help has a maximum of six questions for each user account.
+Self Help is only configurable with PolicyServer MMC.
+Smart card authentication requires both a PIN and a physical token to confirm the user identity.
+Smart card certificates are associated with the user account and the user's assigned group.
+Once registered, the user can use smart card authentication from any device in that group.
+To use smart card authentication, make sure that the following requirements are met:
+ActivClient 6.1 with all service packs and updates installed.
+Specify the smart card PIN in the password field.
+Smart card authentication is only configurable with PolicyServer MMC.
+Use the Specify Target(s) screen to assign devices to the policy.
+The Specify Target(s) screen is available when creating a new policy.
+From the Specify Target(s) screen, click the Browse tab.
+From the left pane, expand the tree to select the managed folder.
+To immediately select all devices in the managed folder, click Add All from Selected Folder.
+View Action List and View Results update based on the selection.
+Make sure that the device has network access.
+The Information tab provides detailed information about the user account, device, and policy synchronization.
+See the figure and description below for more information.
+The account used to log on the device.
+The unique ID that identifies the agent and endpoint to PolicyServer.
+The operating system and version currently installed on the endpoint.
+The endpoint computer name to identify it on the network.
+The timestamp for the last policy synchronization to PolicyServer.
+The pie chart represents the ratio that the hard disk is encrypted and not encrypted.
+The type of encryption deployed on the endpoint.
+Encryption Management for Apple FileVault and Encryption Management for Microsoft BitLocker always use software-based encryption.
+Administrators create a policy by selecting the targets and configuring a list of product settings.
+Administrators can manually select targets or use a filter to automatically assign targets to their policies.
+The target selection method determines the policy type and how the policy works.
+The Policy Template Settings screen contains information about supported product versions.
+enforces the policy settings in the targets every 24 hours.
+IMSVA servers save these policy settings on the top of the list.
+Once enforces the policy again, the client settings will comply with the policy settings.
+For certain product settings, needs to obtain specific setting options from the managed products.
+To ensure a successful policy deployment, make sure the product settings are synchronized across the targets.
+Administrators can use the Policy Management screen to perform the following tasks:
+During an upgrade, some agents require first manually uninstalling the old agent software.
+At the Add or Remove Programs message, click Yes to confirm.
+The uninstall process completes when the program is removed from the list.
+For policy synchronization and information security, make sure to always upgrade PolicyServer before the agents.
+Administrators may need to migrate devices when employees move to a different department or office location.
+Each PolicyServer instance supports one Enterprise configuration that may represent a business unit or department.
+The remains in the old Enterprise until removed.
+Administrators may access the management consoles and perform any configurations within their domain.
+This role has different rights depending on the level that the administrator role is added:
+Enterprise administrator: These administrators have control over all policies, groups, users, and devices in the enterprise.
+Group administrator: These administrators have control over users and devices that authenticate within a specific group.
+makes a group for each policy, so these administrators may also be known as policy administrators.
+Authenticators provide remote assistance when users forget their passwords or have technical problems.
+This role has different rights depending on the level that the authenticator role is added:
+Enterprise authenticator: These authenticators can assist any users in the enterprise.
+Group authenticator: These authenticators can assist any users within a specific group.
+makes a group for each policy, so these authenticators may also be known as policy authenticators.
+The user role may not log on the management consoles.
+Unless allowed by PolicyServer, the user role also may not use recovery tools.
+users are any user account manually added to PolicyServer or synchronized with Active Directory.
+has several types of account roles and authentication methods for comprehensive identity-based authentication and management.
+Click the icon to filter which users appear in the table.
+counts the amount of consecutive logon attempts by a particular user account on a device.
+Conref - Using OfficeScan to Uninstall Endpoint Encryption Agents
+This procedure explains how to uninstall agents using the plug-in.
+To select multiple devices, hold SHIFT and select applicable endpoints.
+Click Uninstall and select the appropriate agent from the drop-down list.
+The agent uninstallation is complete when displays the confirmation message.
+When uninstallation completes, the agent is removed and the product folder is deleted from the endpoint.
+All current log events appear in the right pane.
+At the bottom of the page, click Filter.
+All log event matching the specified criteria appear.
+The Log Record window appears displaying all log data for the selected event.
+The title of the policy controlling the device.
+The user name used to attempt to log on to the device.
+The first and last name of the user account.
+If the specified user name is not a valid user name, the column shows Not Recorded.
+Go to the Dashboard and then open the appropriate tab.
+Add an Endpoint Encryption PolicyServer to the Server List.
+Hover the mouse over the points in the line graph for more details.
+The time period can display the last hour, day, week, or month.
+Click the icon to manually refresh widget data.
+The default refresh rate is controlled by the dashboard settings at AdministrationSettingsWeb Console Settings.
+Click the icon to configure the displayable options for that widget.
+Click the icon to modify the server visibility of PolicyServer.
+The widget synchronizes data with the selected PolicyServer.
+Click the icon to access the Online Help for that widget.
+Click the icon to view user attributes or to perform actions on any selected user.
+The following table explains the Endpoint Encryption Consecutive Unsuccessful Device Logon report.
+The number of times that a user attempted to log on to the device.
+In the United States, Trend Micro representatives are available by phone or email:
+This application simplifies the administration of a corporate virus/malware and content security policy.
+The following table provides a list of components Control Manager uses.
+Acts as a repository for all data collected from the agents.
+It can be a Standard or Advanced Edition server.
+A Control Manager server includes the following features:
+An SQL database that stores managed product configurations and logs
+A web server that hosts the Control Manager web console
+A mail server that delivers event notifications through email messages
+MCP handles the Control Manager server interaction with managed products that support the next generation agent.
+MCP is the new backbone for the Control Manager system.
+MCP agents install with managed products and use one/two way communication to communicate with Control Manager.
+MCP agents poll Control Manager for instructions and updates.
+Handles the Control Manager server interaction with older managed products.
+It is a component of the Trend Micro Management Infrastructure (TMI).
+Communicators handle all communication between the Control Manager server and older managed products.
+They interact with Control Manager 2.x agents to communicate with older managed products.
+Agents interact with the managed product and Communicator.
+An agent serves as the bridge between managed product and communicator.
+Therefore, install agents on the same computer as managed products.
+It lets you administer the Control Manager network from any computer using a compatible web browser.
+Allows an administrator to create a customized dashboard to monitor the Control Manager network.
+The following are the Control Manager issues and limitations:
+To see the new policy group, log off from PolicyServer MMC and log back on.
+Deleting a policy that was created in Control Manager does not delete the policy from PolicyServer.
+The policy can still be viewed in PolicyServer MMC.
+The total number of steps in the ColorCode (count) is defined by PolicyServer.
+Start the endpoint and wait for the Full Disk Encryption preboot to appear.
+For information about changing authentication methods, see .
+Select the first color by clicking it using the square to the left.
+Click Back to change the last color clicked, or click Clear to start over.
+After the sequence is complete, confirm the ColorCode password using the square to the right.
+Creating a Mobile Account for Active Directory on Mac OS
+Go to System Preferences... in the Apple menu.
+Click the lock icon in the lower left corner.
+When prompted, enter your Active Directory password and click OK.
+You may now use this mobile account to initate encryption.
+user and device configuration uses the Endpoint Encryption Users and Endpoint Encryption Devices widgets.
+For a general description of authentication process, see .
+A policy with no targets may not be deployed.
+For more information about policy targets, see .
+settings are divided into the following rule sets:
+Encryption Management for Microsoft Bitlocker requires separate boot and system partitions on the local endpoint.
+Perform the following procedure to check whether the endpoint has separate boot and system partitions.
+Verify whether your endpoint has separate system and boot partitions.
+Type diskmgmt.msc to open the Computer Management window.
+The following is an example of an endpoint that contains separate system and boot partitions:
+The following is an example of an endpoint that contains a combined system and boot partition:
+Back up critical files in your primary drive.
+The following steps include using BitLocker to change the structure of your primary drive.
+Any changes to system structure may result in errors.
+strongly recommends backing up important files before continuing.
+From the Windows Start menu, go to Control PanelSystem and SecurityBitLocker Drive Encryption.
+To create the system partition, follow the on-screen instructions in the BitLocker Drive Encryption window.
+Creating the system partition may take a long time depending upon the drive size.
+After restarting your endpoint, BitLocker will display the following screen:
+BitLocker will request that you back up your recovery key.
+At this point you may re-install the Encryption Management for Microsoft BitLocker agent.
+The Command Builder is available in the Tools folder of the installation directory.
+To run this tool, verify that PolicyServer or an agent is installed on the same endpoint.
+Download the Command Builder tool and locate the tool in your download folder.
+The Command Builder tool is part of the PolicyServer installation package.
+Go to Download Center, select the , and download the PolicyServer package.
+The Command Builder tool is located in the following directory:
+Run CommandBuilder.exe from an endpoint with PolicyServer installed.
+In Encryption Options, select which values to encrypt.
+Items selected in Encryption Options are replaced with encrypted values in the generated command.
+In FDE Options, specify if the generated command should include the following :
+SkipPreCheck: Full Disk Encryption does not perform the pre-installation check.
+ForceSoftware: Full Disk Encryption uses software encryption instead of hardware encryption.
+Click the appropriate button to copy the command.
+The resulting script is copied to the clipboard.
+The agent installation files must be available to the server where PolicyServer is installed.
+Exported groups must contain at least one user.
+The group name must also be alphanumeric only.
+From the left pane, right-click the group and then select Export.
+The export password is used to authenticate the executable on the agent.
+Click Add to browse to and upload client installers.
+For older product versions, see the supporting documentation.
+Depending on the license type, specify the number of devices to be installed on.
+The number of licenses available is reduced with every device.
+Click Done to generate the export file at the specified location.
+A generated executable file named Export is created on the desktop.
+Use this to distribute policy changes to offline groups.
+The dashboard provides at-a-glance information for the network.
+Tabs: Allow administrators to create a screen that contains one or more widgets
+Widgets: Provide specific information about various security-related events and perform user and device management
+Each user account can customize the dashboard, tabs, and widgets for the account’s specific needs.
+Each user account has a completely independent dashboard, tabs, and widgets from every other user account.
+Full Disk Encryption provides the following options for decrypting disks:
+Use PolicyServer to deploy a policy that decrypts all disks for a specific group.
+For details, see the Endpoint Encryption 6.0 PolicyServer MMC Guide.
+Uninstalling Full Disk Encryption automatically decrypts all disks attached to a device.
+For uninstallation steps, see the Endpoint Encryption Installation Guide.
+Start disk decryption from the Recovery Console in preboot.
+Use the preboot's Decrypt Disk function only if you have problems booting into Windows.
+There is no way to recover a deleted tab.
+Deleting a default tab has no impact on the dashboard for other user accounts.
+Define all roles and group affiliations before adding any users or groups.
+Identify users to be assigned to each group.
+For information about removing a device from a specific group, but not the Enterprise, see .
+In the right pane, right-click the device and select Delete Device.
+For information about adding the Endpoint Encryption device back the Enterprise, see .
+Click the X next to the name of the tab.
+The user is deleted from the user list.
+This procedure assumes that you have received the following files:
+The following is an example of the intended installation command script built using this procedure:
+The following is an example of the intended agent registration command script built using this procedure:
+$ sudo“/Library/Application Support/TrendMicro/FDEMM/ RegisterDevice HOST=10.1.152.58 ENTERPRISE=MyCompany USERNAME=User ePASSWORD==5mih67uKdy7TlVaN2ISWGQQ=
+Place the installation files into the the same directory.
+If any issues are found, the return code of the issue will be returned.
+If no issues are found, Installer.sh will execute Trend Micro Full Disk Encryption.pkg to perform installation.
+For potential error codes and limitations of Encryption Management for Apple FileVault deployment, see .
+Return code 106 means that Encryption Management for Apple FileVault is already installed.
+To check the currently installed version, run the following command script:
+$ defaults read "/Applications/Encryption Management for Apple FileVault.app/Contents/Info.plist" CFBundleShortVersionString
+To check the version of the intended agent deployment package, run the following command script:
+The RegisterDevice executable is located in the agent directory.
+In order, add the HOST, ENTERPRISE, USERNAME, and PASSWORD arguments as parameters.
+For example, an encrypted argument of PASSWORD is ePASSWORD.
+For help creating the RegisterDevice command script, see .
+The following is an example of the intended agent registration command script:
+After agent registration, the Encryption Management for Apple FileVault agent deployment is complete.
+Configure and deploy the PolicyServer settings to ensure communication between the agents and PolicyServer.
+Specify the PolicyServer IP address or host name.
+Specify the port number assigned to the PolicyServer instance.
+Allow some time to establish a server connection.
+This section explains the high-level considerations for installing the main components.
+PolicyServer is the main server software that manages agents.
+This software includes a front-end server program and a backend SQL Server database.
+After installing PolicyServer, you can configure ActiveDirectory domain authentication and proxy communication.
+For information about the available agents, see .
+The management console determines the encryption, authentication, and configuration policies for the agents.
+You can manage PolicyServer on either of the following consoles:
+: This is the central management console for products.
+recommends using to manage , but using is optional.
+PolicyServer MMC: This console performs advanced operations for .
+If preferred, PolicyServer MMC can perform user, device, and policy management.
+The following illustration shows a complex network environment using both 5.0 and legacy (3.1.3) agents.
+Decide how to deploy into your environment and prepare for installation.
+If you plan to install agents manually or remotely, follow the steps provided in .
+If you plan to install agents using , see the OfficeScan Plug-in Online Help:
+Manage your agents using your prefered management console.
+If you are using for management, see the Endpoint Encryption Administrator's Guide:
+If you are using PolicyServer MMC for management, see the Endpoint Encryption PolicyServer MMC Guide:
+This chapter describes preparation and preinstallation information for software installation.
+When addressing any encryption project, it is important to identify the implementation goals.
+Planning is especially important when introducing this change across thousands of endpoints, affecting all end-users.
+For more information about OfficeScan integration, see the OfficeScan Plug-in Online Help.
+Select a device and click the icon or right-click a device to perform the following actions:
+The agent will be unable to synchronize its policy with PolicyServer.
+For information about resetting passwords or unlocking a user account, see .
+View a current snapshot of the selected device.
+There was no device ID for this PDA found.
+Device is not in its own Password Authentication File.
+Verify that there is a network connection and try again.
+The version and build number for the installed .NET framework.
+The agent uses a common framework for encryption.
+The build number is used to tell whether the agent is up-to-date.
+The number of partitions on the disk with the agent installed.
+The total capacity of the hard disk (in bytes).
+The domain that the endpoint is a member.
+The unique ID of the endpoint used for integration.
+The version of File Encryption installed on the endpoint.
+The operating system installed on the same hard disk as the agent.
+The common name of the operating system installed on the same hard disk as the agent.
+The version number of the operating system installed on the same hard disk as the agent.
+x86 Family 6 Model 30 Stepping 5, Genuine Intel
+The processor make and model of the endpoint.
+The total RAM installed in or allocated to the endpoint.
+The user name of the Windows account that last logged on the endpoint.
+The user name for the last logged on used.
+The version and build number for the agent installation.
+The following table explains the Endpoint Encryption Device Lockout report.
+Use it to understand how to read the report details.
+For information about account lockout and device lock actions, see .
+Locked device due to invalid login attempt violation.
+The Endpoint Encryption Device Lockout widget shows devices that are locked out due to policy restrictions.
+For information about device lockout rules, see .
+The timestamp when PolicyServer issued the device lock command.
+The device does not actually lock until after the agent synchronizes policies with PolicyServer.
+Click details icon to view the Device Lockout report.
+At the bottom of the widget, click the number next to Total to view the report.
+This chapter also explains how to restore deleted devices.
+To configure devices, use the Endpoint Encryption Devices widget.
+The table below explains how to disable encryption centrally from one of the management consoles.
+Temporarily disable drive encryption to minimize end user impact and simplify mass deployment.
+Once device compatibility is confirmed, optionally re-enable encryption.
+Depending on your primary management console, do the following to disable encryption during employment.
+Go to Full Disk EncryptionPCEncryptionEncrypt Device and select No.
+To disable the agent across the Enterprise, click Enterprise Policies.
+users cannot log on devices using this agent.
+Sometimes an error prevents a report from correctly running.
+Right-click the report with an error, then select Display Error.
+To export the report, click the Save icon and then select Excel or Acrobat (PDF) file.
+Trend Micro always seeks to improve its documentation.
+For domain authentication single sign-on (SSO), ensure that the following requirements are met:
+The user belongs to a policy group with domain authentication enabled.
+Make sure that the Host Name and Domain Name are configured properly.
+PolicyServer and all devices using domain authentication are in the same domain.
+The user account is configured in both Active Directory and PolicyServer.
+The user name is case sensitive and must match exactly.
+Domain authentication cannot be used with a Smart Card PIN.
+However, the domain password must be reset in Active Directory if it is forgotten.
+integrates with Active Directory using LDAP configured in PolicyServer.
+domain authentication allows users to use single sign-on (SSO) between the operating system and the agent.
+For seamless Active Directory integration, make sure that the following requirements are met:
+All devices are in the same Active Directory and domain as PolicyServer.
+The user names are located within a PolicyServer group and the Domain Authentication policy is enabled.
+To find out whether any patches are available, go to:
+Some policies have multiple options stored in subpolicies affecting that policy.
+For example, the IF Found policy displays how to return a found device.
+A normal address format displays the name, street address, and city/state/zip on three separate lines.
+Depending on the policy, multiple options is generally limited to six subpolicies.
+Right-click the policy to modify and then click Add.
+If Found Policy: Results After Adding Multiple Options
+To make changes, right-click the child policy, then select Properties.
+Some policies have multiple options available for selection.
+The Device Locked Action policy is edited in a multiple-choice/single-selection window.
+The policy change is activated once the endpoint client synchronizes with PolicyServer.
+An example of editing policies with ranges is the Failed Login Attempts Allowed policy.
+It is not possible to extend the minimum and maximum values.
+Some policies have an editable text string for single array arguments.
+Specify the sequence of characters for this policy in the Policy Value field, .
+Editing Policies with True/False or Yes/ No Responses
+Some policies only have True/False or Yes/No options.
+A Group Administrator can define whether the Full Disk Encryption preboot appears before Windows starts.
+The Policy Value field sets whether the policy is turned on.
+The Range field sets whether the policy is available to other users or groups.
+Editing users in Recovery Console follows the same rules as the Enterprise.
+For information about roles and authentication, see .
+For an explanation of account roles, see .
+Refer to the following Knowledge Base entry to send message samples to Trend Micro:
+Enabling PolicyServer to relay SMS and Email Delivery
+This function only works for PolicyServer installed on Windows Server 2008 or Windows Server 2008 R2.
+The Add role services and features required for SMTP Server window appears.
+The Web Server IIS and SMTP Server installs.
+Go to StartAdministrative ToolsInternet Information Services (IIS) 6.0 Manager.
+Right-click [SMTP Virtual Server #1] and click Properties.
+Go to AccessConnection... and select Only the list below, and then click Add....
+In the IP address field, specify 127.0.0.1, then click OK.
+Repeat to specify all IP addresses on local server
+Go to DeliveryAdvanced... and specify the Masquerade domain in the following format: psproxy...
+Click OK twice to close the SMTP Virtual Server #1 Properties window.
+Open SMTP ServerName, specify 127.0.0.1, then click Apply.
+Right-click on the file or folder that you want to encrypt.
+Choose the location to create the encrypted file.
+The encrypted file will appear in the same folder as the original file.
+Write the encrypted file to a CD or DVD.
+In the authentication window, you will be prompted to select your writable disk drive.
+Choose the authentication method to access the encrypted file.
+Create an encrypted file that can only be accessed by the user who created it.
+Create an encrypted file that requires a password to access.
+Create an encrypted file that requires specific digital certificates to access.
+If a window appears, complete all on-screen instructions.
+File Encryption creates the encrypted file in the intended location.
+The original files or folders are unchanged and can be kept or deleted.
+Use the Recovery Console to initialize the encryption of new unencrypted disks.
+This process requires a working connection to PolicyServer.
+Power off the endpoint and attach the new disk.
+Windows detects and installs drivers for the new disk.
+On the Manage Disks screen, click Summary to review which disks to encrypt.
+Full Disk Encryption shows unencrypted disks as Unmanaged disks.
+Select the disk that needs to be provisioned, and click Encrypt Disk.
+A notification appears informing the user that the disk has been successfully provisioned for encryption.
+(Optional) For devices with multiple disks, repeat the previous step to provision additional disks for encryption.
+To use all policies, install the Full Disk Encryption agent instead.
+Encryption Management for Microsoft BitLocker does not require authentication and is not affected by authentication policies.
+The following table explains the policies affecting each agent.
+Use it to understand the policy limitations of third-party agents.
+If performing automated and mass deployments, use the tools described in .
+This section describes automatic deployment information specific to Encryption Management for Apple FileVault.
+There are no known issues for Encryption Management for Microsoft BitLocker in this release.
+Encryption Management for Apple FileVault Preinstallation Return Codes
+The following is a list of the potential codes that Installer.sh will return.
+Do not perform Encryption Management for Apple FileVault agent deployment unless Installer.sh returns code 0.
+The endpoint is ready for Encryption Management for Apple FileVault agent deployment.
+Encryption Management for Apple FileVault requires Mac OS X Mountain Lion (10.7) or later.
+The endpoint does not have sufficient disk space.
+Encryption Management for Apple FileVault requires at least 400 MB of free disk space.
+Disable Apple FileVault, restart the endpoint, and try again.
+Encryption Management for Apple FileVault does not support Apple Fusion Drive.
+Set a hard drive without Apple Fusion Drive as the root drive and try again.
+Encryption Management for Apple FileVault requires Mono Framework version 2.10.11.
+Unistall the currently installed version and try again.
+Encryption Management for Apple FileVault is already installed.
+Encryption Management for Apple FileVault deployment requires administrator privileges.
+Use the sudo parameter when running the command script.
+The syntax of the command script is incorrect.
+Specify the directory of Installer.sh in the first parameter position and try again.
+Installer.sh is unable to find or run InstallPreCheck.
+Installer.sh is unable to find Trend Micro Full Disk Encryption.pkg.
+Trend Micro Full Disk Encryption.pkg is unable to execute.
+Check that you have privileges to run executable files and try again.
+This is an example of an installation script to install Encryption Management for Apple FileVault.
+Output to install Encryption Management for Apple FileVault:
+$ sudo “/Library/Application Support/TrendMicro/FDEMM/ RegisterDevice” HOST=10.1.152.58 ENTERPRISE=MyCompany USERNAME=User ePASSWORD==5mih67uKdy7TlVaN2ISWGQQ=
+This following table explains the minimum and recommended Encryption Management for Apple FileVault system requirements.
+To create a mobile account for Active Directory on your Mac, see .
+Only unlock-enabled users can start or unlock the drive.
+Once unlocked, other users may also use the computer until it is shut down.
+This section describes automatic deployment information specific to Encryption Management for Microsoft BitLocker.
+The following is an example script to use for automated deployment.
+For example, the following values are placed into Command Builder:
+Path to Full Disk Encryption for Microsoft BitLocker Installer
+32-bit: C:\Program Files\Trend Micro\FDE Management for Microsoft BitLocker\TMFDEInstall_MB.exe
+64-bit: C:\Program Files (x64)\Trend Micro\FDE Management for Microsoft BitLocker\TMFDEInstall_MB.exe
+In this example, under Encryption Options, the fields Username and Password are selected.
+Output to install Encryption Management for Microsoft BitLocker:
+This following table explains the minimum and recommended Encryption Management for Microsoft BitLocker system requirements.
+Requirements are the based on Windows system requirements:
+To install Full Disk Encryption on these disks, perform one of the following:
+Configure Full Disk Encryption to use software-based encryption by adding the FORCESOFTWARE parameter during installation.
+Restore the SED disk back to its factory setting.
+This procedure removes all existing data from the SED disk.
+After the disk has been restored, try running the installer again.
+Encryption Management for Microsoft BitLocker manages BitLocker Drive Encryption for endpoints running Microsoft Windows.
+Encryption Management for Microsoft BitLocker is designed to protect data by providing encryption for entire volumes.
+A key feature of Full Disk Encryption is the ability to manage third-party encryption products.
+The agents fully integrate with the encryption solutions built into the host operating systems.
+The following table explains the Full Disk Encryption encryption policy.
+Specify whether to encrypt only the used space.
+Specify the device encryption key size in bits.
+The following table explains the policies governing how encryption is handled on File Encryption devices.
+Specify whether to allow the user to delete files.
+User Key: choose a key unique to the user.
+Choose which allowable ways to encrypt files are allowed:
+User’s Unique Key, Group Unique Key, Encrypt With Static Password, Encrypt With Certificate
+Disable the USB drive when not logged in, always disable, and never disable drive.
+The drive letter is given and the policy value corresponds to a valid removable media device.
+Specify whether all files/folders on removable media are encrypted.
+List the folders that will be encrypted on the hard drive.
+A valid drive letter to the hard drive must also be supplied.
+Reinforce the timing of the roll-out schedule and what to expect.
+Announce system maintenance start and expected length of down time, if any.
+Reiterate contact information for help desk personnel who can assist users.
+Use it to understand if there was a problem during the agent installation or uninstallation.
+The agent installed successfully, and has established communication with both and PolicyServer.
+For the Full Disk Encryption agent, a restart is required to complete the installation.
+The status is not updated until after the user has logged on the PolicyServer preboot.
+After a timeout, initiate a new deployment command.
+is attempting to communicate with the managed endpoint and uninstall the agent software.
+The managed endpoint must reply to the deployment command before the uninstallation can start.
+The agent uninstalled successfully and has established communication with and PolicyServer.
+After uninstallation, the device is removed from PolicyServer.
+The agent uninstallation request could not establish a connection.
+Review the logs to find out why the managed endpoint could not uninstall the .
+For some agents, a restart is required to complete the uninstallation.
+After a timeout, initiate a new uninstallation request.
+This section describes how to use the Plug-in to initiate agent installation and uninstallation commands.
+The following illustration shows the Client Management screen.
+The following table describes the error codes for agent installation errors.
+Use it to understand the problem and resolution for a specific installation error.
+Make sure that the endpoint meets the minimum system requirements before deploying agents.
+Microsoft .Net Framework 2.0 SP2 or above is required.
+For information about system requirements, see the Installation and Migration Guide.
+Restart the endpoint and try the installation again.
+Verify the credentials and try to log on to PolicyServer again.
+The endpoint does not meet the minimum system requirements.
+Upgrade the RAM or disk space and try to install the agent again.
+Enable TPM in BIOS or contact the system administrator for assistance.
+Install one of the following supported operating systems and then try again:
+Windows 7 32-bit or 64-bit, Ultimate or Enterprise edition
+Windows 8 32-bit or 64-bit, Professional or Enterprise edition
+The following table describes the agents available for a variety of environments.
+The following are the Endpoint Encryption Deployment Tool plug-in issues and limitations:
+After the first deployment, the user must set a fixed password before performing deployment again.
+Endpoint Encryption decrypts the endpoint before completing uninstallation.
+The Endpoint Encryption Devices widget provides device management capability directly from the dashboard.
+For information about adding devices to a policy, see .
+Select which devices to display: all devices in the Enterprise, or devices in a specific policy.
+View the total number of devices in the entire Enterprise, selected policy, or specified search.
+The Endpoint Encryption Users widget provides user management capability directly from the dashboard.
+For information about adding existing users to a policy, see .
+Select which users to display: all users in the Enterprise, or users in a specific policy.
+Click the icon to filter which users appear in the table.
+View the total number of users in the entire Enterprise, selected policy, or specified search.
+You can generate reports on an as-needed or scheduled basis.
+Enterprise Administrator accounts can generate reports on an as-needed or scheduled basis.
+The following table explains key features and benefits.
+Comprehensive data protection of files, folders, and removable media
+Flexible authentication methods, including both single and multi-factor
+Control password strength and regularity for password changes
+Policies to protect data on endpoints and removable media
+Ability to remotely lock, reset, wipe, or kill a device
+Flexibly use either PolicyServer MMC or to manage PolicyServer
+Deploy agents to endpoints already managed by 
+Enforce security policies to individual users and policy groups from a single policy server
+Instantly protect end user data by sending lock or erase commands to lost or stolen devices
+Automate policy enforcement with remediation of security events
+Update security policies in real-time, before authentication, to revoke user credentials before booting the operating system
+Advanced real-time reporting and auditing to ensure security compliance
+Analyze usage statistics with scheduled reports and alert notifications
+After registering the File Encryption agent, File Encryption options become available for files and folders.
+Right-click a file or folder to see options available.
+Use the following table to understand the available menu options.
+Create an encrypted copy of the specified file.
+Create an encrypted copy of the specified file and write it to a CD or DVD.
+Securely erase the selected files and the file history from the File Encryption device.
+This section explains how to authenticate to and use File Encryption.
+All authentication methods for are available in File Encryption.
+administrators and users have several authentication methods to log on to File Encryption.
+This section describes automatic deployment information specific to File Encryption.
+Right-click the agent icon to display the menu items.
+The following table explains the available menu options.
+First-time user registration of File Encryption with the PolicyServer.
+This option only appears if you have not completed File Encryption registration.
+Permits users to change their password and their authentication method.
+This option is only available if the File Encryption agent is locked.
+For more information about locked accounts, see .
+File Encryption agents can synchronize policies without user authentication.
+File Encryption agents automatically update policy settings based on your PolicyServer configurations.
+Displays File Encryption information including version, last synchronization time, and authenticated user.
+This section describes how to install the File Encryption agent.
+Use File Encryption to protect files and folders within the host operating system.
+The options for this window are as follows:
+These certificates will be required to open the encrypted file.
+There is no available method to remove individual certificates.
+Type and confirm a password that will be required to open the encrypted file.
+Select this option to create the encrypted file as a self-extracting archive.
+Self-extracting archives may be opened on devices that do not have File Encryption agents.
+The following are the Full Disk Encryption issues and limitations.
+File Encryption does not support "Self Help" questions and answers.
+The legal notice does not appear when the endpoint starts.
+If prompted by User Account Control, click Yes.
+The File Encryption installer initiates and automatically installs the agent.
+The endpoint restarts and File Encryption is installed.
+Two File Encryption icons display: one shortcut on the desktop and one tray icon.
+After the desktop loads, it may take a moment for the agent to initiate.
+From the File Encryption Login screen, set the following parameters.
+Go to the system tray and click the icon to open the File Encryption agent.
+This section explains the configurable options for policies affecting File Encryption agents.
+This is an example of an installation script to install File Encryption.
+In this example, both user name and password will be encrypted.
+C:\Program Files\Trend Micro\ File Encryption\FileEncryptionIns.exe PSEnterprise=MyCompany PSHost= PolicyServer.mycompany.com FAUser==jJUJC/Lu4C/Uj7yYwxubYhAuCrY4f7AbVFp5hKo2PR4O= FAPassword==5mih67uKdy7T1VaN2ISWGQQ=
+The following table explains the File Encryption system requirements.
+This is useful in environments where multiple users access one endpoint.
+Gather system information and submit suspicious file content to Trend Micro:
+From the left pane, click Enterprise Users or expand the group and then click Users.
+At the upper corner of the right pane, click Search.
+Fixed password authentication is the most common authentication method.
+You can place restrictions on fixed passwords to ensure that they are not easily compromised.
+Device log maximum size limit reached, event log truncated.
+This section describes automatic deployment information specific to Full Disk Encryption.
+For information about different network topology configurations, see the Installation Guide.
+To change the default port number, go to Recovery Console and update the PolicyServer.
+Full Disk Encryption agents can synchronize policies without user authentication.
+Full Disk Encryption agents automatically update policy settings based on your PolicyServer configurations.
+Temporarily removes the Full Disk Encryption tray icon.
+Displays Full Disk Encryption information including version, last synchronization time, and authenticated user.
+The Encryption Status tab displays the status of each individual disk managed by this agent.
+The following section describes how to install and configure the Full Disk Encryption agent.
+Before installing agents, verify that your environment meets the .
+This issue occurs when the PolicyServer IP address is used during Full Disk Encryption installation.
+Use the PolicyServer FQDN during installation to resolve the issue.
+The Full Disk Encryption preboot Wi-Fi is unable to automatically detect access points with WEP-Shared security.
+The e1000e Ethernet driver is the default driver for Windows 8 and 8.1.
+Full Disk Encryption does not support the e1000e Ethernet driver.
+To resolve this issue, change the driver to e1000:
+Using a text editor, open the vmware.vmx file.
+Save the file and restart the virtual machine.
+When a user logs on Full Disk Encryption, the tray icon shows the correct user name.
+In those cases, the Num Lock indicator can be configured in the BIOS settings.
+Full Disk Encryption does not support installation alongside other third-party full disk encryption products.
+To avoid this issue, only use Zoom to connect to meetings hosted by Trend Micro support.
+Do not attempt to host meetings through the Recovery Tool.
+To use Full Disk Encryption on this endpoint, set the boot configuration to BIOS.
+To ensure successful installation, set the boot configuration to BIOS prior to installation.
+To fix this issue, decrypt the whole disk and encrypt it again.
+During preboot, the Wire Network Configuration screen displays the hidden SSID \x00\x00\x00\x00\x00\x00\x00\x00.
+In rare cases, sectors may become corrupted if the power is cut off while encrypting.
+Full Disk Encryption is incompatible with the PLEXTOR PX-128M5 Pro (old firmware).
+The encryption status of the disk is displayed as (NaN%) when the encryption starts.
+Full Disk Encryption usually queries DNS suffixes from Windows and applies it in preboot.
+However, Full Disk Encryption only uses the first DNS suffix found.
+During preboot, the touchpad of an Acer V3-372 ASUS BU400A machine may be unresponsive.
+To minimize issues, switch to BIOS with SED configuration, or UEFI with normal disk configuration.
+WiFi SSID settings deployed from Control Manager does not support angle brackets (< >).
+Remove angle brackets from the WiFi SSID settings.
+During this time, the cursor may also stop blinking for 30 seconds.
+The issue will be fixed in a future release.
+The Full Disk Encryption preboot does not support the network port of the Microsoft Surface Dock.
+To resolve this issue, use the Full Disk Encryption recovery tool.
+If the issue persists, contact Trend Micro support for data recovery.
+This section explains the configurable options for policies affecting the following Full Disk Encryption agents:
+Manually, from the agent context menu or from the Full Disk Encryption preboot
+After installing Full Disk Encryption, the Full Disk Encryption preboot appears before Windows loads.
+Use PolicyServer MMC to configure and customize the preboot screen.
+Uninstalling Full Disk Encryption removes Full Disk Encryption from the device.
+Once uninstallation is complete, you may proceed with other recovery actions within Windows if necessary.
+Afterwards, you may attempt to reinstall Full Disk Encryption.
+For uninstallation steps, see the Endpoint Encryption Installation Guide.
+The Full Disk Encryption preboot loads, but Windows does not.
+The Full Disk Encryption Recovery Console can be viewed from the Full Disk Encryption preboot.
+This method is not recommended if Windows is functioning normally.
+At startup, neither Windows nor the Full Disk Encryption preboot starts up.
+The endpoint displays a black screen with an unmoving input symbol.
+This issue normally occurs because the MBR is corrupted.
+The Full Disk Encryption Recovery Tool attempts to repair the MBR.
+If successful, the Full Disk Encryption preboot loads normally the next time the endpoints starts.
+This issue normally occurs because the Full Disk Encryption database is corrupted.
+The endpoint is unable to start Windows, or access the Full Disk Encryption preboot.
+The Recovery Tool is unable to repair the disk.
+If the previous recovery methods are inaccessible or do not work, contact Trend Micro support.
+The Trend Micro support team will do their best to resolve your issue.
+C:\Program Files\Trend Micro\ Full Disk Encryption\TMFDEInstaller.exe ENTERPRISE=MyCompany HOST= PolicyServer.mycompany.com eUSERNAME==jJUJC/Lu4C/Uj7yYwxubYhAuCrY4f7AbVFp5hKo2PR4O ePASSWORD==5mih67uKdy7T1VaN2ISWGQQ=
+The following table describes the Full Disk Encryption Status report.
+The timestamp when the device last updated policies from PolicyServer.
+The timestamp when the last enforced policy changes on PolicyServer.
+The Full Disk Encryption Status widget shows the current encryption status of any in the Enterprise.
+Encrypting: The device is currently encrypting the hard disk.
+The status changes to Fully Encrypted once encryption completes and the endpoint restarts.
+Decrypting: The device is currently decrypting the hard disk.
+The status changes to Not Encrypted once the decryption completes and the endpoint restarts.
+Unknown: The device synchronized, but PolicyServer cannot determine the encryption status.
+The number of devices with that current status.
+Click the number to view the Devices report.
+Microsoft .NET Framework 3.5 SP1 or later (Windows 7 and later operating systems)
+Full Disk Encryption uses software-based encryption for all standard drives (drives without self-encryption).
+Full Disk Encryption uses hardware-based encryption for the following self-encrypting drives (SEDs):
+The following table describes the various tools available for .
+From the context menu, you can view the device encryption status and synchronize with PolicyServer.
+Authenticate with PolicyServer through the Full Disk Encryption preboot.
+The preboot loads when the endpoint starts before Windows loads.
+For more information, see the Endpoint Encryption Installation Guide.
+Use Command Line Helper to create encrypted values to secure credentials when creating an installation script.
+DAAutoLogin allows for a one-time bypass of Preboot.
+Only use the Repair CD if standard removal methods are not possible.
+A typical symptom of a corrupted disk is a black screen.
+Full Disk Encryption provides comprehensive endpoint data security using mandatory strong authentication and full disk encryption.
+Until the user is validated, strong preboot authentication restricts access to the vulnerable host operating system.
+Seagate DriveTrust, OPAL, OPAL2, and SanDisk self-encrypting solid-state drives are supported.
+PolicyServer controls policies affecting Full Disk Encryption, ensuring complete endpoint security centrally managed across the Enterprise.
+Full Disk Encryption is network-aware and updates policies before allowing authentication.
+Tell the user the 8-character string from the Response field.
+The device is unlocked and the user can log on to the device.
+For information about installing and configuring PolicyServer MMC, see the Installation Guide.
+This chapter explains how to get started using to manage PolicyServer.
+The following table explains the terminology used throughout the documentation.
+Software installed on an endpoint that communicates with a management server.
+A tool to generate scripts used to install PolicyServer and agents for automatic or mass deployments.
+A tool for creating encrypted values to secure credentials used by agent installation scripts.
+Any computer, laptop, or removal media (external drive, USB drive) managed by .
+The authentication method for single sign-on (SSO) using Active Directory.
+The PolicyServer service that securely manages all agent communication.
+For 3.1.3 and below agent communication, see Legacy Web Service.
+One PolicyServer database may have multiple Enterprise configurations.
+However, configurations using may only have one Enterprise.
+The Endpoint Encryption agent for file and folder encryption on local drives and removable media.
+The PolicyServer service that securely manages all 3.1.3 and below agent communication.
+Trusted Computing Group's Security Subsystem Class for client devices.
+The authentication method for using a Personal Identification Number, commonly used for ATM transactions.
+The central management server that deploys encryption and authentication policies to the agents.
+A bootable disk used to repair a device if the device is unable to boot.
+The Recovery Tool is distributed as an ISO file in the Full Disk Encryption installation package.
+The authentication method requiring a physical card in conjunction with a PIN or fixed password.
+utilizes both role-based and identity-based authentication to secure data.
+To configure users within a policy group on PolicyServer MMC, see .
+To configure the users within a policy group on , see the Endpoint Encryption Administrator's Guide.
+To configure the users within a policy group on , use the Endpoint Encryption Users widget.
+The following shows deployment and scaling requirements in several different-sized environments.
+In smaller network environments, PolicyServer SQL databases can be installed on the same server.
+For PolicyServer deployments in environments greater than 1500 devices, recommends having at least two dedicated servers:
+A dedicated server for the PolicyServer services, also known as the front-end server
+A dedicated server for the database, or add the database to an existing SQL cluster
+Two front-end servers each with an Intel Xeon quad-core 2.2 GHz processor or above
+One SQL database server with an Intel Xeon quad-core 2.2 GHz processor or above
+Four front-end servers each with an Intel Xeon quad-core 2.2 GHz processor or above
+Eight front-end servers each with an Intel Xeon quad-core 2.2 GHz processor or above
+350 GB shared SAN RAID 5 hard drive
+Virtual hardware is supported under VMware Virtual Infrastructure.
+Microsoft or VMware on virtual hardware does not support Microsoft Cluster Service.
+Use the Endpoint Encryption Users widget in to import Active Directory users.
+For more information about managing users with the Endpoint Encryption Users widget, see .
+The Import Users from Active Directory screen appears.
+Specify your credentials for the Active Directory LDAP server.
+For Port, the value 0 specifies the default port.
+Select individual users, then click Import Selected Users.
+Click Close to finish, or repeat the procedure to select more users to import.
+Set your enterprise as a top level group.
+Right-click the enterprise and select Create Top level Group.
+Add the distinguished name for each OU you intend to synchronize.
+For each OU to synchronize, perform the following steps:
+Open Host Name and specify the host name of the AD server.
+Synchronization between the AD and PolicyServer is complete.
+You may force synchronization by stopping and restarting the PolicyServer Windows service.
+Open Enterprise Users, right-click the right pane (whitespace) and then select External Directory Browser.
+Select applicable users, right-click the selection and then select:
+Click OK to finish, or repeat the procedure to select more users to import
+Importing users from a CSV file is supported only for users using fixed password authentication.
+Format each line in the CSV file as follows:
+For fields with no data, use a comma as a placeholder.
+The Import Users from a File screen appears.
+Click Choose File to select the CSV file.
+The users in the CSV file are imported.
+Use a Comma Separated Values (CSV) file to simultaneously import multiple users.
+Format: user name (required), first name, last name, employee ID, email address
+Include a comma for fields with no data.
+Create one CSV file for each group of users to import.
+All users in the CSV file are added to the same group.
+Right-click whitespace in the right pane, then select Bulk Import Add Users.
+Go to the CSV file and click Open.
+The users in the CSV file are added to the group and the Enterprise.
+Even after canceling and restarting installation, the progress bar does not pass 21%.
+Optionally, the PolicyServer MMC can install at the same time.
+Installs the Client Web Service and the Traffic Forwarding Service.
+Installation or Upgrade Disables the "Upgrade" and "Uninstall" Buttons
+On the plugin_manager_screen_title screen, go to the plug-in program section and click Download.
+The size of the plug-in program package displays beside the Download button.
+Monitor the progress or navigate away from the screen during the download.
+After clicking Install Now, the installation begins and an installation progress screen appears.
+After clicking Install Later, the plugin_manager_screen_title screen appears.
+The Trend Micro End User License Agreement screen appears.
+If this screen does not appear, the plug-in program installation begins.
+Monitor the progress or navigate away from the screen during the installation.
+After the installation, the current plug-in program version displays on the plugin_manager_screen_title screen.
+PolicyServer MMC can be installed on a separate endpoint from PolicyServer.
+recommends installing the same version of PolicyServer MMC as PolicyServer.
+Legacy versions of PolicyServer MMC (version 3.1.3 or earlier) are unable to manage PolicyServer .
+Read the license agreement and accept the terms by selecting I Agree and then clicking Next.
+Select installation folder or leave at default location, and click Next.
+After the installation completes, the PolicyServer MMC installs to the specified location.
+A new PolicyServer MMC shortcut appears on the desktop:
+Double-click the PolicyServer MMC shortcut on the desktop.
+recommends creating a backup Enterprise Administrator account and changing the default password.
+The PolicyServer installation process involves running an installer on the server endpoint to configure the following:
+For information about configuring a web proxy, see .
+To install PolicyServer MMC at a later time or on a separate endpoint, see .
+Installing the Encryption Management for Apple FileVault Agent
+To install Encryption Management for Apple FileVault, perform the following procedure.
+If necessary, click the lock icon () to make changes.
+Specify the user name and password for the endpoint.
+For example, run Verify Disk from OS X Disk Utility.
+Restart your Mac in Recovery Mode by holding Command + R during startup.
+If errors are found on the disk, click Repair Disk.
+Check with your system administrator about whether you should defragment your system drive.
+The Installer checks that the system requirements are met.
+If the system requirements are met, click Install.
+Select the hard disk to install that agent.
+After the installation completes, click Close to restart the endpoint.
+The Encryption Management for Apple FileVault agent initiates immediately after the endpoint restarts.
+Go to the menu bar () to open the Encryption Management for Apple FileVault agent.
+Installing the Encryption Management for Microsoft BitLocker Agent
+To install Encryption Management for Microsoft BitLocker, perform the following procedure.
+After a moment, the installation completes and the installer closes.
+To install Full Disk Encryption, perform the following procedure.
+The Full Disk Encryption installer checks the endpoint for installation issues.
+(Optional) Forces Full Disk Encryption to use software encryption instead of hardware encryption.
+The following procedure explains manually configuring to match the existing configuration.
+Install and configure a supported version of .
+To verify which version of to install, see .
+Add all existing users to using the Users widget.
+See Endpoint Encryption Users in the Endpoint Encryption Administrator's Guide.
+For each group that currently exists, create a new policy in .
+See Creating a Policy in the Endpoint Encryption Administrator's Guide.
+See Specifying Policy Targets in the Endpoint Encryption Administrator's Guide.
+This chapter explains how to integrate with .
+You may use to manage PolicyServer instead of PolicyServer MMC for most tasks.
+This chapter assumes that you have already installed and configured PolicyServer.
+To configure a different PolicyServer, first remove the previously configured PolicyServer.
+This guide explains system requirements, deployment considerations, product installation, upgrade scenarios, and product uninstallation.
+This documentation assumes general knowledge about encryption methods, device formatting and partitioning, and client-server architecture.
+This help is a supplementary guide for administrators who require advanced policy setup.
+For general management and help using , see the Administrator's Guide.
+This section describes the Endpoint Encryption issues and limitations grouped according to agent or console.
+The following illustration shows the network environment of a large enterprise with 40,000 devices.
+The multiple traffic routes to the firewalls show redundant network paths to account for high availability.
+For more information about scaling requirements, see .
+The “keys” value for this file is: LEGALvars
+Change the value of the Display Value table entry for each variable to match your product.
+Trend Micro, the Trend Micro t-ball logo, OfficeScan, and Control Manager
+Using the same variable file for a multiple document set:
+Inside the display value element, use elements to separate different document part numbers.
+Set the outputclass of each element to the value in the ditaval file.
+Look at the structure of this example: SMEM104607/100822APEM/35670/120920.
+The id is null, but the otherprops attribute is AG.
+Same as above, but otherprops is set to IG.
+In the right pane, right-click the device and select Lock Device.
+The following table describes when the lockout actions occur:
+The options for lockout actions are as follows:
+The following table explains policies governing email messages sent for important PolicyServer log events.
+Specify the SMTP server responsible for sending alert email messages.
+The following table explains the Endpoint Encryption Log Integrity report.
+To open PolicyServer MMC, do one of the following:
+Double-click the PolicyServer MMC shortcut on the desktop.
+Go to the folder specified during installation, then double-click PolicyServerMMC.msc.
+Specify the user name of an Enterprise administrator account.
+Optional: To use a smart card to authenticate, select Use Smart Card.
+Use Remote Authentication to provide the PolicyServer Administrator with a challenge code.
+Access request aborted due to failed policy integrity check.
+The new ColorCode must be different than the current one.
+The new ColorCode must meet the minimum length requirements defined by PolicyServer.
+The new ColorCode must be different than any previous ColorCode used.
+X9.9 Password Change Failure - Unable to connect to PolicyServer Host
+X9.9 Password Change Failure - Empty Serial Number
+Check that the card is seated properly and that the Smart Card PIN is valid.
+The following table explains the policies that govern logging on to the Full Disk Encryption agent.
+Erase: All content on the device is wiped.
+Remote Authentication: Require user to perform remote authentication.
+Specify the number of days that the client may be out of communication with the PolicyServer.
+Specify a sequence of characters, when entered will erase all contents on the device.
+Specify the action to be taken when the device locks.
+Time Delay: The amount of time that must elapse before the user can retry logging on.
+Specify the number of failed Login attempts before using Lock Device Time Delay.
+Specify whether a legal notice should be displayed.
+Specify when the configured legal notice should be displayed to the user.
+Lock device for X minutes if user exceeds Failed Attempts Allowed.
+Specify the blue value of the RGB color code.
+Specify the green value of the RGB color code.
+Specify the red value of the RGB color code.
+Specify if a banner image should be shown during logon.
+File formats: PNG with transparency (recommended), JPG and GIF
+Policy related to physical tokens including smart cards and USB tokens.
+All sub-policies are visible only when Token Authentication is enabled.
+Verifying certificates via OCSP allows for the revocation of invalid certificates via the CA.
+All sub-policies are visible only when OCSP Validation is Enabled.
+Defines the action to take if the OCSP certificate status is expired.
+Time Delay, Erase, Remote Authentication, Denial of Login, Allow Access
+Defines the action to take if the OCSP certificate status is revoked.
+Whether success of OCSP reply should be displayed.
+Specify the action when an OCSP certificate status is unknown.
+Pass the token to the desktop GINA for further processing during the boot process.
+The following table explains the policies that govern logging on to the File Encryption agent.
+Specify the allowed type(s) of authentication that can be used.
+Action to be taken when the device is locked.
+Number of failed logon attempts before using Lock Device Time Delay.
+This is a sub-policy of the Legal Notice.
+Specify when the configured legal notice is displayed to the user.
+The legal notice does not appear for File Encryption 3.1.3 or older agents.
+This is the only option available if the Recovery Console is accessed from Windows.
+Decrypt the system disk and all data disks attached to the endpoint
+Exclude the disk from being managed by Full Disk Encryption
+This option is available only for data disks which have completed decryption.
+To manage the disk again, use Full Disk Encryption to re-encrypt the disk.
+Roll back the MBR to a state before Full Disk Encryption installation
+This option is available only for system disks which have completed decryption.
+To enable this option, detach all data disks from the endpoint.
+Remove the preboot from an SED system disk
+This option is available only for SED system disks which have completed decryption.
+The Manage Users option is useful when the Full Disk Encryption agent cannot connect to PolicyServer.
+Both the Full Disk Encryption preboot and Windows Recovery Console can use this option.
+Manage Users is only available when not connected to PolicyServer.
+Changes made to users through Recovery Console are overridden when Full Disk Encryption connects to PolicyServer.
+Specify the user password expiration date using the Password Expiration calendar.
+Setting the date to the current date or older forces an immediate password change.
+Setting the date to a future date commits a change on that specified date.
+Use Manage Policies to set various policies for Full Disk Encryption Recovery Console.
+For more information about these policies, see the Administrator's Guide for PolicyServer MMC.
+Manage Program Button is Disabled or Leads to Blank Screen
+After downloading the , users may encounter one of the following issues:
+The Manage Program button in Plug-in Manager may be disabled.
+Both of these issues result in users being unable to access the .
+Only messages within the last seven (7) days automatically display.
+Use the filter to view older log events.
+It is useful to search the logs using the message ID.
+For example, searching for the message ID 400008 displays all Device Encryption Complete messages.
+Click Previous or Next to navigate through log data.
+By default, Get setting from Windows is selected for both IPv4 and IPv6.
+Deselect this option to manually configure the network settings.
+Selecting DHCP (IPv4) or Automatically get address (IPv6) uses the dynamically assigned IP address.
+Selecting Static IP enables all fields in that section.
+The following procedure shows how to add PolicyServer to the Active Directory computer list.
+Open your Password Settings object (PSO) Security settings.
+In the View menu, verify that Advanced Features are enabled.
+Locate your domain node in Active Directory Users and Computers
+Select the PSO Property that you intend to use for password policy management.
+Add the PolicyServer endpoint to the Group or user names list.
+Under the Group or user names list, click Add....
+On the plugin_manager_screen_title screen, go to the plug-in program section and click Manage Program.
+Manage users in from the Enterprise Users screen.
+The following section explains how to manually uninstall agents using the program installer.
+Full Disk Encryption agents automatically receive policy updates from PolicyServer at intervals determined by policy.
+Do either of the following to manually update policies.
+The timestamp of the latest PolicyServer policy synchronization displays.

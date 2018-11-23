@@ -1,0 +1,2500 @@
+TMMS Google Play Description – Updated for Version 6. –Short Version
+New interface provides a simple dashboard to view overall status, feature status, and actions taken
+Copyright © 2010-2014 Trend Micro Incorporated. All rights reserved.
+Trend Micro recommends removing other apps that provide similar features before using Mobile Security.
+Mobile Security can check for malicious apps on your mobile device in two ways:
+When enabled, the Real-time Scan checks for security threats in every new app that you install.
+On the main screen, tap Virus Scanner > Scan tab.
+To scan files on the memory card: 
+Tap Scan Options , and then select one of the following:
+Virus Scanner - Updates Virus Scanner - History Privacy Scanner Back to Top 
+To stay protected against the latest security threats, please update the Virus Scanner regularly.
+Your mobile device must connect to the Internet to download updates.
+To check for an update at any time: 
+On the main screen, tap Virus Scanner > Update tab.
+To enable automatic scan after successful update: 
+Virus Scanner Virus Scanner - History Privacy Scanner Back to Top 
+The Virus Scanner automatically keeps records of previous scans, updates, and other events.
+To view the Virus Scan or Update History: 
+On the main screen, tap Virus Scanner > History tab > Virus Scanner or Updates .
+Tap a record that you want to view.
+Once records are deleted, they cannot be recovered.
+You can either select and delete records, or delete all of the records:
+Tap and hold the records (one at a time) that you want to delete.
+Tap the delete icon (trash can) at the top, and tap Delete .
+Virus Scanner Virus Scanner - Updates Privacy Scanner Back to Top 
+Privacy Scanner powered by Mobile App Reputation Technology 
+On the main screen, tap Privacy Scanner > Scan tab > History.
+On the main screen, tap Privacy Scanner > Trusted Apps tab.
+If you add apps to the Trusted Apps list, then future scans will ignore them.
+Mobile Security can check for privacy risks on your mobile device in two ways:
+When enabled, the Real-time Scan checks for privacy risks in every new app that you install.
+Your mobile device must connect to the Internet to run a privacy scan.
+On the Scan tab, select Real-time Scan .
+On the Scan tab, select Scan Memory Card .
+To view the privacy scan history record: 
+On the Scan tab, tap History and then tap a record that you want to view.
+On the main screen, tap Privacy Scanner > Scan tab > History .
+To add apps to the Trusted Apps list: 
+On the main screen, tap Privacy Scanner > Trusted Apps tab.
+Tap Add an App , and then tap one of the following options:
+You can now select and add apps, or add all of the apps in the list:
+To remove an app from the Trusted Apps list: 
+Understanding Privacy Scanner Results Back to Top 
+Mobile Security can block unsafe websites based on the level of protection that you choose:
+Low blocks only websites that have been confirmed as fraudulent or dangerous.
+Parental Controls - Filtering Lists Parental Controls - History Back to Top
+Parental Controls Safe Surfing and Parental Controls - Blocked History Back to Top
+On the main screen, tap Safe Surfing > History tab > Safe Surfing or Parental Controls.
+On the Safe Surfing tab, select the Protection Level :
+Slide the green circle after Safe Surfing to the left.
+Safe Surfing - Filtering Lists Safe Surfing - Blocked History Back to Top 
+Trend Micro Mobile Security helps you filter unwanted websites with the following lists:
+To add a website to the filtering list : 
+Tap Add , type the name and address of the website, and then tap Save .
+To edit a website on the filtering list: 
+Tap and hold the name of the website that you want to edit.
+Tap the menu icon at the top (three vertical dots), and then tap Edit .
+Edit the name and address of the website.
+To delete websites from the filtering list: 
+You can either select and delete websites, or delete all of the websites:
+Tap and hold the websites (one at a time) that you want to delete.
+Safe Surfing Safe Surfing - Blocked History Back to Top 
+To enable or adjust the Protection Level: 
+You must set up or sign into your Trend Micro account before using Parental Controls .
+On the Parental Controls tab, select a Protection Level :
+If necessary, type your Trend Micro account password again, and then tap OK .
+Slide the green circle after Parental Controls to the left.
+Type your Trend Micro account password, and then tap OK .
+Make sure that you have already enabled the Parental Controls .
+On the Parental Controls tab, slide the grey circle after Uninstall Protection to the right.
+Tap Activate on the screen that appears, and then tap OK .
+On the Parental Controls tab, slide the green circle after Uninstall Protection to the left.
+If required, type your Trend Micro account password, and then tap OK .
+Parental Controls - Filtering Lists Parental Controls - History Back to Top 
+Type the name and address of the website.
+If necessary, type your Trend Micro account password and tap OK .
+If necessary, type your Trend Micro account passwords and tap OK .
+Parental Controls Safe Surfing and Parental Controls - Blocked History Back to Top 
+Safe Surfing and Parental Controls - Blocked History 
+Mobile Security adds a record to the Blocked History upon blocking a website.
+To view the Safe Surfing or Parental Controls Blocked History: 
+Tap the record that you want to view. 
+To delete Safe Surfing or Parental Controls Blocked History records: 
+If necessary, type your Trend Micro account password, and then tap OK .
+Parental Controls Parental Controls - Filtering Lists Back to Top 
+Mobile Security helps you filter unwanted calls with the following lists: 
+To enable and set up call blocking: 
+On the main screen, tap Call &hisoft Text Blocking .
+Slide the gray circle after Call Blocking to the right to enable the feature.
+On the Call tab, tap Filtering Method , and then select one of the following options:
+Tap Action , and then select one of the following options:
+Slide the green circle after Call Blocking to the left.
+You can choose what Mobile Security will do in response to a blocked call:
+Reject call blocks incoming calls based on the filtering list you selected.
+Silence device prevents your mobile device from making noise.
+If Mobile Security rejects a call, the caller will not reach your voice mail.
+On the Call tab, tap Action , and then select one of the following options:
+On the Call tab, tap Action , and then select Reject call + send reply .
+Tap the add icon (plus sign) at the top.
+Type the message, and then tap Save .
+Edit the message, and then tap Save .
+Text Blocking feature is only available for mobile devices running Android 4.3 or lower operating system.
+Text Blocking Annoying Text Protection Filtering Lists Blocked Call History Blocked Text History Back to Top
+To enable or disable Annoying Call Protection: 
+Trend Micro Mobile Security helps you filter unwanted text messages with the following lists:
+To enable and set up text blocking: 
+Slide the gray circle after Text Blocking to the right to enable the feature.
+On the Text tab, tap Filtering Method , and then select one of the following options:
+Refer to Annoying Text Protection for more details.
+Slide the green circle after Text Blocking to the left.
+You can choose what Mobile Security will do in response to a blocked text message:
+On the Text tab, tap Action , and then select one of the following options:
+To add or edit automatic reply message: 
+On the Text tab, tap Action , and then select Block message and reply .
+You can not add or edit the reply message:
+To add a new message, tap the add icon (plus sign) at the top.
+Type or edit the message, and then tap Save .
+To delete an automatic reply message : 
+To enable Annoying Text Protection and add filtering keywords: 
+On the Text tab, select Block Annoying Texts .
+On the Text tab, clear Block Annoying Texts .
+Trend Micro Mobile Security includes the following two types of filtering lists:
+Uninstalling Mobile Security will permanently remove your Blocked List and Approved List.
+To import contacts into your filtering list: 
+Tap Add , and then tap one of the following options:
+You can now select and add contacts or add all of the contacts in the list:
+To add a phone number to your filtering list: 
+Tap Add , and then tap Add phone number .
+Type the name and phone number of the contact.
+To edit a contact in your filtering list: 
+Tap and hold the contact that you want to edit.
+To delete contacts from your filtering list: 
+Tap and hold the contacts (one at a time) that you want to delete.
+Call Blocking Text Blocking Back to Top 
+Uninstalling Mobile Security will permanently remove your Blocked Call History.
+To delete records from blocked call history: 
+Tap and hold the record (one at a time) that you want to delete.
+Call Blocking Text Blocking Blocked Text History Back to Top 
+Uninstalling Mobile Security will permanently remove your Blocked Text History.
+Tap the message that you want to read .
+To restore a blocked message to your Inbox: 
+Tap and hold the blocked message that you want to restore
+To delete records from the blocked text history: 
+Call Blocking Text Blocking Blocked Call History Back to Top 
+Remote Lock stops others from using your lost device.
+For the Lost Device Protection features to work properly:
+Sign into your Google account and Trend Micro account and do not sign out.
+Do not deactivate Mobile Security in Device administrators .
+Keep Background data enabled in Accounts &hisoft sync .
+To enable or disable the Find My Android feature on your mobile device: 
+On the main screen, tap Lost Device Protection > Protection tab.
+To enable or disable the SIM Card Lock feature on your mobile device: 
+To enable Remote Wipe feature on your mobile device: 
+On the main screen, tap Lost Device Protection > Remote Wipe tab.
+Once your mobile phone is located, click Lock .
+Type your Trend Micro account password on the Locked screen and tap Unlock .
+Send an unlock key to your email addresses:
+Trend Micro &trade; Mobile Security automatically adds your Gmail address to your email address list.
+Open your email inbox and and then open the message from Trend Micro.
+Type the key in the password field and tap Unlock .
+Get an unlock key directly from the website:
+On your mobile device, type the key in the password field and tap Unlock .
+Trend Micro Mobile Security provides the integration with the following tools:
+Mobile Backup &hisoft Restore , that lets you regularly back up your important information for free.
+Scan Facebook &trade;, to scan your privacy settings on Facebook &trade;, and provide you helpful recommendations.
+To install Mobile Backup &hisoft Restore or Scan Facebook &trade;: 
+On the main screen, tap Backup &hisoft Restore or Scan Facebook &trade;.
+Tap Install to start the download and installation process.
+To show or hide Mobile Security icon on notification bar: 
+On the Mobile Security main screen, tap the Menu button, and then tap Settings .
+To sign out of Trend Micro account: 
+Tap the edit icon (pencil) after Other email address (optional) .
+To find out Mobile Security product version number: 
+Tap About to view the product information including version number.
+Just-a-Phone can turn off all non-essential features except phone & texting to save battery life
+The Free version:--Free Antivirus Protection & Scanner--50MB of Cloud Storage to backup contacts/photos/etc.--Privacy Scanner for Facebook
+-- Just-a-Phone – kills non-essential background processes during calls when your battery is low 
+Malware Cleaner – removes malware and restores your smartphone’s normal settings
+Auto Just-a-Phone – automatically kills non-essential background processes during calls when your battery is low
+Smart Power Saver – intelligently manages your network connections to use less battery power 
+• Integrated cloud backup of photos, videos, and music files
+• Unique cloud-based protection, safeguarding against 250 million threats per day
+* Malware blocker feature is not compatible with the following devices:
+TMMS Google Play Description – Updated for Version 6.
+It now blocks malware before installation to provide comprehensive data protection – an industry first!
+The Free version:--Free Antivirus Scanner & Protection--50MB of Cloud Storage to backup contacts/photos/etc.--Privacy Scanner for Facebook
+-- Just-a-Phone – kills non-essential background processes during calls when your battery is low 
+-- 60 days of premium capabilities absolutely free!
+detects and blocks malware before it installs and damages your device and your data.
+Other products can only block malware after it has been installed and caused damage 
+Malware Cleaner – removes malware and restores your smartphone’s normal settings
+Auto Just-a-Phone – automatically kills non-essential background processes during calls when your battery is low
+Smart Power Saver – intelligently manages your network connections to use less battery power 
+• Integrated backup of photos, videos, and music files
+• Unique cloud-based protection, safeguarding against 250 million threats per day
+Antivirus – scans your apps and files to ensure they are not malicious
+Battery Status and Optimizer – maximizes your battery by killing non-essential background processes.
+Memory Status and Optimizer – shows the amount of free memory and percentage remaining.
+The task killer lets you free up memory and CPU by killing non-essential apps
+-- Locate Your Device finds your device on a Google map
+--Identifies which apps collect and steal your personal info
+-- Blocks malicious websites including phishing and fake bank websites
+-- Parental Controls let you block inappropriate websites
+-- Blocks unwanted contact with whitelists and blacklists of phone numbers
+Turns off 3G/4G, WiFi, Bluetooth, and all running apps.
+Smart Power Saver – intelligently manages your network connections to minimize battery impact.
+It turns off 3G/4G when the phone darkens and stops continuous WiFi searching.
+It initiates checks based on timeframes that you configure
+Phone-based technical support – available in supported regions
+For this and other Trend Micro mobile security solutions you should try searching the following terms:
+Shows battery status and optimizes battery usage by killing non-essential background processes 
+Turns off all non-essential features except phone and texting to save battery life
+Lets you clean out history files to guard against privacy concerns
+Provides simple dashboard to view overall status, actions taken, actions required, and status of each feature
+Visit Developer's Website Email Developer Privacy Policy 
+When enabled, the Pre-Installation Scan checks apps for security threats before you download them.
+Pre-Installation Scan feature is only available on mobile devices running Android v4.0 or later.
+On the main screen, tap Virus Scanner > Scan tab.
+Virus Scanner - Updates Virus Scanner - History Privacy Scanner Back to Top
+On the main screen, tap Virus Scanner > Update tab.
+Virus Scanner Virus Scanner - History Privacy Scanner Back to Top
+On the main screen, tap Virus Scanner > History tab > Virus Scanner or Updates.
+Virus Scanner Virus Scanner - Updates Privacy Scanner Back to Top
+Privacy Scanner powered by Mobile App Reputation Service (MARS)
+On the main screen, tap App Manager > Uninstall (tab).
+Select the apps that you want to uninstall, then tap Uninstall.
+Tap OK on the confirmation dialog box for each app.
+You can only enable or disbale the preinstalled apps.
+On the main screen, tap App Manager > Uninstall (tab) > Pre-installed apps
+Tap Enable or Disable again on the screen that appears.
+On the main screen, tap App Manager > Uninstall (tab) or Setup Files (tab).
+Look for your app or setup file, and tap Details under the app or file name.
+On the main screen, tap App Manager > Setup Files (tab).
+Select the setup files that you want to delete, and then tap Delete.
+Tap Install on the pop-up dialog box, and follow the on-screen instructions to complete the installation.
+Safe Surfing - Filtering Lists Safe Surfing - Blocked History Back to Top
+Safe Surfing Safe Surfing - Blocked History Back to Top
+Parental Controls Parental Controls - Filtering Lists Back to Top
+Call Blocking Annoying Call Protection Filtering Lists Blocked Call History Blocked Text History Back to Top
+Text Blocking Text Blocking Actions Filtering Lists Blocked Call History Blocked Text History Back to Top
+On the main screen, tap Call &hisoft Text Blocking > History tab > Call Blocked History.
+Call Blocking Text Blocking Blocked Text History Back to Top
+On the main screen, tap Call &hisoft Text Blocking > History tab > Text Blocked History.
+Call Blocking Text Blocking Blocked Call History Back to Top
+On the main screen, tap Lost Device Protection > Protection tab.
+On the main screen, tap Lost Device Protection > Protection (tab).
+Edit the device name, and then tap Save.
+On the main screen, tap Lost Device Protection > Remote Wipe tab.
+On the main screen, tap Backup &hisoft Restore.
+Tap each setting displayed on the screen and select the appropriate choice recommended by Trend Micro.
+Auto Activate lets you set a schedule to activate Just-a-Phone mode automatically.
+Auto Activate Threshold lets you set conditions for activating Just-a-Phone mode automatically.
+Switch off 3G/4G helps you save power by shutting down your cellular data connection.
+Switch off Wi-Fi helps you save power by shutting down your wireless Internet network connection.
+Switch off Bluetooth helps you save power by shutting down your Bluetooth capability.
+Stop any running apps helps you save power by shutting down apps you have not approved.
+Screen Brightness helps you save power by reducing the brightness of your screen.
+Standby Saver makes Wi-Fi, 3G/4G, and Bluetooth shut down automatically if nobody uses the phone.
+History Cleaner removes web browser and search histories, as well as clipboard data.
+On the Battery tab, enable Just-a-Phone Mode and Smart Power Saver.
+Regularly clean your history to make sure you have enough space on your mobile device.
+Select what you want to delete and then tap Clean Up.
+TMMS Google Play Description – Updated for Version 7.0
+It is also certified by PCSL and AV-Comparatives.
+It includes an additional layer of billing security to protect against fake financial and shopping apps.
+Also, it blocks malware before installation to provide comprehensive data protection – an industry first!*
+Download Mobile Security, Android Antivirus & Performance Booster today.
+-- Just-a-Phone – kills non-essential background processes during calls when your battery is low
+Other products can only block malicious apps after they have been installed and can cause damage.*
+Malware Cleaner – removes malware and restores your smartphone’s normal settings
+Auto Just-a-Phone – automatically kills non-essential background processes during calls when your battery is low
+Smart Power Saver – intelligently manages your network connections to use less battery power
+With expertise gained over 25 years, Trend Micro is a mobile security leader that delivers:•
+• Unique cloud-based protection, safeguarding against 250 million threats per day
+* Malware blocker feature is not compatible with certain devices.
+Please check the following webpage for the list of incompatible devices:
+Increased detection and cleaning of the latest Android malware threats
+Added new Android 5.0 operating system notification icon
+Adjusted the user interface for more consistency of language style, button color, etc.
+It safeguards against ransomware, malicious apps, fraudulent websites, and identity theft.
+Mobile Security for Android detects malware on Google Play™ before it can be installed.
+Enjoy your digital life safely with Trend Micro Mobile Security.
+Protects against ransomware, fake banking, shopping, and financial apps
+Helps prevent identity theft and blocks dangerous links in messaging apps including WhatsApp
+Parental Controls keep your child from accessing unwanted websites and apps
+Remote console to find your lost phone, recover from common ransomware hijacking, or wipe your device
+Increases device performance with app manager, system optimizer and app freeze
+* Per AV-TEST Institute Mar-2017 testing results, compared to the industry average of 99.0%.
+-- System Tuner – helps you manage battery and memory efficiently
+-- Just-a-Phone – keeps your device powered longer when resources are low
+• Malware Cleaner – removes malware and restores your smartphone’s normal settings
+• Secret Snap – capture a picture of people attempting to use your device
+• Privacy Scanner – warns you of apps that could expose your personal information
+• Vulnerability Scanner – warns you of apps that could be exploited by hackers
+• App Lock – User-selected apps (including system settings) can be blocked from unauthorized use
+• System Health Check – get notifications for system settings that may leave you vulnerable
+• Wi-Fi Checker – Notifies you when connecting to an unsecure network
+The following permissions are required for optimal protection and service.
+Used for critical alerts that you should be aware of ASAP and for app lock screens
+Used for Safe Surfing and Preinstall Scan to scan URLs and apps on Google Play
+Used for App Lock to monitor app status
+Used for scanning apps on your SD card
+Used to track the device in the Lost Device Portal
+Used for messaging blocking and user-triggered message wipe
+Used for power saving tools, like Just-A-Phone mode
+Our Premium version is available as a 7-day trial, starting when the app is first used.
+The Best Mobile Security & Malware protection for Your Phone Download it now
+Mobile Security for Android & Antivirus Scan with Performance Booster 
+Protects you against ransomware, fake banking, shopping, and financial apps
+Scans URLs and blocks dangerous sites, keeping you safe while browsing the web
+⚙️ Increases device performance with app manager, cleaner system and app optimizer
+Parental Controls keep your children from accessing unwanted web content and apps
+✔️Safe Surfing – Use Chrome, or other browsers, and stay clear from harmful websites
+✔️Wi-Fi Checker – Notifies you when connecting to an unsecured network
+✔️System Tuner – Helps you manage battery and memory efficiently
+✔️Malware Scan & Cleaner – Scan & removes malware to restore your smartphone's normal settings
+✔️Privacy Scanner – Warns you of apps that could expose your personal information
+✔️Vulnerability Scanner – warns you of apps that could be exploited by hackers
+✔️App Lock – User-selected apps (including system settings) can be blocked from unauthorized use
+✔️Secret Snap – Capture a picture of unauthorized attempts to use your device
+✔️System Health Check – get notifications for system settings that may leave you vulnerable
+✔️Just a Phone – Keeps your device powered longer when resources are low
+• Draw over other apps: for critical alerts
+• Accessibility: for Safe Surfing and Preinstall Scan
+• Storage: for scanning apps on your SD card
+• Modify system settings: for power saving tools, like Just-A-Phone mode
+Local VPN guards against fraud, phishing, & other dangerous websites in all browsers.
+To continue installing the software you must agree to the terms of the software license agreement.
+Click Agree to continue or click Disagree to cancel the installation and quit the Installer.
+Enter a serial number, or select the free trial version:
+Start a free trial of Trend Micro Titanium
+Enter a serial number for Trend Micro Titanium
+Visit the Trend Micro support website to upload the troubleshooting log files.
+Set up Trend Micro Titanium to collect troubleshooting information.
+Click this button to delete all temporary files from your Mac.
+Start or stop all Trend Micro Titanium components.
+Open the folder containing the compressed log files generated while checking the Internet connection.
+Check your Internet connection, collect logs, and then open a website for testing purposes.
+Visit the Trend Micro support website to upload the compressed files.
+Please activate Trend Micro Internet Security to get the latest protection.
+Sites that provide online advertising or set up banner advertisements.
+Quickly checks for malicious software in the places where it tends to hide
+Checks for malicious software in a specific place, like a drive or folder
+Thoroughly checks every file on your Mac for malicious software
+Make the scans ignore everything on these lists
+Click + to make an addition to the list
+Always allow access to the websites listed below
+Click + to add a website to the list
+Use the Website Filter to block access to selected websites.
+. You must restart the computer to finish removing the security threats.
+The serial number you provided is invalid. Please try again.
+Copyright © 2012 Trend Micro Inc. All rights reserved
+Could not download the updated component. Check the network connection and try again.
+The current components are all up-to-date. No new updates are available.
+A network timeout has occurred. Check the network connection and try again.
+The update source is not available. Ensure that the proxy settings are correct and try again.
+Could not connect to the update server. Check the network connection and try again.
+You have already installed Trend Micro Titanium on this Mac.
+You cannot install Trend Micro Titanium on a PowerPC Mac. The installer will now close.
+You must stop the Trend Micro Titanium installer already running before trying to launch it again.
+A newer version of Trend Micro Titanium already protects this Mac, so the installer must stop.
+You must remove the security software shown below from your Mac before installing Trend Micro Titanium.
+You must uninstall Trend Micro Security for Macintosh before installing Trend Micro Titanium.
+You must remove the previous version of Trend Micro Titanium before installing the latest version.
+Copyright © 2014 Trend Micro Incorporated. All rights reserved.
+Please wait until the task now in progress has finished before trying to stop this program.
+To finish uninstalling Trend Micro Titanium, you must now close this program.
+Do you really want to uninstall Trend Micro Titanium?
+Uninstalling the software will remove all of its components.
+Components could not be uninstalled successfully. Please try again later.
+Unable to stop the uninstallation process. After the uninstallation completes, reinstall the program to continue.
+The software has not been installed on this Mac, so it could not be removed.
+Please wait until Trend Micro Titanium has finished receiving an update before trying again.
+Please try again later. If the problem persists, please contact Trend Micro for help.
+Trend Micro Titanium must now close due to an error. Sorry for the inconvenience.
+Unable to open the Trend Micro Titanium console
+Please wait until the upgrade now in progress has finished before trying again.
+By renewing Trend Micro Internet Security, you can protect yourself from the latest security threats.
+Please select a number between 1 and 65535.
+The update cannot stop right now. Please wait until it has finished before trying again.
+Trend Micro Titanium cannot start another scan before the one already in progress has finished.
+Select at least one file or folder and try again.
+You have tried to put too many things on the exception list.
+Do you want to close the exception list without saving your changes?
+Click Save to preserve your changes, or click Discard if you would rather not keep them.
+Trend Micro Titanium cannot recognize what you selected.
+Trend Micro Titanium cannot recognize what you entered.
+You have already added at least one of these files to the Exception List
+You have already added this file extension to the Exception List
+You cannot select more than 64 files and folders for Trend Micro Titanium to scan.
+You did not provide an address in the right format.
+Do you want to close this list without saving your changes?
+You have added too many addresses to this list of websites.
+You have already added this address to the list.
+Unable to add your selections to the Scan Exception list.
+You cannot use that serial number to activate this version of Trend Micro Internet Security.
+Files not restored, deleted, or cleaned: Files successfully restored, deleted, or cleaned:
+Files not restored, deleted, or cleaned: Files successfully restored, deleted, or cleaned:
+You cannot restore a file after deleting it. Do you still want to continue?
+Purchase the full version to regain your protection.
+Download the newest security update to get the latest protection. Click the Update Now button.
+Please activate Trend Micro Titanium to get the latest protection.
+You no longer have protection against the latest threats. Activate now to get new security updates.
+Get the newest security update to gain the latest protection.
+Your trial ends in days. Click the Buy Now button to stay protected.
+Your subscription ends in days. Click the Renew Now button to stay protected.
+Please confirm that you want to delete the logs.
+You cannot recover the logs after deleting them.
+The folder that originally contained this file was not found.
+The folders that originally contained of these files were not found.
+You cannot use a Trend Micro AntiVirus serial number for . Please enter the correct number.
+You cannot use that serial number to activate this version of Trend Micro Titanium.
+To finish activating your security software, follow the steps below:
+After connecting your Mac to the Internet, please open Trend Micro Titanium and click Activate Now.
+Trend Micro Titanium now protects you, but can only download updates for a limited time.
+Trend Micro could not accept your activation information.Please contact Trend Micro for help.
+Unable to deliver your activation information to Trend Micro.Please contact Trend Micro for help.
+Unable to deliver your upgrade information to Trend Micro.Please contact Trend Micro for help.
+After typing the serial number below, click the Done button.
+If you need another serial number, please buy one online.
+By starting a paid subscription, you can protect yourself from the latest security threats.
+Click the Buy Now button to make a purchase:
+If you have bought a new serial number, enter it above.
+Your Mac no longer has protection against malicious software and unsafe websites.
+By renewing Trend Micro Titanium, you can protect yourself from the latest security threats.
+Click the Renew Now button to make a purchase:
+Click a category to see more detailed information about it.
+Security Update for Your New Version of OS X
+To keep protecting this Mac, you need a newer version of your Trend Micro security software.
+Trend Micro Titanium will try to scan your Mac again later.
+Please reconnect your Mac to the Internet, open Trend Micro Titanium, and click Update Now.
+Sites that provide assistance in finding employment, and tools for locating prospective employers.
+Sites that provide or promote systems to upload or download computer software files.
+Sites that provide assistance in finding digital photographs on the Internet.
+You have tried to add too many addresses to the list.
+Try restarting your Mac. If the problem persists, please contact Trend Micro for help.
+Sites that provide or distribute software for making telephone calls using the Internet.
+Try restarting the scan. If the problem persists, please contact Trend Micro for help.
+Restart Trend Micro Titanium. If the problem persists, please contact Trend Micro for help.
+Try running a custom scan on the drive that just connected to your Mac: .
+Trend Micro Titanium will automatically restart to make the update take effect.
+Would you rather reopen the program or fully close it instead?
+Do you really want to shut down Trend Micro Titanium?
+Checks the safety of websites before you click the links to open them.
+The eamil address you provided is invalid. Please try again.
+Checks the safety of websites before you click the links to open them
+This page previously contained undesirable content, but Trend Micro now considers it safe.
+This page could pose a security risk. Your protection settings may prevent it from opening.
+The address of this page appears on your list of blocked websites.
+The Parental Controls on this computer do not allow access to this page.
+Now confirming that your Mac meets the system requirements to install Trend Micro Titanium...
+You are not allowed to open this page
+The Website Filter currently blocks websites in this category: 
+If you still want to open this website, ask your parents for permission.
+Instructions for Mom or Dad to open this website:
+Click the "Web" and click "Website Filter" page tab.
+Go back to this page in your web browser and click the Reload Page button.
+A server error or connection problem has prevented this page from opening
+If the preceding instructions do not solve the problem, please contacttechnical support.
+The Blocked List currently block your Internet access.
+Click the lock icon and enter your password.
+Copy and paste the address of the blocked website into the list.
+Opening this website may put your security at risk
+You should either close this window or refer to the instructions under What you can do.
+Dangerous This page can transmit malicious software to your Mac, or supports online fraud.
+Try visiting another site to find the information you want.
+Notify Trend Micro to review this page if you consider it safe.
+If you still want to see this blocked page:
+Click Web and select theWeb Threat Protection tab.
+Unable to connect to the Internet. Check your connection, and then try again.
+Now that you have confirmed your password, click the button to see the results.
+Now that you have signed into the right account, click the button below.
+Once the Facebook site opens again automatically, please leave it open to scan the settings.
+Once the Twitter site opens again automatically, please leave it open to scan the settings.
+Once the Google+ site opens again automatically, please leave it open to scan the settings.
+Trend Micro Privacy Scanner really helped me. Try it for yourself.
+People outside of Facebook can see your info
+When ready to make the changes, click the button and confirm your Twitter password.
+Click here when ready to save any changes below
+Nice work! You don't have any privacy concerns.
+To help protect your privacy, the following changes will be made to your settings.
+Turn on Trend Micro Toolbar to check your privacy.
+If you keep seeing this message, click here to get help.
+Please upgrade to the latest version of Microsoft Internet Explorer.
+Get recommendations for your privacy settings that can help make you less visible to strangers.
+Help improve Titanium by providing anonymous user stats.
+Something went wrong. Please contact Trend Micro for help.
+You can try to download the installer again, or contact Trend Micro for help.
+Copyright © 2013 Trend Micro. All rights reserved.
+Click this button to monitor your Mac, then reproduce the problem to generate needed information.
+Upload troubleshooting data to Trend Micro support automatically
+Uploading troubleshooting data failed, Can not connect to Trend Micro server.
+Diagnostic Toolkit will check your Internet connection and collect troubleshooting information from this Mac.
+Diagnostic Toolkit will check your Internet connection and collect troubleshooting information from this Mac.
+You have already added at least one of these files to the Exception List.
+Items on the process exception list are not scanned by .
+Items on the list below are not scanned by .
+To finish uninstalling , you must now close this program.
+You must restart your browser for the changes to take effect.
+Your subscription ends in days. Click the Learn More button to stay protected.
+You cannot use that serial number to activate this version of .
+By renewing , you can protect yourself from the latest security threats.
+After connecting your Mac to the Internet, please open and click Activate Now.
+now protects you, but can only download updates for a limited time.
+Please get an activation code and enter the activation code to extend your protection.
+Please wait until has finished receiving an update before trying again.
+must now close due to an error. Sorry for the inconvenience.
+Trend Micro Internet Security now protects your Mac.
+Restart and try again. If the problem persists please contact Trend Micro for help.
+cannot start a scan while receiving an update. Please try again after receiving the update.
+Quitting will stop the update now in progress. Do you still want to quit ?
+cannot start another scan before the one already in progress has finished.
+You have already added at least one of these folders to the Exception List
+Trend Micro Internet Security now protects you, but can only download updates for a limited time.
+You cannot select more than 64 files and folders for to scan.
+Restart or your Mac. If the problem persists, please contact Trend Micro for help.
+Your subscription ends in days. Click the Buy Now button to stay protected.
+will try to scan your Mac again later.
+Please reconnect your Mac to the Internet, open , and click Update Now.
+Restart . If the problem persists, please contact Trend Micro for help.
+will automatically restart to make the update take effect.
+has not been updated in the last days. Please open and click Update Now.
+has not been updated in the last days. Please open and click Update Now.
+Do you really want to shut down ?
+The installer seems to be missing. Please contact Trend Micro for help.
+Please provide your email address to receive the latest news and offers from Trend Micro.
+Start to collect the information and generate a troubleshootinglog file for Trend Micro support.
+Sites that allow or offer Web-based communications by email, instant messaging, message boards, or similar systems.
+Thank you for choosing Trend Micro to protect your Mac.
+Once installed, Trend Micro Titanium Internet Security for Mac protects against unsafe websites and malicious software.
+The entire installation process should only take a few minutes.
+Click Continue to see the License Agreement for this software.
+Dangerous This page can transmit malicious software to your Mac, or supports online fraud.
+Your subscription ends in days. Click the Buy Now button to stay protected.
+Your subscription ends in days. Click the Buy Now button to stay protected.
+Your subscription ends in days. Click the Buy Now button to stay protected.
+Your subscription ends in days. Click the Learn More button to stay protected.
+Your subscription ends in days. Click the Learn More button to stay protected.
+Start or stop all Trend Micro Internet Security components.
+Please don't shut down or log out during the upgrade.
+You now have the latest Trend Micro protection for this Mac.
+Copyright © 2014 Trend Micro. All rights reserved.
+You cannot install Trend Micro Internet Security on a PowerPC Mac. The installer will now close.
+The Website Filter currently blocks websites in this category: %Category%
+Open the Trend Micro Internet Security console. 
+Trend Micro Titanium offers Password Management Tool for you.
+Someone who cares about you has decided that you should not view this image.
+If you really need to see it, provide the password and then switch off this protection
+Worried about who sees what you share on Facebook?
+Worried about who sees what you share on Twitter?
+Worried about who sees what you share on Google+?
+Worried about who sees what you share on LinkedIn?
+Click the button below to get started with improving your Facebook privacy settings.
+Click the button below to get started with improving your Twitter privacy settings.
+Click the button below to get started with improving your Google+ privacy settings.
+Click the button below to get started with improving your Linkedin privacy settings.
+Get protection from Trend Micro to safeguard your privacy on Facebook, Twitter, and LinkedIn.
+Now that you have signed in, click OK to see the results.
+Once the Linkedin site opens again automatically, please leave it open to scan the settings.
+Trend Micro Privacy Scanner helps protect my privacy on social networks. Try it!
+Trend Micro Privacy Scanner helps make my web browser safer. Try it!
+People outside of Linkedin can see your info
+Nice work! You don't have any privacy concerns, but your friends might need some help...
+Trend Micro PrivacyScanner ran into trouble with Google Chrome.
+Click here for easy instructions to fix the problem.
+Google Chrome must now close to apply the changes.
+Firefox must now close to apply the changes.
+Internet Explorer must now close to apply the changes.
+You must launch your Trend Micro security software to scan Internet Explorer.
+You must launch your Trend Micro security software to scan Google Chrome.
+You must launch your Trend Micro security software to scan Firefox.
+Please upgrade to the latest version of Microsoft Internet Explorer before clicking the button below.
+Send a 'Do Not Track' request with your browsing traffic.
+Not all websites will honor your request to avoid tracking what you do online.
+Offer to save passwords I enter on the web.
+Malicious websites and software can take advantage of personal information saved in Google Chrome.
+How should the browser respond when websites try to keep track of you?
+Malicious websites and software can take advantage of personal information saved in FireFox.
+Send Do Not Track requests to sites you visit in Internet Explorer
+Use AutoComplete for user names and passwords on forms
+Malicious websites and software can take advantage of personal information saved in Internet Explorer.
+Disable toolbars and extensions when InPrivate Browsing starts
+Copyright © 2014 Trend Micro Inc. All rights reserved
+The email address you provided is invalid. Please try again.
+Start a free trial of Trend Micro Internet Security
+Enter a serial number for Trend Micro Internet Security
+Now confirming that your Mac meets the system requirements to install Trend Micro Internet Security...
+You have already installed Trend Micro Internet Security on this Mac.
+You must uninstall Trend Micro Security for Macintosh before installing Trend Micro Internet Security.
+You must remove the previous version of Trend Micro Internet Security before installing the latest version.
+To regain your protection, get the latest version
+Trend Micro has downloaded an upgrade. Do you want to install it now?
+has downloaded an upgrade. Click here to install and relaunch.
+Sites that offer access to Usenet newsgroups or other bulletin board systems.
+Sites offering Web-based email services, such as Webmail, e-cards, or mailing list services.
+Sites that provide chat or instant messaging capabilities, or downloads of programs that provide these services.
+Sites that promote romance, dating, friendships, or other interpersonal relationships.
+Copyright © 2014 Trend Micro Inc. All rights reserved
+After connecting your Mac to the Internet, please open and click Activate Now.
+Trend Micro could not accept your activation information.Please contact Trend Micro for help.
+Unable to deliver your activation information to Trend Micro.Please contact Trend Micro for help.
+Unable to deliver your upgrade information to Trend Micro.Please contact Trend Micro for help.
+After typing the serial number below, click the Done button.
+Click the Buy Now button to make a purchase:
+Click the Renew Now button to make a purchase:
+Copyright © 2014 Trend Micro Incorporated. All rights reserved.
+Copyright © 2016 Trend Micro Incorporated. All rights reserved.
+You cannot use that serial number to activate this version of Trend Micro Antivirus.
+After connecting your Mac to the Internet, please open Trend Micro Antivirus and click Activate Now.
+Trend Micro Antivirus now protects you, but can only download updates for a limited time.
+By renewing Trend Micro Antivirus, you can protect yourself from the latest security threats.
+Please activate Trend Micro Antivirus to get the latest protection.
+Your subscription ends in days. Click the Learn More button to stay protected.
+Your subscription ends in days. Click the Learn More button to stay protected.
+Start or stop all Trend Micro Antivirus components.
+Click this button only if you run into problems.
+Please don&apos;t shut down or log out during the upgrade.
+Copyright © 2014 Trend Micro. All rights reserved.
+Copyright © 2013 Trend Micro. All rights reserved.
+You cannot install Trend Micro Antivirus on a PowerPC Mac. The installer will now close.
+You should either close this window or refer to the instructions under What you can do.
+Dangerous This page can transmit malicious software to your Mac, or supports online fraud.
+Notify Trend Micro to review this page if you consider it safe.
+Click Web and select the Web Threat Protection tab.
+If you still want to open this website, ask your parents for permission.
+Instructions for Mom or Dad to open this website:
+If the preceding instructions do not solve the problem, please contacttechnical support.
+The Website Filter currently blocks websites in this category: 
+Click the "Web" and click "Website Filter" page tab.
+Go back to this page in your web browser and click the Reload Page button.
+If you really need to see it, provide the password and then switch off this protection
+Nice work! You don&apos;t have any privacy concerns, but your friends might need some help...
+Send a &apos;Do Not Track&apos; request with your browsing traffic.
+who can see the 1 app and its posts?
+who can see each app and its posts?
+Copyright © 2013 Trend Micro Inc. All rights reserved
+Start a free trial of Trend Micro Antivirus
+Enter a serial number for Trend Micro Antivirus
+Now confirming that your Mac meets the system requirements to install Trend Micro Antivirus...
+You have already installed Trend Micro Antivirus on this Mac.
+You must stop the Trend Micro Antivirus installer already running before trying to launch it again.
+A newer version of Trend Micro Antivirus already protects this Mac, so the installer must stop.
+You must remove the security software shown below from your Mac before installing Trend Micro Antivirus.
+You must uninstall Trend Micro Security for Macintosh before installing Trend Micro Antivirus.
+You must remove the previous version of Trend Micro Antivirus before installing the latest version.
+Sites that offer access to Usenet or provide other newsgroup, forum, or bulletin board services.
+Try restarting your Mac. If the problem persists, please contact Trend Micro for help.
+Try restarting the scan. If the problem persists, please contact Trend Micro for help.
+tried to open files protected by Folder Shield. Trend Micro Antivirus stopped it for your protection.
+All the files within the selected folders are now protected by Folder Shield.
+Checks for malicious software in a specific place, like a drive or folder
+Thoroughly checks every file on your Mac for malicious software
+A trusted program can access files protected by Folder Shield.
+The following folder cannot be added to Folder Shield protected folders:
+The following folders cannot be added to Folder Shield protected folders:
+Please try again later. If the problem persists, please contact Trend Micro for help.
+Your subscription ends in days. Click the Learn More button to stay protected.
+The software has not been installed on this Mac, so it could not be removed.
+Click this button to delete all temporary files from your Mac.
+Click this button to monitor your Mac, then reproduce the problem to generate needed information.
+You cannot install Trend Micro Antivirus on a PowerPC Mac. The installer will now close.
+If the preceding instructions do not solve the problem, please contacttechnical support.
+Go back to this page in your web browser and click the Reload Page button.
+The Parental Controls on this computer do not allow access to this page.
+Now that you have confirmed your password, click the button to see the results.
+Now that you have signed in, click OK to see the results.
+Now that you have signed into the right account, click the button below.
+You have already installed Trend Micro Antivirus on this Mac.
+You must remove the security software shown below from your Mac before installing Trend Micro Antivirus.
+Please wait until has finished receiving an update before trying again.
+must now close due to an error. Sorry for the inconvenience.
+Free Security Update for Your New Version of macOS
+Restart and try again. If the problem persists please contact Trend Micro for help.
+cannot start a scan while receiving an update. Please try again after receiving the update.
+Quitting will stop the update now in progress. Do you still want to quit ?
+cannot start another scan before the one already in progress has finished.
+You cannot select more than 64 files and folders for to scan.
+Restart or your Mac. If the problem persists, please contact Trend Micro for help.
+Files not restored, deleted, or cleaned: Files successfully restored, deleted, or cleaned: 
+Folder Shield can protect up to 100 folders.Please select fewer folders and try again.
+Copyright © 2018 Trend Micro Inc. All rights reserved
+Show in Finder and open the installer manually
+Downloading process is running, please wait for its completion.
+Diagnostic Toolkit will check your Internet connection and collect troubleshooting information from this Mac.
+Items on the process exception list are not scanned by .
+Items on the list below are not scanned by .
+To finish uninstalling , you must now close this program.
+The following Trend Micro tools are available for your Mac:
+All-in-one Mac cleaner that helps you regain disk space by removing unnecessary files and applications.
+Remove unnecessary files from your Mac and recover over of disk space with Dr. Cleaner
+Your trial ends in days. Click the Buy Now button to stay protected.
+Your subscription ends in days. Click the Renew Now button to stay protected.
+Your subscription ends in days. Click the Buy Now button to stay protected.
+The folders that originally contained of these files were not found.
+Copyright © 2018 Trend Micro Incoporated. All rights reserved.
+Trend Micro Antivirus for Mac wants to make changes.
+You cannot use a Trend Micro AntiVirus serial number for . Please enter the correct number.
+You cannot use a Trend Micro Antivirus serial number for . Please enter the correct number.
+You cannot use that serial number to activate this version of .
+After connecting your Mac to the Internet, please open and click Activate Now.
+now protects you, but can only download updates for a limited time.
+Trend Micro could not accept your activation information.Please contact Trend Micro for help.
+Unable to deliver your activation information to Trend Micro.Please contact Trend Micro for help.
+Unable to deliver your upgrade information to Trend Micro.Please contact Trend Micro for help.
+After typing the serial number below, click the Done button.
+Click the Buy Now button to make a purchase:
+Click the Renew Now button to make a purchase:
+By renewing , you can protect yourself from the latest security threats.
+Enable machine-learning to protect from new or unknown threats
+who can see the apps and their posts?
+Start to collect the information and generate a troubleshootinglog file for Trend Micro support.
+Click Agree to continue or click Disagree to cancel the installation and quit the Installer.
+Enter a serial number, or select the free trial version:
+will try to scan your Mac again later.
+Please reconnect your Mac to the Internet, open , and click Update Now.
+Restart . If the problem persists, please contact Trend Micro for help.
+tried to open files protected by Folder Shield. Trend Micro Antivirus stopped it for your protection.
+Try running a custom scan on the drive that just connected to your Mac: .
+will automatically restart to make the update take effect.
+has not been updated in the last days. Please open and click Update Now.
+Do you really want to shut down ?
+has downloaded an upgrade. Click here to install and relaunch.
+Trend Micro Antivirus found that the camera and microphone on this Mac are being turned on.
+The camera on this Mac has been turned on.
+The microphone on this Mac has been turned on.
+The Website Filter currently blocks websites in this category: 
+Instructions for Mom or Dad to open this website:
+Click the "Web" and click "Website Filter" page tab.
+Go back to this page in your web browser and click the Reload Page button.
+If the preceding instructions do not solve the problem, please contacttechnical support.
+Notify Trend Micro to review this page if you consider it safe.
+Click Web and select the Web Threat Protection tab.
+Prevent Unauthorized Access to Your Camera and Microphone
+Unable to display information. Check the server status and try again.
+Server connection timed out. Please check the network or the preset connection time and try again.
+Server connection unsuccessful. Check server status and network connection and try again.
+Displays the HTTP traffic in KB for each server.
+Displays the number of active users in a chart for one or more servers.
+Invalid .pem file. Check the content and try again.
+Time: ,Hostname: ,IP address: ,Pattern name: ,Code: ,Message:
+Time: ,Hostname: ,IP address: ,Pattern name: ,Code: ,Message:
+[Smart Protection Server] Program Update Download was Unsuccessful
+[Smart Protection Server] Program Update Restarted Smart Protection Server or Related Services
+Time: ,Hostname: ,IP address: ,Program type: ,Program version: ,Message: Install available updates from the product console.
+Time: ,Hostname: ,IP address: ,Program type: ,Program version: ,Code: ,Message:
+Time: ,Hostname: ,IP address: ,Program type: ,Program version: ,Code: ,Message:
+Web Reputation encountered an unexpected error. Refer to the system diagnostic log for more information.
+Unexpected error. Refer to the system diagnostic log for more information.
+Unable to initialize self check. Please contact your support provider if this issue persists.
+Unable to locate information due to SNMP query timeout. Restart the SNMP service and try again.
+Unable to locate the database. Please contact your support provider if this issue persists.
+Unable to connect to the PostgreSQL database. Restart the PostgreSQL database and try again.
+Unable to initialize self check. Please contact your support provider if this issue persists.
+Unable to locate the information in PostgreSQL. Please update components.
+Update unsuccessful. Try to update again or contact your support provider if this issue persists.
+PatchAgent has successfully applied the patches. Restart the system for changes to take effect.
+There are no new components available. The product's components are all up to date.
+The product has passed invalid parameters to ActiveUpdate. Please contact your Trend Micro technical support provider.
+ActiveUpdate has successfully downloaded and extracted the patches and has successfully started the patch process.
+ActiveUpdate was unable to allocate sufficient memory. Please close all other programs and retry.
+Unable to synchronize with the suspicious objects source. Type a valid API key and try again.
+ActiveUpdate process was terminated because an error occurred while building the incremental file.
+ActiveUpdate process was terminated because an error occurred during the storage operation.
+Cannot read file. Verify the file exists or check the file permissions.
+Cannot read file. Verify the file exists or check the file permissions.
+Unable to connect to the suspicious objects source. Type a valid API key and try again.
+Cannot read service configuration file. Verify the file exists or check the file permissions.
+Cannot read monitor.ini configuration file. Verify the file exists or check the file permissions.
+Cannot read LogMgt.ini file. Verify the file exists or check the file permissions.
+Web Reputation service is not running. Restart the service.
+Web Reputation service initialization error. Restart the service.
+Smart Protection Server Web Reputation service connection error. Check the network configuration.
+Smart Protection Server Web Reputation service connection timeout. Check the network configuration.
+Smart Protection Server Web Reputation service query timeout. Check the network configuration.
+Unable to subscribe to the suspicious objects. Type a valid API key and try again.
+Smart Protection Network Web Reputation service connection error. Check the network configuration.
+Smart Protection Network Web Reputation service connection timeout. Check the network configuration.
+Smart Protection Network Web Reputation service query timeout. Check the network configuration.
+Smart Protection Network Web Reputation service URL resolution error. Check the DNS server settings.
+Proxy server is unreachable. Check the network configuration.
+Proxy URL resolution error. Check the DNS server settings.
+Proxy authentication unsuccessful. Check the proxy log on credentials.
+File Reputation service is not running. Restart the service.
+Smart Protection Server File Reputation service connection error. Check the network configuration.
+Smart Protection Server File Reputation service connection timeout. Check the network configuration.
+Smart Protection Server File Reputation query timeout. Check the network configuration.
+Successfully registered Trend Micro Smart Protection Server to the Deep Discovery Advisor server.
+Successfully unregistered Trend Micro Smart Protection Server from the Deep Discovery Advisor server.
+Successfully established connection with Deep Discovery Advisor server.
+Successfully saved the Deep Discovery Advisor server settings.
+Unable to register to the Deep Discovery Advisor server.
+Unable to unregister from the Deep Discovery Advisor server.
+Unable to establish a connection with the Deep Discovery Advisor server.
+Unable to save the Deep Discovery Advisor server setting.
+Unable to establish connection with the source server
+The API key is invalid. Type a valid API key and try again.
+The Deep Discovery Advisor license has expired. Renew the Deep Discover Advisor license and try again.
+Type a valid server address or check the connection settings and try again.
+Please verify that the Virtual Analyzer C&C server list has been enabled and try again.
+Verify the web service of the Deep Discovery Advisor server and try again.
+Please register Trend Micro Smart Protection Server to Deep Discovery Advisor, and try again.
+Please verify that the CCCAServer.ini file has Read and Write permission and try again.
+Unable to continue updating components. Manually update all components and try again.
+An update is already in progress. Wait until the current update completes before trying again.
+The current certificate will expire in 30 days.
+Provide a .pem file with a private key.
+Error pulling second part of kickstart config: !
+You do not have enough RAM to use the graphical installer. Starting text mode.
+Unable to instantiate a X hardware state object.
+You have specified an install method which isn't supported by anaconda.
+Not enough space left to create partition for
+Not enough space left to create partition for
+Could not allocate cylinder-based partitions as primary partitions.
+Boot partition isn't a VFAT partition. EFI won't be able to boot from this partition.
+Boot partition may not meet booting constraints for your architecture.
+Adding this partition would not leave enough disk space for already allocated logical volumes in .
+Unable to locate partition to use for .Press 'OK' to reboot your system.
+Unable to locate partition to use for .Press 'OK' to reboot your system.
+Unable to locate raid device to use for .Press 'OK' to reboot your system.
+Unable to locate raid device to use for .Press 'OK' to reboot your system.
+Unable to locate volume group to use for .Press 'OK' to reboot your system.
+Unable to locate volume group to use for .Press 'OK' to reboot your system.
+Unable to locate logical volume to use for .Press 'OK' to reboot your system.
+Unable to locate logical volume to use for .Press 'OK' to reboot your system.
+The following errors occurred with your partitioning:Press 'OK' to reboot your system.
+The following errors occurred with your partitioning:Press 'OK' to reboot your system.
+Press 'OK' to choose a different partitioning option.
+Keep all partitions and use existing free space
+No kernel packages were installed on your system. Your boot loader configuration will not be changed.
+Can't have a question in command line mode!
+The following error was found while parsing your kickstart configuration:
+Parted exceptions can't be handled in command line mode!
+Your system's state has been successfully written to the floppy. Your system will now be rebooted.
+There was a problem writing the system state to the floppy.
+There was a problem writing the system state to the remote host.
+An error occurred mounting device as . You may continue installation, but there may be problems.
+An error occurred when attempting to load an installer interface component.className =
+Could not bind to dbus. Is dbus running?
+Could not connect to hal, is it running?Run \"service haldaemon start\" as root
+Hostname must be 48 or less characters in length.
+Hostname must start with a valid character in the range 'a-z' or 'A-Z'
+Hostnames can only contain the characters 'a-z', 'A-Z', '-', or '.'
+Volume Group Names must be less than 128 characters
+Error - the volume group name is not valid.
+Logical Volume Names must be less than 128 characters
+Error - the logical volume name is not valid.
+Please specify a mount point for this partition.
+This partition is part of the RAID device /dev/md.
+This partition is part of a RAID device.
+This partition is part of the LVM volume group ''.
+This partition is part of a LVM volume group.
+You must first select a partition to delete.
+You cannot delete a partition of a LDL formatted DASD.
+You cannot delete this partition, as it is an extended partition which contains
+You cannot delete this partition, as it is an extended partition which contains
+This partition is holding the data for the hard drive install.
+You are about to delete all partitions on the device '/dev/'.
+The following partitions were not deleted because they are in use:
+You cannot edit this partition, as it is an extended partition which contains
+You cannot edit this partition, as it is an extended partition which contains
+You need to select at least one hard drive to have installed onto.
+The following pre-existing partitions have been selected to be formatted, destroying all data.
+You are about to delete the logical volume \\".
+You are about to delete the logical volume \\".
+You are about to delete a RAID device.
+You are about to delete the /dev/ partition.
+Are you sure you want to reset the partition table to its original state?
+You have not defined a root partition (/), which is required for installation of to continue.
+Your root partition is less than 250 megabytes which is usually too small to install .
+You must create a /boot/efi partition of type FAT and a size of 50 megabytes.
+Your boot partition isn't on one of the first four partitions and thus won't be bootable.
+You must create a PPC PReP Boot partition.
+Your partition is less than megabytes which is lower than recommended for a normal install.
+Installing on a USB device. This may or may not produce a working system.
+Installing on a FireWire device. This may or may not produce a working system.
+Bootable partitions can only be on RAID1 devices.
+Bootable partitions cannot be on a logical volume.
+You have specified more than 32 swap devices. The kernel for only supports 32 swap devices.
+a partition which is a member of a RAID array.
+a partition which is a member of a LVM Volume Group.
+This mount point is invalid. The directory must be on the / file system.
+This mount point must be on a linux file system.
+The mount point \\" is already in use, please choose a different mount point.
+The mount point \\" is already in use, please choose a different mount point.
+The size of the partition (0.2f MB) exceeds the maximum size of 0.2f MB.
+The size of the requested partition (size = MB) exceeds the maximum size of MB.
+The size of the requested partition is negative! (size = MB)
+No members in RAID request, or not RAID level specified.
+A RAID device of type requires at least members.
+Logical volume size must be larger than the volume group's physical extent size.
+When finished please exit from the shell and your system will reboot.
+Do you want to start the network interfaces on this system?
+I can't go to the previous step from here. You will have to try again.
+What partition holds the root partition of your installation?
+No help is available for this step of the install.
+for help | between elements | selects | next screen
+/ between elements | selects | next screen
+Would you like to continue with the upgrade?
+The passwords you entered were different. Please try again.
+The password must be at least six characters long.
+Unable to set vnc password - using no password!
+Make sure your password is at least 6 characters in length.
+Attempting to connect to vnc client on host ...
+Giving up attempting to connect after 50 tries!
+Please manually connect your vnc client to to begin the install.
+Please manually connect your vnc client to begin the install.
+Will try to connect again in 15 seconds...
+You need more space on the following file systems:
+There was an error running your transaction, for the following reason(s):
+Starting install process. This might take several minutes...
+You have not specified a device number or the number is invalid
+You have not specified a worldwide port name or the name is invalid.
+You have not specified a FCP LUN or the number is invalid.
+You must enter your password and confirm it by typing it a second time to continue.
+The passwords you entered for the were different. Please try again.
+The password must be at least six characters long.
+password contains non-ASCII characters, which are not allowed.
+password contains non-ASCII characters, which are not allowed.
+You must provide a non-zero length initiator name.
+The boot loader will be installed on /dev/.
+To change any configuration settings, click b>Back/b>.To cancel the installation, click b>Cancel/b>.
+To change any configuration settings, click b>Back/b>.To cancel the installation, click b>Cancel/b>.
+Click Next to begin the upgrade of .
+Remove any media used during the installation process and click \"Reboot\" to restart your system.
+This feature is being developed and will be available in the next release.
+The requested size as entered is not a valid number greater than 0.
+The mount point \\" is in use, please pick another.
+The mount point \\" is in use, please pick another.
+The logical volume name \\" is already in use. Please pick another.
+The logical volume name \\" is already in use. Please pick another.
+You cannot create more than logical volumes per volume group.
+Are you sure you want to Delete the logical volume \\"?
+Are you sure you want to Delete the logical volume \\"?
+The volume group name \\" is already in use. Please pick another.
+The volume group name \\" is already in use. Please pick another.
+An error occurred converting the value entered for \\":
+An error occurred converting the value entered for \\":
+IPv4 CIDR prefix must be between 0 and 32.
+The host name \\" is not valid for the following reason:
+The host name \\" is not valid for the following reason:
+A value is required for the field .
+The IPv4 information you have entered is invalid.
+IPv4 prefix must be between 0 and 32.
+IPv6 prefix must be between 0 and 128.
+You must specify a label for the entry
+This label is already in use for another boot entry.
+This device is already being used for another boot entry.
+The end cylinder must be greater than the start cylinder.
+The following critical errors exist with your requested partitioning scheme.
+These errors must be corrected prior to continuing with your install of .
+The following warnings exist with your requested partition scheme.
+Would you like to continue with your requested partitioning scheme?
+Software RAID is NOT supported on this platform.
+Clone a _drive to create a RAID device [default=/dev/md].
+The drive clone editor could not be created for some reason.
+How would you like to prepare the file system on this partition?
+Please select the target drives for the clone operation.
+The source drive /dev/ cannot be selected as a target drive as well.
+The drive /dev/ will now be cloned to the following drives:
+The drive /dev/ will now be cloned to the following drives:
+WARNING! ALL DATA ON THE TARGET DRIVES WILL BE DESTROYED.
+There was an error clearing the target drives. Cloning failed.
+You must provide a non-zero length repository name.
+You must provide an HTTP or FTP URL to a repository.
+The repository has already been added. Please choose a different repository name and URL.
+The installer has detected the boot loader currently installed on .
+The installer is unable to detect the boot loader currently in use on your system.
+Select the _partition to put the swap file on:
+I _don't want to create a swap file
+The swap file must be between 1 and 2000 MB in size.
+There is not enough space on the device you selected for the swap partition.
+The z/IPL boot loader will be installed on your system.
+Desktop shell (GNOME)Office suite (OpenOffice.org)Web browser Email (Evolution)Instant messagingSound and video applicationsGames
+Desktop shell (GNOME)Office suite (OpenOffice.org)Web browser Email (Evolution)Instant messagingSound and video applicationsGames
+This option installs a graphical desktop environment with tools for software development and system administration.
+Desktop shell (GNOME)Office suite (OpenOffice.org)Web browser Email (Evolution)Instant messagingSound and video applicationsGamesSoftware Development ToolsAdministration Tools
+Desktop shell (GNOME)Office suite (OpenOffice.org)Web browser Email (Evolution)Instant messagingSound and video applicationsGamesSoftware Development ToolsAdministration Tools
+Select the file which is your driver disk image.
+Insert your driver disk into /dev/ and press \"OK\" to continue.
+Insert your driver disk into /dev/ and press \"OK\" to continue.
+Driver disk is invalid for this release of .
+Do you wish to load any more driver disks?
+The following invalid argument was specified for the kickstart driver disk command: s
+No drivers were found to manually insert. Would you like to use a driver disk?
+The installation tree in that directory does not seem to match your boot media.
+Device does not appear to contain CDROM images.
+Bad argument to HD kickstart method command :
+Bad argument to HD kickstart method command :
+Error in on line of kickstart file .
+Bad argument to shutdown kickstart method command :
+Bad argument to shutdown kickstart method command :
+What language would you like to use during the installation process?
+Insert your updates disk into /dev/ and press \"OK\" to continue.
+Insert your updates disk into /dev/ and press \"OK\" to continue.
+You do not have enough RAM to install on this machine.
+What type of media contains the rescue image?
+What type of media contains the packages to be installed?
+The following devices have been found on your system.
+No device drivers have been loaded for your system. Would you like to load any now?
+Running the installer in rescue mode - please wait...
+Running the installer in rescue mode - please wait...
+It is OK to install from this media.
+No checksum information available, unable to verify media.
+Would you like to perform a checksum test of the ISO image: ?
+Would you like to perform a checksum test of the ISO image: ?
+Bad argument to device kickstart method command :
+Bad argument to device kickstart method command :
+Both module type and name must be specified for the kickstart device command.
+There was an error configuring your network interface.
+You must select at least one protocol (IPv4 or IPv6).
+You must enter both a valid IPv4 address and a network mask or CIDR prefix.
+You must enter both a valid IPv6 address and a CIDR prefix.
+You have multiple network devices on this system. Which would you like to install through?
+That directory does not seem to contain a installation tree.
+That directory could not be mounted from the server.
+Bad argument to NFS kickstart method command :
+Bad argument to NFS kickstart method command :
+Bad argument to Url kickstart method command :
+Bad argument to Url kickstart method command :
+Must supply a --url argument to Url kickstart method.
+Root Account: Used to safeguard access to the operating system shell. Has full operating system privileges.
+How would you like to modify your drive configuration?
+_Select the drive(s) to use for this installation.
+Please select any additional repositories that you want to use for software installation.
+You can further customize the software selection now, or after install via the software management application.
+Please type your user name and password to access the product console.
+© 2014 Trend Micro Incorporated. All Rights Reserved.
+Trend Micro, the t-ball logo are trademarks or registered trademarks of Trend Micro Incorporated.
+Processing time varies, but will usually not exceed 30 seconds.
+Diagnostic Information file was not found in the download folder. Restart the collection process.
+Please do not modify any settings during this process.
+Please wait until the program update is complete before navigating away from this screen.
+Do not automatically update programs that require a restart or reboot.
+There are components available for update, please click following link to update them.
+Trend Micro Smart Protection Server service will restart. Continue?
+Use this screen to send notifications to administrators when a security risk is detected.
+Program Update Restarted Smart Protection Server or Related Services
+Refer to program update logs for more information.
+No file uploaded. Select a program file and try again.
+Not required. The most current program file is installed.
+Program file upload did not complete. Check the network connection and try again.
+Program update in progress...Note: Trend Micro does not recommend making any changes at this time.
+Program file upload unsuccessful. Check the network connection and try again.
+Cannot update program file. Another program file is currently being uploaded.
+Install the previous release program update and try again.
+Additional disk space is required. Please free up some disk space and try again.
+Please select at least one component to update and try again.
+The System Information File is ready for download.
+Unable to collect and download system information. Refer to system logs for more information.
+Unable to start another system information collection process. Currently collecting system information.
+Unable to start another system information collection process. Currently collecting system information.
+System information collection has taken longer than expected. Try again.
+Incorrect Update Source format. Specify the Update Source in the following format \"http://www.example.com\" and try again.
+Invalid proxy server IP address. Type a valid IPv4 or IPv6 address and try again.
+Invalid proxy port number. Check the proxy port number and try again.
+Invalid proxy authetication. Check the proxy authentication information and try again.
+Unable to save crontab. Use an account with permissions to set crontab.
+Unable to write to ssfbd.ini. Use an account with permissions to write to .ini files.
+Another update is in progress. Please wait until the other update completes and try again.
+Please enable JavaScript to access the product console.
+Please enable cookies to access the product console.
+Internal error. Try to log on again. If this issue persists, please contact your support provider.
+Insufficient free disk space. Please free up additional disk space and try again.
+An SNMP community name is required. Please specify an SNMP community name and try again.
+Invalid IP address. Please type a valid IPv4 or IPv6 address and try again.
+Invalid netmask address. Please type a valid address and try again.
+Unable to write to snmp.ini. Use an account with permissions to write to .ini files.
+The number of days should be between 1 and 120. Please specify the number of days.
+Unable to write to DBMaintain.ini. Use an account with permissions to write to .ini files.
+Unable to export to CSV. Please contact your support provider if this issue persists.
+Unexpected error. Please contact your support provider if this issue persists.
+Unable to save settings to LogMgt.ini. Check that there is available disk space and file permissions.
+There are no logs to download. Adjust the search criteria and try again.
+Purge logs older than the following number of days
+Invalid SMTP server port number. Please type a valid port number and try again.
+Invalid source email address. Please type a valid email address and try again.
+Invalid Trap server IP address. Provide a valid IPv4 or IPv6 format and try again.
+Message content for Program Update Available notification is required. Please specify a message and try again.
+Message content for Program Update Status notification is required. Please specify a message and try again.
+Unable to import the User-Defined URLs. Please contact your support provider if this issue persists.
+Import unsuccessful. Please check the CSV file format.
+Unable to import the Approved/Blocked URL List. Please contact your support provider if this issue persists.
+Dangerous - Verified to be fraudulent or known sources of threats
+Highly suspicious - Suspected to be fraudulent or possible sources of threats
+Suspicious - Associated with spam or possibly compromised
+Web Safety Pattern and New Web Domain Pattern
+Use only local resources, do not send queries to Smart Protection Network.
+Please type a URL to check against rules
+The same rule is already in the list. Please specify a different rule and try again.
+This IP address is invalid. Please specify a valid IPv4 or IPv6 address.
+This \"All subsites\" rule exceeds 256 characters. Please reduce the number of characters and try again.
+Example: 111.111.1.1 or 111.11.1.1/11 or 1111:11::1111 or 1111:11::1111/64 or 1111:11::/64
+MB. 1.5GB required. Purge logs to free up some disk space.
+Unable to apply new settings. Refer to the system diagnostic log for details.
+Unable to apply new File Reputation settings. Refer to the system diagnostic log for details.
+Unable to apply Web Reputation settings. Refer to the system diagnostic log for details.
+Unable to retrieve SNMP status. Enable SNMP to display SNMP status.
+No date has been selected. Specify a date and try again.
+Subscribe to a supported source, such as Control Manager, to synchronize suspicious objects.
+Register to the Deep Discovery Advisor server to obtain the Virtual Analyzer C&C list.
+Enable Virtual Analyzer C&C list (requires server registration)
+Obtain the API key through the following method:
+Please select at least one C&C list source to display and try again.
+Use one of the following addresses with your Trend Micro client management
+Use the following address with your Trend Micro client management products
+Use the following URL to access the Web product console:
+You will be prompted for your administrator account and password.
+Please have your administrator account and password ready for authentication.
+Use the following log on prompt to access the Command Line Interface (CLI):
+Widget framework error. Incorrect parameter passed to server. Please contact your support provider.
+Widget framework error. Type value is invalid. Please contact your support provider.
+Widget framework error. Connection to database unsuccessful. Please contact your support provider.
+Unable to locate the correct active database. Please contact your support provider if this issue persists.
+Unable to connect to database. Restart the postgreSQL database.
+Could not locate information in database. Please update components.
+Unable to read services.ini. Please contact your support provider if this error persists.
+Unable to retrieve data from scan server. Please check server IP or network setting.
+Cannot read status_check.ini file. Verify the file exists or check the file permissions.
+Cannot read lwcs_status.ini file. Verify the file exists or check the file permissions.
+Successfully connected to the Suspicious Objects List source.
+Successfully synchronized with the Suspicious Objects List source.
+Unable to subscribe to the Suspicious Object Lists. Type a valid API key and try again.
+Unable to save the Suspicious Objects List Settings.
+An update is in progress.Note: Trend Micro does not recommend making any changes at this time.
+Your session has timed out. Please log on again.
+Subscribe to Suspicious Object Lists from a supported source.
+Contact the administrator of the Virtual Analyzer server to obtain the API key.
+Unsubscribing from the Suspicious Object Lists deletes all settings. Do you want to continue?
+Please select at least one log to display and try again.
+Create a password for the admin account. The admin account is used for administering the console.
+Ensure that there is a minimum of 50 GB disk space available and try again.
+The password you have provided is weak: .
+You will have to press Done twice to confirm it.
+Create a password for the root account. The root account is used for administering the system.
+Time: ,Hostname: ,IP address: ,Pattern name: ,Code: ,Message: 
+Time: ,Hostname: ,IP address: ,Pattern name: ,Code: ,Message: 
+Time: ,Hostname: ,IP address: ,Program type: ,Program version: ,Message: Install available updates from the product console.
+Time: ,Hostname: ,IP address: ,Program type: ,Program version: ,Message: Install available updates from the product console.
+Time: ,Hostname: ,IP address: ,Program type: ,Program version: ,Code: ,Message: 
+Time: ,Hostname: ,IP address: ,Program type: ,Program version: ,Code: ,Message: 
+Update unsuccessful. Try to update again or contact your support provider if this issue persists.
+PatchAgent has successfully applied the patches. Restart the system for changes to take effect.
+There are no new components available. The product&apos;s components are all up to date.
+The product has passed invalid parameters to ActiveUpdate. Please contact your Trend Micro technical support provider.
+ActiveUpdate has successfully downloaded and extracted the patches and has successfully started the patch process.
+Cannot read status_check.ini file. Verify the file exists or check the file permissions.
+Cannot read lwcs_status.ini file. Verify the file exists or check the file permissions.
+Cannot read monitor.ini configuration file. Verify the file exists or check the file permissions.
+Cannot read LogMgt.ini file. Verify the file exists or check the file permissions.
+Smart Protection Server Active Users for File Reputation Widget
+Settings that appear on the widget at all times
+Click the Refresh button at any time to update the data that the widget displays.
+This widget displays information in a 2-D graph and is updated hourly.
+The number of users that sent queries to Smart Protection Servers.
+Specify the date range for the data that the widget displays:
+Click the Edit icon on the widget. A modal page appears.
+Select the Smart Protection Servers to display in this widget.
+© 2014 Trend Micro Incorporated. All Rights Reserved.
+This widget displays information in a 2-D graph and is updated every 5 minutes.
+Smart Protection Server HTTP Traffic for File Reputation Widget
+Use this widget to track the HTTP traffic that has been sent to Smart Protection Server.
+Right-click the graph and select from the menu options to adjust the graph's view.
+Use the real time status widget to monitor Smart Protection Server status.
+The following items are displayed under Health Status:
+File Reputation Query: displays whether File reputation is functioning as expected.
+Web Reputation Query: displays whether Web reputation is functioning as expected.
+Free memory: displays the available physical memory on the computer.
+Swap disk usage: displays the swap disk usage.
+Free space: displays the available free disk space on the computer.
+Smart Protection Server Top Infection Computer for File Reputation Widget
+Use this widget to track the top computers with infections on your network.
+Example: You want to know the computers with the most infections on your network.
+The number of security threats detected by this computer.
+&amp;copy; 2017 Trend Micro Incorporated. All Rights Reserved.
+Trend Micro, the t-ball logo are trademarks or registered trademarks of Trend Micro Incorporated.
+Diagnostic Information file was not found in the download folder. Restart the collection process.
+There are components available for update, please click following link to update them.
+Program file upload did not complete. Check the network connection and try again.
+An update is in progress.Note: Trend Micro does not recommend making any changes at this time.
+Program file upload unsuccessful. Check the network connection and try again.
+Cannot update program file. Another program file is currently being uploaded.
+Install the previous release program update and try again.
+Additional disk space is required. Please free up some disk space and try again.
+Unable to collect and download system information. Refer to system logs for more information.
+Unable to start another system information collection process. Currently collecting system information.
+System information collection has taken longer than expected. Try again.
+Incorrect Update Source format. Specify the Update Source in the following format \"http://www.example.com\" and try again.
+Unable to save crontab. Use an account with permissions to set crontab.
+Internal error. Try to log on again. If this issue persists, please contact your support provider.
+Insufficient free disk space. Please free up additional disk space and try again.
+An SNMP community name is required. Please specify an SNMP community name and try again.
+The number of days should be between 1 and 120. Please specify the number of days.
+Dangerous - Verified to be fraudulent or known sources of threats
+Highly suspicious - Suspected to be fraudulent or possible sources of threats
+Suspicious - Associated with spam or possibly compromised
+This \"All subsites\" rule exceeds 256 characters. Please reduce the number of characters and try again.
+MB. 1.5GB required. Purge logs to free up some disk space.
+Subscribe to a supported source, such as Control Manager, to synchronize suspicious objects.
+If you are installing Smart Protection Server for the first time, click Configure First Time Installation.
+For more information, see the Smart Protection Server Installation and Upgrade Guide.
+The password you have provided is weak: .
+Time: ,Hostname: ,IP address: ,Pattern name: ,Code: ,Message: 
+Time: ,Hostname: ,IP address: ,Pattern name: ,Code: ,Message: 
+Time: ,Hostname: ,IP address: ,Program type: ,Program version: ,Message: Install available updates from the product console.
+Time: ,Hostname: ,IP address: ,Program type: ,Program version: ,Message: Install available updates from the product console.
+Time: ,Hostname: ,IP address: ,Program type: ,Program version: ,Code: ,Message: 
+Time: ,Hostname: ,IP address: ,Program type: ,Program version: ,Code: ,Message: 
+Update unsuccessful. Try to update again or contact your support provider if this issue persists.
+PatchAgent has successfully applied the patches. Restart the system for changes to take effect.
+There are no new components available. The product's components are all up to date.
+The product has passed invalid parameters to ActiveUpdate. Please contact your Trend Micro technical support provider.
+ActiveUpdate has successfully downloaded and extracted the patches and has successfully started the patch process.
+&copy; 2017 Trend Micro Incorporated. All Rights Reserved.
+Trend Micro, the t-ball logo are trademarks or registered trademarks of Trend Micro Incorporated.
+Diagnostic Information file was not found in the download folder. Restart the collection process.
+Program file upload did not complete. Check the network connection and try again.
+An update is in progress.Note: Trend Micro does not recommend making any changes at this time.
+Program file upload unsuccessful. Check the network connection and try again.
+Cannot update program file. Another program file is currently being uploaded.
+Install the previous release program update and try again.
+Additional disk space is required. Please free up some disk space and try again.
+Unable to collect and download system information. Refer to system logs for more information.
+Unable to start another system information collection process. Currently collecting system information.
+System information collection has taken longer than expected. Try again.
+Incorrect Update Source format. Specify the Update Source in the following format \"http://www.example.com\" and try again.
+Unable to save crontab. Use an account with permissions to set crontab.
+Internal error. Try to log on again. If this issue persists, please contact your support provider.
+Insufficient free disk space. Please free up additional disk space and try again.
+An SNMP community name is required. Please specify an SNMP community name and try again.
+The number of days should be between 1 and 120. Please specify the number of days.
+Dangerous - Verified to be fraudulent or known sources of threats
+Highly suspicious - Suspected to be fraudulent or possible sources of threats
+Suspicious - Associated with spam or possibly compromised
+If you are installing Smart Protection Server for the first time, click Configure First Time Installation.
+For more information, see the Smart Protection Server Installation Guide.
+Please provide a valid number and try again.
+Please provide a unit for each license and try again.
+Please provide a seat number between 1 and 99,999 and try again.
+Unable to access this site due to permission issues. Contact your support provider for more information.
+This Data Center name already exists. Provide a different one.
+We apologize for the inconvenience.Click the link below to restart the service.
+The content for this email cannot exceed 4,000 characters.
+Verify the variables used in this email message.
+Select the provided privacy statement for this language.
+Make sure that the password has between 4 and 25 alphanumeric characters.
+The regional service name has already been added. Verify the regional service name and try again.
+Provide the URL for the Data Center service.
+This service/product does not support trial accounts.Contact your support representative for more information.
+Some input characters are not valid. Verify the input.
+Make sure there are more assigned licenses than remaining licenses.
+Check the sample file for the correct format.
+Licensing Management Platform is unable to sync the data with the service. Try again later.
+You do not have enough licenses to proceed. Request more licenses before trying again.
+You have no available licenses. Request more licenses and try again.
+Unable to make changes to the customer license. Check the customer status and try again.
+This is the only administrator account left and cannot be deleted.
+Each company must have at least one administrator account.
+SuperAdmin dose not existed, cannot disable this account.
+SuperAdmin dose not existed, cannot remove this account's user role.
+Unable to use this service plan. Contact your system administrator for more information.
+Unable to access the sample file. Contact Trend Micro Technical Support for more information.
+This partner already has an active license and does not need a trial license.
+The service is currently unavailable. Try again later.
+You can only add 100 accounts. Delete other accounts and try again.
+Make sure the start charge date occurs after the license starts and before it expires.
+Make sure the start charge date and the expiration date are not the same.
+Make sure the expiration date is later than the license start date.
+Make sure the expiration date is later than the start charge date.
+Make sure the account name is at least 4 characters.
+Create a service plan before assigning it to a customer.
+SuperAdmin dose not existed, cannot delete this account.
+This service plan does not allow trial licenses. Contact your administrator for more information.
+There is no data center for this service.
+The name of this company has already been used. Use a different name.
+Make sure the number of licenses is between 0 and 1,000.
+There are duplicate entries in the file. Remove the duplicate entries and try again.
+There was an issue with this page. Try again later.
+Use a full license to renew this customer account.
+Unable to continue. Contact your support provider to verify the service plans.
+Unsupported region. Contact your support provider for more information.
+Invalid license start date. Make sure the license starts today or on a future date.
+Invalid trial registration policy. Contact your support provider for more information.
+Unable to make changes to the customer license. Contact your support provider for more information.
+Unable to assign service plan. Contact your support provider for more information.
+Unable to export data that exceeds a month. Change the time range and try again.
+We apologize for the inconvenience.An unexpected error occurred. Contact your support provider for more information.
+The account does not exist. Check the records and try again.
+There are not enough licenses to continue. Verify and try again.
+Unable to continue. Verify the installation package from Trend Micro and try again.
+Unable to find the component. Refresh the page to continue.
+Unable to check company information for this company ID. Contact your support provider for more information.
+Cannot find this component in Removed Subscription Item by RemovedSubscriptionID.
+Unable to update the values for disabled subscriptions.
+Assign ServicePlan or License fail when create Reseller partner.
+Unable to remove the following product or service licenses:
+The current license stock has changed. Refresh the screen to view the most recent data.
+Unable to add more licenses. User permissions have changed. Refresh the screen to continue.
+Unable to save changes. No unit type selected. Assign a unit type and try again.
+Unable to process. Please contact your support provider.
+Unable to retrieve data. Please try again later.
+A problem has occurred, system encounters an unexpected exception. Please try again later.
+You do not have permission to access this site. Please contact your support provider.
+The requested URL was not found on this server
+Licensing Management Platform provides reports from the previous two years.
+Please provide the name of the company and try again.
+Please provide an email address and try again.
+Please check the email address and try again.
+Please provide the number of units and try again.
+Please check the number of units and try again.
+Specify the required details to create Registration Keys.
+Please provide the number of Registration Keys and try again.
+You can create a maximum of 200 Registration Keys at one time.
+You can generate up to #num# Registration Keys.
+Insufficient licenses. You must have one available license for each Registration Key you want to create.
+Are you sure you want to make these changes?
+Activate when the vendor assigns the service plan to the customer
+You do not need to specify a license start date for this service plan.
+Are you sure you want to add this customer?
+Do you want to assign these keys to the partner?
+Do you want to change the access settings for this account?
+The number can not be less than zero.
+License end date must late than the start date.
+Do you want to remove the user role for this account?
+The seat number has to be larger than 0
+The seat number can not be greater than
+, the seat number can not be above the limit.
+A crossgrade is required in the next step.
+(Recommended) Check branding and support information under Administration > Branding.
+Add customers and assign service plans to customers.
+(Optional) Add resellers and assign service plans to resellers.
+You must accept the privacy statement in order to activate Trend Micro Licensing Management Platform.
+Disabling this company will block all accounts under this company from signing in.
+Disabling this account will block this user from signing in and may delete some scheduled mails.
+Try again or contact your support representative for assistance.
+You can search by company name, description, or Registration Key.
+Void Registration Key cannot be used for registration
+An error has occurred. Contact your support provider for assistance.
+Unable to find the company information. Check the company profile.
+Licensing Management Platform has locked this service plan. Check the service plan status.
+Licensing Management Platform has disabled this service plan. Check the service plan status.
+Unable to import customer records. Some information is not valid. Verify the customer information.
+The expiration date needs to be later than the start date.
+No available licenses. Request more licenses from your partner.
+A crossgrade is required for duplicate products or services.
+Unable to convert the full license to trial license.
+The start date needs to be on or after today.
+You do not have the permission to disable service plans.
+This product or service does not provide trial licenses.
+Unable to modify a trial service plan once you have assigned it to customers.
+This account already contains the same service license.
+The account name or email address already exists. Specify a different account name or email address.
+This account already exists. Specify a different account name.
+Licensing Management Platform has disabled this account. Check the account status.
+Unable to find the account information. Check the account status.
+The account name or password is not valid.
+Unable to assign another full license. A full license already exists.
+Unable to convert a full license to trial license.
+Unable to assign another trial license. A trial license already exists.
+Unable to convert some trial licenses to full licenses.
+Exceeded the maximum trials available for this customer.
+The seat count has to be greater than 0.
+Exceeded the maximum seats allowed for this trial license.
+Unable to crossgrade. Assign a different service plan or contact your support provider for assistance.
+Unable to add more licenses. The available products/services have changed. Refresh the screen to continue.
+No permission to do or this type of role can not be executed.
+This report is to provide a summary of customer entitlement over the specified period of time.
+Licenses will be renewed automatically, regardless of the initial license period.
+Perform the necessary updates before assigning a service plan.
+Some tasks will still run based on the configured schedule.
+There are updates and changes that need to be done.
+The system will automatically submit this form by {0}.
+Select the partner and assign an aggregator. Changes will be reflected in the next billing report.
+Please select one or more status and try again.
+Unable to make changes. Another user already submitted this report.
+Unable to make changes. This report is still being reviewed.
+Please verify the PO number and try again.
+Unable to make changes. Another user already processed this report.
+Unable to retrieve data. Please verify the company address of this MSP and try again.
+Usage details are outside the parameters of the validation rules. Specify a reason for the change.
+You cannot input 0 in "Chargeable Units" field.
+Please specify a bid desk number and try again.
+Trend Micro Licensing Management Platform provides the following new features and enchancements.
+(Width: 510 pixels; Height: 140 pixels; Format: .gif)
+Please provide the title for the Log On page and try again.
+Please provide the support email address and try again.
+Please provide the company address and try again.
+Please provide the domain name for the Log On page and try again.
+Please check the URL format and try again.
+Please check the telephone number and try again.
+Please make sure the pixels for the image is 510 x 140 and try again.
+Please make sure the pixels for the image is {0} x {1} and try again.
+(Width: {0} pixels; Height: {1} pixels; Format: .{2})
+The field Company address must be a string with a maximum length of 500.
+The field Company name must be a string with a maximum length of 250.
+The field Support email must be a string with a maximum length of 128.
+The field Support telephone must be a string with a maximum length of 100.
+The field Support URL must be a string with a maximum length of 250.
+The changes have been saved. Please wait up to an hour before verifying the changes.
+Provide a valid HTTP, HTTPS, or FTP URL.
+Use this file as a template for adding multiple customers.
+You can import up to 100 customer accounts with each file.
+Download a sample XLS file (include "Preferred Send Date" field)
+Please select the number of records to be displayed per page
+Verify the updated list of products and services for the service plan before making any changes.
+Licensing Management Platform is about to remove the selected service plans from this customer.
+updated. Confirm the changes on the detailed Service Plan screen before you can make changes.
+products updated. Please contact your distributor to check the updates
+Please make sure the number of licenses is between 0 and 1,000 and try again.
+Click on Online Help to get more supports.
+Click to Add Customer &amp; Partner, Create Service Plan and Generate Usage Report from quick shortcuts.
+Get a new license key for selected product
+The remaining product/service will move to "Removed products" under this customer details.
+Select the license from an existing service plan or select an unbundled license.
+Save changes to use the updated list of products and services.
+Licensing Management Platform is about to void the selected Registration Keys.
+Licensing Management Platform is about to remove the selected licenses from this partner.
+Licensing Management Platform is about to remove the selected service plans from this partner.
+This service plan contains component updates. Select the service plan to verify and approve the changes.
+The license start date will be effective after you assign this service plan.
+This action will unbundle the rest of the licenses from
+Licensing Management Platform will change the following licenses. Review the changes carefully.
+I have read and agree to the terms of the Trend Micro
+This license will only be activated after the customer signs in for the first time.
+[[{NUMBER_OF_PRODUCT} product(s)]] have reached End of Life status and have been removed.
+Some products reached End of Life status and [[{NUMBER_OF_SERVICEPLAN} affected service plans]] have been removed.
+{PRODUCTSERVICE_NAME} has reached End of Sale status and will be removed on {EOL_DATE}.
+{PRODUCTSERVICE_NAME} will reach End of Sale status on {EOS_DATE} and will be removed on {EOL_DATE}.
+{PRODUCTSERVICE_NAME} will reach End of Sale status on {EOS_DATE}.
+Some products reached End of Life status and [[{NUMBER_OF_SUBSCRIPTION} affected service plans]] have been removed.
+{PRODUCTSERVICE_NAME} has reached End of Sale status. This service plan will be removed on {EOL_GRACE_PERIOD_DATE}.
+There will be major changes to {PRODUCT_NUM} product(s) soon and some customers might be affected.
+End of Sale on {EOS_DATE} and will be removed from Licensing Management Platform on {EOL_DATE}
+End of Sale on {EOS_DATE} and will be removed from Licensing Management Platform on {EOL_GRACE_PERIOD_DATE}
+There have been major changes to {PRODUCT_NUM} product(s) and some customers might be affected.
+This service plan contains a duplicate product or service with another selection.
+License Management Platform has resent the selected mails.
+License Management Platform has successfully sent out the selected mails.
+Subject: [AC Required] Licensing Management Platform – License Modified
+A license from #Service plan name# has been modified.
+Changes will be reflected automatically in your product/service console.
+You can sign in to view your account details at:
+If you have any questions, please feel free to contact #Vendor WL company name#:
+Subject: [AC Not Required] Licensing Management Platform – Registration Confirmation (New Account)
+You can sign in to view your account details and begin using the service at:
+Subject: [AC Required] Licensing Management Platform – Registration Required
+Use the Registration Key to register your product/service at the following URL:
+Subject: [AC Not Required] Licensing Management Platform – Registration Confirmation (Existing Account)
+Subject: [Global Setting] Licensing Management Platform – Account Created
+A new account has been created for you. You can sign in with the following URL:
+Click the following URL to enter your password. This URL will only be valid for 7days.
+Subject: [AC Required] Licensing Management Platform – Registration Confirmation (Existing Account)
+Subject: [AC Not Required] Licensing Management Platform – License Modified
+You can sign in to view your account details and continue using the service at:
+Subject: [AC Not Required] Licensing Management Platform – Registration Required
+Subject: [AC Not Required] Licensing Management Platform – License Added
+You have been added to the #Service plan name# service plan.
+Subject: [AC Required] Licensing Management Platform – Registration Confirmation (New Account)
+Subject: [AC Required] Licensing Management Platform – License Discontinued
+A license from #Service plan name# has been discontinued.
+Subject: [Global Setting] Licensing Management Platform – Password Changed
+If you have any questions, please contact #Vendor WL company name#:
+Subject: [AC Required] Licensing Management Platform – License Added
+Subject: [AC Not Required] Licensing Management Platform – License Discontinued
+Invalid format of Preferred Send Date. Please use "yyyy-mm-dd" format.
+A canceled partner account cannot be made active again.
+Unable to execute command. Your account has been canceled by {0}. Contact {1} for more information.
+Unable to execute command. Your account has been suspended by {0}. Contact {1} for more information.
+Subject: [Global Setting] Licensing Management Platform – Account Created
+Subject: [Global Setting] Licensing Management Platform – Password Changed
+Subject: [AC Required] Licensing Management Platform – Registration Confirmation (Existing Account)
+Subject: [AC Required] Licensing Management Platform – License Added
+Subject: [AC Required] Licensing Management Platform – License Modified
+Subject: [AC Required] Licensing Management Platform – License Discontinued
+Subject: [AC Required] Licensing Management Platform – Registration Confirmation (New Account)
+Subject: [AC Required] Licensing Management Platform – Registration Required
+Subject: [AC Not Required] Licensing Management Platform – Registration Confirmation (Existing Account)
+Subject: [AC Not Required] Licensing Management Platform – License Added
+Subject: [AC Not Required] Licensing Management Platform – License Modified
+Subject: [AC Not Required] Licensing Management Platform – License Discontinued
+Subject: [AC Not Required] Licensing Management Platform – Registration Confirmation (New Account)
+Subject: [AC Not Required] Licensing Management Platform – Registration Required
+Specifications: {0} format; Width: {1} pixels; Height: {2} pixels
+Data collected is subject to the terms of the
+This customer already has an active license and does not need a trial license.
+Review the privacy statement before using Licensing Management Platform.
+Unable to uninstall. The device is currently encrypting.Wait for encryption to complete and then try again.
+Type the credentials of the currently logged on user
+This endpoint has successfully registered to PolicyServer. Click @ContinueButton to proceed.
+The installation was canceled and the agent has been uninstalled.
+© 2018 Trend Micro Incorporated. All rights reserved.
+Encryption policies are centrally managed by Trend Micro PolicyServer.
+Specify the disk password and then restart the endpoint to initiate encryption.
+This endpoint must be restarted to initiate decryption. You can use this endpoint during decryption.
+Specify the password for the currently logged on user account to initiate encryption.
+Unable to install Trend Micro Full Disk Encryption. A new version is already installed.
+Unable to obtain user information. Please check server logs for information.
+Verify the credentials and PolicyServer information before continuing.
+Unable to obtain polices from server. Please check server logs for information.
+Trend Micro Full Disk Encryption, Encryption Management For Microsoft BitLocker
+Please enter required data in all fields to start installation
+Provide data protection for endpoints using Microsoft BitLocker
+Multiple disk environments are not supported. Remove all physical hard disks except the system drive.
+Unable to obtain user information. Please check server logs for information.
+Checks that the device does not have BitLocker installed.
+Encryption Management for Microsoft BitLocker upgrade has begun. Please do not restart your computer.
+Encryption Management for Microsoft BitLocker upgrade has completed.
+Microsoft .NET Framework version 2.0 SP2 or above is required for
+Unable to install agent. Restart the endpoint before re-attempting
+Copyright &amp;copy; 2018. Trend Micro, Inc. All rights reserved.
+Click here to view license attributions for this product.
+The selected tool will be removed from endpoints. Do you want to remove the selected tool?
+The selected tool will be deployed to multiple agents. Do you want to continue?
+The selected logs will be permanently deleted. Do you want to delete the logs?
+The port number is invalid. Check the port number and try again.
+Specify the agent you want to install on the selected endpoints:
+Use all Endpoint Encryption features, including preboot authentication protection, all polices, notifications, and device actions.
+Enable Microsoft BitLocker full disk encryption. Use only encryption and legal notice policies, and device actions.
+Unable to connect to the database. Make sure that the database is available.
+After checking the tool version on target agents, no need to deploy.
+Intranet location containing a copy of the current file
+Updating tools on the OfficeScan server. Please wait.
+No new tool updates are available at this time. All tools are currently up-to-date.
+Synchronizing the agent tree with the OfficeScan server. Please wait.
+The agent tree has been successfully synchronized with the OfficeScan server.
+Unable to synchronize with OfficeScan. A scheduled synchronization is already in progress.
+Specify the settings that agents use to communicate with PolicyServer.
+&apos;Enterprise&apos; is invalid and must have a value. Check the input and try again.
+&apos;Server&apos; is invalid and must have a value. Check the input and try again.
+&apos;Port&apos; is invalid and must have a value. Check the input and try again.
+&apos;User name&apos; is invalid and must have a value. Check the input and try again.
+&apos;Password&apos; is invalid and must have a value. Check the input and try again.
+Unable to save the settings. Please try again.
+*Periodically click the refresh icon to view the latest result.
+*Periodically click the refresh icon to view the latest feedback status.
+(Tip: Copy the Activation Code and paste it in any of the text boxes above.)
+The following IP(s) could not be found in current OfficeScan database.
+Searching for the specified IP addresses. This may take a few moments...
+No IP addresses were specified. Please specify at least one IP address and try again.
+(If prefix is \"fec0:0:0:12::\", length is \"64\" to \"127\")
+Specify at least one search criteria and try again.
+No input parameters were provided. Type the necessary input parameters and try again.
+Processing... This screen will automatically close once the deployment process completes.
+*Periodically click the refresh icon to view the latest status.
+A PolicyServer is not configured. To deploy agents, configure PolicyServer settings first.
+Unable to complete the installation. The database initialization failed. Please contact Trend Micro technical support
+Unable to locate the installation package. Please contact Trend Micro technical support
+Unable to complete the installation. Microsoft .NET Framework version 2.0 SP1 or above is required
+The URL has been blocked due to the following reason.
+body { margin-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; }
+A trial license offers limited functionality for a 30-day trial period.
+Please enter a valid enterprise, user name and password to continue.
+An alert must have at least one severity ID or message ID.
+An unauthorized policy value change has been detected.
+Cannot copy a Unicode group to an ASCII group.
+Error - cannot determine Client Encoding Type Support for EXE files ( besides FileArmor exes).
+Could not determine client version associated with install file .
+Database upgrade from version is not supported. Please contact Support for assistance.
+Data type '' for policy '' cannot be edited.
+Enterprise Device ID was not generated. Please contact Trend Micro Support.
+Enterprise index is still set to default value.
+Enterprise record at index could not be retrieved.
+Unable to register IIS for ASP.NET 2.0. Registration process exited with code .
+Group creation aborted due to failed policy integrity check.
+IIS is required for PolicyServer installation. Please install IIS and restart the installation.
+Invalid attempt to import MSP license from MMC client.
+Invalid key length. DES requires an 8 byte key.
+User cannot authenticate to LDAP because the account requires a password change.
+The license file is 30 or more days old and cannot be used again.
+Unable to run a new transaction. Another transation is in progress.
+The parameter '' for command '' contains an invalid value.
+The parameter '' was not supplied for command ''.
+The policy does not exist for application .
+is not supported on the current operating system.
+Report data not available for report id ''.
+The server response '' could not be parsed into the expected format.
+Installation with arguments '' failed with exit code .
+LDAP authentication failed for user due to invalid credentials.
+The server does not support control (OID ) which is necessary for this feature.
+Unable to retrieve the EnterpriseIndex for device id . EnterpriseIndex will not be prepopulated.
+Unable to verify integrity of FIPS certified cryptographic functions.
+The user '' and device '' do not share a group.
+This user is a member of one or more groups - enterprise roles cannot be assigned.
+Error sending an alert. Check the SmtpServer and FromAddress policies.
+An alert was triggered, but could not be emailed. Check the SmtpServer and FromAddress policies.
+All components loaded and verified. Waiting for start event.
+Application was not able to be cast correctly using default.
+Building install package for user on device 
+Building update package for user on device 
+CheckDatabaseConnection thread failed during task. Check login credentials and domain name.
+Device can only be added to a Legacy Group
+The dataset is not valid. Verify data and try again.
+Error while determining the next day of the week.
+GetPolicyFileEx is not supported for non-Giovanni clients DeviceId.
+Handling user caused an exception. Stripped from PAF.
+PolicyServer Installer is exiting with a Fatal Exception.
+PolicyServer Installer has experienced an unhandled Thread Exception.
+Invalid enterprise or user specified for administrative connection.
+The password is not valid. Verify the credentials and try again.
+The user name is not valid. Verify the credentials and try again.
+KA legacy user not authenticated because not OTP
+WirelessAppDomain::Database.IsDeviceValid failed due to a license key violation.
+The user was unable to log in. Check log for details.
+MMC closing due to removal of Smart Card.
+MonitoredProcess failed during task with unexpected exception. Check diagnostic monitor for more information.
+No records were updated by the update user operation.
+Policy integrity check failed. Enterprise: Group: PolicyIndex: 
+Possible license violation: The license activation period has expired. Activation key has been suspended.
+Possible license violation: current date is prior to activation date.
+Reply to command '' in ms with bytes.
+Report definition file not loaded from local resource.
+The report '' was successfully imported, but was not added to the enterprise.
+An email was sent with the subject: ''.
+Application was not able to be cast correctly using default.
+CheckDatabaseConnection thread failed during task "" with unexpected exception.
+Could not add user '' to the PAF.
+Creating attribute '' in category '' on target ''.
+GetPolicyFileEx is not supported for non-Giovanni clients DeviceId: ''
+Handling user caused an exception. Stripped from PAF.
+The installer cannot continue and must quit. ExceptionObject type is . ExceptionObject value is 
+Invalid enterprise or user specified for administrative connection. :
+Login failed for user '' due to: 
+MonitoredProcess "" failed during task "" with unexpected exception.
+No data returned for query '' with @EnterpriseIndex = 
+No data returned for query '' where @EnterpriseName = ''
+Policy file does not exist for group 
+Policy integrity check failed for policy in ; Policy did not have a value.
+Policy '' not found using default value of: 
+Unable to find comm thread for device ''
+Unable to retrieve the EnterpriseIndex for device id ''.
+User '' and device '' do not share a group.
+User doesn't belong to any groups. Stripped from PAF.
+User doesn't belong to any of the device's groups. Stripped from PAF.
+User doesn't belong to the device's group. Stripped from PAF.
+UserNameCaseSensitive was true but '' did not match ''.
+User no longer exists in the database. Stripped from PAF.
+The version is missing or not valid for device: .
+Unable to connect to PolicyServer. Check the connection and try again.
+Unable to create PDF attachment. Try to create report PDF again.
+Performance counters could not be created. Check the permissions to create or access data.
+File could not be found in the device directory. Please check the location.
+Unable to retrieve the EnterpriseIndex for device id
+Unable to send an alert because the alert configuration has not been set.
+Unsupported MMC logon command. Please upgrade the MMC to version 3.0.11.42 or greater.
+The user and device do not share a group.
+User doesn't belong to any groups. Stripped from PAF.
+User doesn't belong to any of the device's groups. Stripped from PAF.
+User doesn't belong to the device's group. Stripped from PAF.
+User login has been locked out due to consecutive login failures.
+User no longer exists in the database. Stripped from PAF.
+You must restart your system for the configuration changes to take effect.
+Backup incomplete. The database could not be updated.
+Devices are not allowed in the user table.
+Unable To Update Comm Threading For Thread Index 
+This feature is not supported for the specified application.
+Checked integrity for audit log records in ms.
+Get Server Public Key for Assembly DeviceName ClientIP ClientIP .
+Unable to add service pack. Try installating again.
+Export started to create app devices for systems with apps.
+Enterprise administrator or authenticator cannot join any groups
+PolicyServer requires Microsoft .NET 4.0 Full to function properly. Visit http://www.microsoft.com/downloads to download the software.
+Policy Server is not allowed to be installed with Endpoint Encryption Proxy.
+The password does not meet policy requirements because it is too short.
+The password does not meet policy requirements because it is too long.
+The password does not meet policy requirements because it is not complex enough.
+The password does not meet the requirements of the password filter DLL.
+Policy server returns a new token. Start to renew token for MMC.
+The authentication token is invalid. Please verify the credentials and retry logging in.
+Host name is not found for group .
+Start to purge audit log by days 
+Policy server is notified to purge inactive devices.
+Policy server is notified to purge inactive users.
+ISAPI Extensions is required for PolicyServer installation. Please install ISAPI Extensions and restart the installation.
+ISAPI Filters is required for PolicyServer installation. Please install ISAPI Filters and restart the installation.
+ASP.NET is required for PolicyServer installation. Please install ASP.NET and restart the installation.
+User is not permitted to log on to PolicyServer.
+New user file folder key was generated for user.
+User is locked out due to failed login attempts
+User is not allowed to register new devices.
+Password must contain a minimum of special characters.
+Password must contain a minimum of uppercase characters.
+Password must contain a minimum of lowercase characters.
+Unable to communicate with LDAP server. Check the connection and try again.
+PDA to Desktop Sync Authentication was unsuccessful. There was no device ID for this PDA found.
+Device is not in its own Password Authentication File. PAF corrupted?
+Unable to log in. Use Remote Authentication to provide the PolicyServer Administrator with a challenge code.
+Admin User locked due to too many failed logins.
+Policy request aborted due to failed policy integrity check.
+File request aborted due to failed policy integrity check.
+Access request aborted due to failed policy integrity check.
+Unable to change password. The new password must be different than the current password.
+Unable to change ColorCode. The new ColorCode must be different than the current one.
+Unable to change ColorCode. The new ColorCode must meet the minimum length requirements defined by PolicyServer.
+Unable to change ColorCode. The new ColorCode must be different than any previous ColorCode used.
+Unable to change PIN. The PINs do not match.
+Unable to change password. The passwords do not match.
+Unable to change PIN. One of the fields are empty.
+Unable to change password. The password field cannot be empty.
+Unable to change password. The password does not meet the minimum length requirements defined by PolicyServer.
+Unable to change password. Numbers are not permitted.
+Unable to change password. Letters are not permitted.
+Unable to change password. Special characters are not permitted.
+Unable to change password. The password cannot contain the user name.
+Unable to change password. The password does not contain enough special characters.
+Unable to change password. The password does not contain enough numbers.
+Unable to change password. The password does not contain enough characters.
+Unable to change password. The password contains too many consecutive characters.
+Unable to change password. The new password must be different than any previous password used.
+able to change PIN. The new PIN cannot be the same as the old PIN.
+Unable to change PIN. The PIN cannot contain the user name.
+Unable to change PIN. The new PIN must be different than any previous PIN used.
+X9.9 Password Change Failure - Can Not Connect to PolicyServer Host
+X9.9 Password Change Failure - Empty Serial Number
+The network connection is not working. Unable to get policy files from PolicyServer.
+Unable to synchronize policies with client. Verify that there is a network connection and try again.
+Device log maximum size limit reached, event log truncated.
+User Failed log In Using One Time Password
+User Could not log In Using Remote Authentication
+Authenticator Failed log In Using One Time Password
+Administrator Failed log In Using One Time Password
+Installation of File Encryption was unsuccessful: Enterprise name is not valid.
+Installation of File Encryption was unsuccessful: Username or password is incorrect.
+Self-extracting encypted file created using a static password.
+Self-extracting encypted directory created using a static password.
+User Failed To Login Using One Time Password
+User locked out after too many failed login attempts.
+Authenticator Failed To Login Using One Time Password
+Administrator Failed To Login Using One Time Password
+Primary action enforced due to no PolicyServer connection.
+Secondary action enforced due to no PolicyServer connection.
+Specify whether group administrators are allowed to add devices.
+Specify whether group administrators are allowed to add/modify subgroups.
+Specify whether group administrators are allowed to add new users.
+Specify whether group administrators are allowed to change policies.
+Specify whether group administrators are allowed to copy and paste subgroups.
+Specify whether group administrators are allowed to remove devices.
+Specify whether group administrators are allowed to remove subgroups.
+Specify whether group administrators are allowed to remove users.
+Specify whether group administrators are allowed to add new users to the enterprise.
+Specify whether group administrators are allowed to remove users from the enterprise.
+Specify whether authenticators are allowed to add devices.
+Specify whether authenticators are allowed to add/modify subgroups.
+Specify whether authenticators are allowed to add new users.
+Specify whether authenticators are allowed to copy and paste subgroups.
+Specify whether authenticators are allowed to remove devices.
+Specify whether authenticators are allowed to remove subgroups.
+Specify whether authenticators are allowed to remove users.
+Specify whether authenticators are allowed to add new users to the enterprise.
+Specify whether authenticators are allowed to remove users from the enterprise.
+Specify the SMTP server responsible for sending welcome email messages.
+Specify the email address that is used as the source email address for welcome email message.
+Policies governing the administration tools like Enterprise Security Manager and PolicyServer MMC Snapin.
+Contains the legal notice that must be displayed before the administrator can use the administration tools.
+Exit the administration tool after the Timeout (minutes) has expired with no activity.
+Lockout the admin login after this number of consecutive failed login attempts.
+A set of policies used to communicate to PDA devices.
+Specify whether the installation messages for Cell Phone PDA are sent by SMS or email.
+Specify whether installation messages for wireless, Bluetooth, cradled, or smart phone devices are sent via email.
+Specify the email address used for SMS and email notifications.
+Contains the welcome message file whose contents are displayed to the user during the download process.
+Specify whether devices are notified via SMS if policy/user settings have changed.
+Specify the target email domain. eg 3142052300@somecompany.com , where somecompany.com is the email domain.
+Specify the SMTP server responsible for sending SMS notifications/messages.
+Email settings used to send installation notification to the user.
+Specify the email subject of messages sent to users.
+Specify the SMTP server responsible for sending email messages.
+Policies governing email messages sent about important log events.
+Specify the SMTP server responsible for sending alert email messages.
+Specify whether the user may make emergency phone calls from their device.
+Specify the number of failed login attempts allowed before executing the DeviceLockedAction.
+Specify the action to be taken when the FailedAttemptsAllowed value is exceeded.
+Specify information to be displayed on the device during the device lock out.
+Specify whether a legal notice should be displayed.
+Specify when the configured legal notice should be displayed to the user.
+Number of minutes to lock the device when DeviceLockedAction TimeDelay is triggered.
+Display help desk information or administrator contact information.
+Specify whether users are allowed to uninstall Full Disk Encryption.
+Specify the type of key used to encrypt files/folders on client and removable media.
+Specify whether users are allowed to access system recovery utilities on the device.
+Specify whether users are allowed to configure Wi-Fi policies on the device.
+Specify the device encryption key size in bits.
+Specify whether to encrypt only the used disk space.
+Policies defining the log file on the device.
+Specify the device log file size (in KB).
+Specific policies related to encryption on the PPC device.
+Specify whether the Appointments database should be encrypted on the PPC device.
+Specify whether the Contacts database should be encrypted on the PPC device.
+Specify whether all external media and internal storage on the PPC device is encrypted.
+Specify whether the Email database is encrypted on the PPC device.
+Specify a list of databases to be encrypted on the PPC device.
+Specify whether the Tasks database should be encrypted on the PPC device.
+Policies defining the log file on the PPC device.
+Specify the size of the log file on the PPC device (measured in kilobytes).
+Specify policies related to Authentication on the PPC device.
+Specify the number of minutes that the authentication screen displays while inactive.
+Specify an application to be launched on the device after a successful authentication.
+Specific policies related to the complexity of user passwords.
+Specify the allowed authentication methods on the PPC device.
+Policy related to physical tokens including smartcards and usb tokens.
+Verifying certificates via OCSP allows for the revocation of invalid certificates via the CA.
+Pass the token to the desktop GINA for further processing during the boot process.
+Specify the action when a supported physical token is removed from a supported reader.
+Whether success of OCSP reply should be displayed.
+Specify the action when an OCSP certificate status is unknown.
+Specify the action when an OCSP certificate status is expired.
+Specify the action when an OCSP certificate status is revoked.
+Specify the allowed type(s) of authentication methods that can be used.
+User login policies that define the actions taken after successful/failed login attempts.
+Rules that define the complexity of user supplied passwords.
+Make users use a physical token (ie. smart cards) to log in.
+Specify whether to allow the user to secure (permanently) delete files.
+Specify whether removable media should be encrypted when inserted into client machine.
+Specify whether all files/folders on removable media are encrypted.
+Specify the hour when service pack downloads may begin.
+Specify if USB drive will be disabled: Always, Never, or only when not logged in.
+Policies that apply to the Pocket PC Mobile Firewall product.
+Determines whether to block Denial of Service attacks.
+Determines whether to sound an audible alarm if an intrusion occurs.
+The sub policies describe a port that needs to be monitored.
+The name of the service that uses this port.
+Specify the action when a Denial of Service attack occurs.
+Policies for all devices using the Mobile Sentinel product.
+Specify access to corporate network resources by ensuring that devices comply with company policy.
+Specify how often (in minutes) MobileSentinel receives updates from PolicyServer.
+Specify whether updates can be received and run on the device.
+Specify the actions to be taken on the remediation object.
+Specify information for users if the specified object is found to be out of compliance.
+Specify the fully qualified path name for the compliance object.
+Specify the Remediation URL address to be shown if the policy PPCObjectAutoRestore is set to false.
+Disable/enable incoming Object Exchange via IR and Bluetooth.
+Disable the addition of new applications via Windows Mobile installers.
+Collect key pieces of information on hardware and software every X days: 0 = off.
+Perform a snapshot of files and directories every X days: 0 = off.
+Determines whether to restrict network access if the device is found to be out of compliance.
+Number of failed login attempts before using LockDeviceTimeDelay. 0 allows for unlimited attempts.
+Force User to Connect to PolicyServer to access files on USB.
+Secondary Time Period in X amount of Days, before the Secondary Action is Enforced.
+If the KeyArmor device is not being accessed within X mins then log out of device.
+Messages to be displayed to KeyArmor device users.
+Specify whether a notice is displayed when the KeyArmor device is inserted in a computer.
+Specify the Legal Notice to display to user.
+Indicates what remediation action to take with any infected file found.
+Specify a list of vendor server URLs to contact for Antivirus definition updates.
+Specify the number of uppercase letters required in a password.
+Specify the number of lowercase letters required in a password.
+Specify if the user name is case sensitive.
+Specify login polices which are enforced by the local client application.
+Specify policies for devices that use Domain authentication.
+Specify policies for authentication using a smartcard or usb token.
+Lock device for X minutes if user exceeds FailedAttemptsAllowed.
+Specify whether users will authenticate using RSA SecureID.
+OCSP allows for detection of certificates which have been revoked by a CA via OCSP responder.
+Specify the frequency (minutes) that a device attempts to receive updates from PolicyServer.
+Specify policies that provide information to the user.
+Specify information to be displayed on a locked device.
+Specify policies that govern generic actions to the computer.
+Specify whether a non-administrator can uninstall the client application.
+Specify if users are allowed to access system administration utilities on the device.
+Specify login policies for devices that use Domain authentication.
+Specify whether passwords can contain letters, numbers, special characters or a combination.
+Specify whether password can contain the user name.
+Specify (in days) when to force a user to change their password.
+Specify the number of consecutive characters allowed in a password.
+Specify the number of past passwords the user is not allowed to use.
+Specify the number of letters required in a password.
+Specify the number of numeric characters required in a password.
+Specify the number of special characters required in a password.
+Specify if users can change their password when not connected to PolicyServer.
+Specify the policies that are used for Self Help.
+Specify the number of questions required to be answered correctly to authenticate the user.
+Specify the personal challenge question used for Self Help.
+Specify whether passwords can contain alpha, numeric, special or a combination.
+Specify if users will be verified against an Internet Directory using LDAP.
+Specify the hostname. Note: the hostname can be a domain name.
+Type of server used to authenticate client user requests.
+Specify if the last authenticated user should remain in the User Name field at next authentication.
+Holds settings for the LDAP server to provide authentication services when DomainAuthentication is set to Yes.
+Specifies if the Windows credentials should be used to authenticate to File Encryption.
+Specify whether passwords can contain letters, numbers, special characters or a combination of all.
+Number of consecutive characters allowed in a password.
+Specify the number of passwords to remember (including one-time passwords). Use 0 for no enforcement.
+Specify if passwords are case sensitive (i.e. ignore upper and lower case).
+Specify the number of questions that must be answered correctly.
+Specify the personal challenge question(s) used for Self Help.
+Specify the policies that are used to define the Self Help process.
+Specify the SMTP server name used to send Self Help email messages.
+Specify the email address that is used as the source email address for Self Help email.
+Contains IT policy rules that apply to the BlackBerry device only.
+Specify whether the BlackBerry device requires a security password.
+Specify whether the user can send PIN messages from the BlackBerry device.
+Type the minimum required length, in characters, of the BlackBerry device security password.
+Specify whether the user can disable the requirement for a BlackBerry device security password.
+Specify whether the BlackBerry device can send text messages (SMS).
+Specify whether the user can include BCC recipients when composing messages on the BlackBerry device.
+Type the URL of the BlackBerry device browser home page.
+Contains IT policy rules that apply to phone and browser functionality on the BlackBerry device.
+Specify whether the phone functionality on the BlackBerry device is available to the user.
+Specify whether the user can use the default browser included on the BlackBerry device.
+Contains IT policy rules that apply to BlackBerry device security.
+Specify whether to prevent the BlackBerry device user from sending unencrypted email messages.
+Specify whether to prevent the BlackBerry device user from sending unencrypted PIN messages.
+Type the maximum number of days that the BlackBerry device caches the certificate status.
+Specify whether the BlackBerry device is security locked when placed in the holster.
+Allow Third Party Apps to Use Serial Port
+Specify whether applications can open both internal and external connections simultaneously.
+Specify whether users can place calls from the BlackBerry device while it is security locked.
+Specify whether the Internet Protocol (IP) modem feature on applicable BlackBerry devices is turned off.
+Specify whether the smart card password can be cached.
+Specify whether the GPS functionality on the BlackBerry device is turned on.
+Specify whether to prevent the expandable memory (microSD) feature from working on supported BlackBerry devices.
+Specify whether to prevent the USB Mass Storage feature from working on supported BlackBerry devices.
+Specify whether to disable the Media Manager access from the BlackBerry Desktop Software.
+Specify whether to prevent the BlackBerry device from adding geographical coordinates to photo metadata.
+Max Smart Card Auth Cert Status Check Period
+Contains IT policy rules that apply to the PGP Support Package.
+Type the maximum BlackBerry device idle time, in minutes, allowed before the memory cleaner starts.
+Specify whether the BlackBerry device performs a memory clean when idle.
+Specify whether the BlackBerry device performs a memory clean when holstered.
+Contains IT policy rules that apply to Bluetooth.
+Specify whether support for Bluetooth technology is turned off on the BlackBerry device.
+Specify whether a Bluetooth enabled BlackBerry device uses Bluetooth encryption on all connections.
+Specify whether users can change all VPN policy rules on the BlackBerry device.
+Type the VPN server IP address in "dotted" (for example, 10.0.0.0) or FQDN format.
+Type the Default user name that the BlackBerry device uses to log into the VPN server.
+Type the default password that the BlackBerry device uses to log into the VPN server.
+Type the primary DNS server IP address (Example: 10.0.0.0).
+Type the secondary DNS server IP address (Example: 10.0.0.0).
+Type the internal domain name suffix using the FQDN format.
+Specify whether Perfect Forward Secrecy (PFS) is enabled. RIM recommends using PFS.
+Specify whether users can save VPN passwords on the BlackBerry device.
+Contains IT policy rules that apply to the BlackBerry Smart Card Reader.
+Contains IT policy rules that apply to the integrated camera.
+Specify whether the camera functionality is disabled on the BlackBerry device.
+Specify whether the video recorder feature on the BlackBerry device is turned on.
+Specify whether passwords contain alpha, numeric, special or a combination.
+Allow the password to contain the user name.
+Specify the personal challenge question(s) used for Self Help, up to 10 questions.
+After X mins the user is logged out automatically.
+Specify the number of uppercase characters that must be used in a password.
+Specify the number of lowercase characters that must be used in a password.
+Specify whether users are allowed to uninstall File Encryption.
+Specify whether the mediation object should be copied or run.
+The Internal Palm object name. Note: this is case-sensitive.
+Specify the URL to be shown if the policy PalmObjectAutoRestore is set to No.
+Policies specific to encryption on the Palm device.
+Specify if all data on the Palm device should be encrypted.
+Policies specific to logging on the Palm device.
+Specify the size of the log file (measured in kilobytes).
+Policies specific to user authentication on the Palm device.
+Specify the device inactivity time (in minutes) to display the Password Authentication screen.
+Specify an application to be lauched after successful user authentication.
+Specify if new applications can be installed on the Palm device.
+Policies that define the complexity of user passwords on the Palm device.
+Specify the authentication methods allowed on the Palm device.
+This is a placeholder record for a missing Audit Log entry. See Audit Log index 
+Specify the hour when service pack downloads begin.
+Specify the password that will be connected to Active Directory.
+Specify the user name that will be connected to Active Directory.
+Users in have syncronized with the Active Directory .
+Users in have not syncronized with the Active Directory .
+Move Disk () from in to in is successful.
+Unable to Move Disk () from in to in .
+Specify the device encryption key length. The key length value is in bits.
+Specify whether the logon screen uses a customized logon background color.
+Specify the red value of the RGB color code.
+Specify the green value of the RGB color code.
+Specify the blue value of the RGB color code.
+Specify whether the logon screen uses a customized logon banner image.
+Duplicated device because VM was duplicated to VM .
+Reinstallation of Full Disk Encryption for Microsoft Azure was unsuccessful.
+Reinstallation of Full Disk Encryption for Microsoft Azure was successful.
+Specify the name or SSID of the network.
+Specify the user name if the network requires user-based authentication.
+Domain user is not permitted to log on to PolicyServer.
+Provides secure data processing for requests fromTrend Micro client and administrative applications.
+The specified file is not signed by a Trend Micro or Mobile Armor certificate.
+Provide the server location and administrator credentials to create PolicyServer databases.
+Provide the hostname or IP address for the SQL Server serving .
+Provides secure communications from Trend Micro PolicyServer to remote LDAP servers.
+Protects data at rest with full disk encryption and authentication security.
+Encrypts data in files, folders, and removable media.
+Manages Endpoint Encryption agent communication in an encrypted channel.
+No Recovery Key available. The device is not encrypted.
+The activation period has expired. Please contact .
+Invalid enterprise. Verify the Enterprise Name and provide the information again.
+Unable to login. Verify the PIN and try again.
+The smart card is not inserted or is unreadable. Verify that it is seated properly.
+One or more required input fields are empty.
+Unable to login because the account has been locked out. Please contact your PolicyServer Administrator.
+User is not allowed to perform this action.
+Search returned 0 results. Do you want to add a device to this Group?
+Search returned 0 results. Do you want to add a new user to this Group?
+The device will be notified to erase its data.
+Make sure that your Mobile Sentinel SMS Notification policies are correctly set.
+Unable to locate any responses from the specified user.
+Not all of the users have a password assigned. Do you wish to continue?
+Device will be notified to perform a soft reset.
+There is nothing to remove because the list is empty.
+Unable to add one or more records. They already exist in the list or group.
+Cannot copy a Non-legacy-supporting group to a Legacy-supporting group.
+Administration functions are unavailable - policy data could not be retrieved.
+For online help, please see PolicyServer MMC login dialog -> Help -> About -> Online Help.
+You must specify both the PrimaryDbAdminPassword and the PrimaryDbApplicationPassword to continue installation.
+Frequency that the policy cache checks the data store to ensure policies are up to date.
+A set of performance counters published by Trend Micro PolicyServer.
+Only MSIs and application executables can be selected.
+The email address is not formatted correctly. Please verify the field and try again.
+Policy value range is not in defined policy range.
+Policy value is not in policy value range.
+Select a location for the export file before proceeding.
+Select an installation file for one of the Trend Micro Endpoint Encryption products before proceeding.
+Invalid folder for export location: . Please select a valid folder location for the export file.
+Unable to download the report. Check the diagnostic monitor for more information.
+Error: Unable to submit report. Check the diagnostic monitor for more information.
+Report failed to schedule. Check the diagnostic monitor for more information.
+Are you sure you want to delete the application?
+Are you sure you want to delete the alert ''?
+Choose at least one severity or message ID.
+'' already exists as an alert for this group. Please choose a different name.
+These emails do not appear to be valid.
+Unabled to establish a connection to the LDAP server. Please check connection settings and try again.
+An exception occurred while connecting to the LDAP server: 
+No users are selected. Check the box next to each user you wish to import.
+An exception occurred while communicating with the LDAP server: 
+Successfully added of users to enterprise. Processing encountered errors. View error report?
+Unable to read xml data from server. Check the diagnostic monitor for more information.
+Warning: This will remove all users, devices, groups and security policies. Do you want to continue?
+Unable to remove the selected enterprise. Try again.
+The PolicyServer has generated an alert. Check your PolicyServer reports for the details of the alert.
+Unable to load MobileArmor.Reflection assembly from internal resource.
+"" failed during task "" with unexpected exception. Details can be found in the event log.
+The PolicyServer database backup has timed out. Manually back up the database
+Connection failed during task "" with unexpected exception. Details can be found in the event log.
+Do you wish to backup before performing database operations?
+Do you wish to backup and before performing database operations?
+An unexpected exception occurred while checking server prerequisites.
+Process failed with exception "". The details are in the event log.
+Provide the SQL Server logon credentials for .
+Provide the same SQL Server password in both password fields.
+Administration tool to define Security Policies for users, devices, and groups.
+Press the Install button to download the security software installer.
+Unable to remove user . Not allowed to remove the last Administrator from an Enterprise.
+Cannot insert international character sets into legacy group.
+Path requires a root such as 'c:\' or '\\server\'.
+Click "Uninstall" to remove the current version, or click "Restore" to restore the current version.
+Click "Uninstall" to remove PolicyServer, or click "Upgrade" set up the new version.
+Administrator password mismatch. Verify the password fields and try again.
+Password connot contain 3 or more consecutive characters.
+The specified IP address is invalid. Specify a valid IP address (example: 1.1.1.1).
+The specified site name is invalid. Specify a valid site name to continue.
+The site: already exists. Specify a new site name to continue.
+The specified port number is already in use by another website. Select a unique port number.
+Port 9999 is not allowed. Please specify a different port number.
+Port is reserved for the Client Web Service. Specify a different port number.
+PolicyServer Microsoft Management Console (MMC) is used to remotely manage PolicyServer. Install PolicyServer MMC now?
+A valid certificate does not exist in the specified path. Verify the certificate and try again.
+The specified password is not valid for this certificate. Try again or select a different certificate.
+The index of the first row in AuditLog table
+The lock of AD Sync to switch AD sync running status, default setting : false
+Parameter is not in range of to .
+Your license has expired. After upgrade, please launch the installer again to renew your license.
+The authentication token has expired. Please logon again.
+The Activation Code provided has expired. Provide a valid Activation Code.
+ISAPI Extensions is required. Please install ISAPI Extensions for Web Server(IIS) first.
+ISAPI Filters is required. Please install ISAPI Filters for Web Server(IIS) first.
+ASP.NET is required. Please enable ASP.NET for Web Server(IIS) first.
+Logon banner size must be 128 KB or less.
+Logon banners must use PNG, JPEG, or GIF file formats.
+Unable to check license status (error code: ). Click Help to see the troubleshooting steps.
+Click "Uninstall" to remove PolicyServer, or click "Install" set up the new version.
+Select the target site for the web application.
+Select whether PolicyServer Windows Service runs using Local System or a domain user account.
+Provide the server location and administrator credentials to create log databases.
+Read the legal notice carefully. If you accept the terms, click "Accept".
+Provide server location and logon credentials for both PolicyServer databases.
+Select the type of SQL installation and then specify the administrator credentials to create PolicyServer databases.
+Provide credentials for the account that PolicyServer Windows Service will use to access the database.
+Please provide a valid Distinguished Name to continue.
+Please provide a valid Host Name/Address to continue.
+Domain controller name changed, full sync in progress.
+Domain controller source id changed full sync in progress.
+The Password and Confirm Password entries do not match, please try again.
+Welcome to the Proxy Installation Tool for Trend Micro Endpoint Encryption PolicyServer.
+This tool analyzes your Endpoint Encryption environment to perform proxy installation, upgrade, or uninstallation.
+Another TMEEProxyInstaller.exe is running. Only one instance of TMEEProxyInstaller.exe is allowed to run at any time.
+Enter your PolicyServer host name or IP address.
+Endpoint Encryption Proxy is unable to be installed on the same endpoint as PolicyServer.
+Endpoint Encryption Proxy does not support the current operating system.
+Endpoint Encryption 5.0 or later agents are able to use the following IP address: :.
+Unable to detect either TMEEForward or Client Web Service.
+Installation of Client Web Service 5.0 was unsuccessful.
+Installation of Client Web Service 5.0 was successful.
+Endpoint Encryption 3.1.3 or earlier agents are able to use the following IP address: .
+A system restart is required to complete the installation of Endpoint Encryption Proxy.
+Endpoint Encryption agents can now connect to this endpoint.
+IIS is installed but is not running on this endpoint. Start IISADMIN service and try again.
+Endpoint Encryption Proxy requires IIS. Install IIS and try again.
+Endpoint Encryption Proxy requires the ISAPI Extensions component. Install the ISAPI Extensions component and try again.
+Endpoint Encryption Proxy requires the ISAPI Filters component. Install the ISAPI Filters component and try again.
+Unable to connect to PolicyServer. Verify your PolicyServer host name or IP address and try again.
+Offline installation will successfully complete after system restart.
+PolicyFile section cannot be located in ScratchSpace data.
+The application cannot be determined from the file.
+Only non unicode files are allowed in this group.
+That version of the application is not supported.
+Total of licenses will be consumed for physical devices.
+Unable to update ''. Continue to export other devices?
+Unable to add ''. Continue to export other devices?
+Unable to create ''. Continue to export other devices?
+Enter the file location for the export file. Select the Next button to continue.
+The export password is used during installation on the client.
+Provide the number of application and device licenses to install and the device name prefix.
+Add one or more installation files to the list.
+Allow Install User To Install To This Group
+Enter email addresses to receive the alert (one per line).
+Consecutive Failed Logon Attempts on a Single Device
+Reports FDE devices in the last x days that did not complete encryption.
+Reports all device versions and the count for each.
+Reports all device operating systems and the count for each.
+Reports devices that have not communicated with PolicyServer in x days.
+Reports all devices and the last user who logged into each device.
+Reports the total devices and users, the MMC user count, and the client user activity.
+Reports all devices that synchronized with the PolicyServer in the last x days.
+Sends an alert when PolicyServer detects that policies have been tampered with.
+Alert sent after no PolicyServer connection from device, and primary/secondary action has been enforced.
+Reports user activity within x amount of days for the given user.
+Reports all users added within the last x days.
+Reports all users that have never logged into any device.
+Full Disk Encryption Device Not 100% Encrypted Report
+An alert is sent when PolicyServer detects that policies have been tampered with.
+Reports all users who have not logged on a device for a specified timeframe.
+Reports the count of all devices, grouped by application.
+Reports the number of devices by application and the encryption status of each device.
+Reports the number of devices by device type and the encryption status of each device.
+Update Failure: unable to automatically install File Encryption 3.1.3 - 
+Update Failure: unable to automatically uninstall File Encryption - 
+Running File Encryption SP7 installer (computer will restart when done)
+-si = Does not install SP7. Decrypts user files.
+-sf = Does not perform any user file operations.
+File Encryption encrypts the file into an archive.
+Encrypt data so that it can only be accessed by members of my group.
+Encrypt using a unique key so that only I can decrypt it.
+File Encryption Strong Certificate Based Encryption and Disc Burning
+Encrypt using digital certificates, then burn to a CD.
+Encrypt with a user created fixed password, then burn to a CD.
+Securely Deletes the File. File Cannot be Recovered.
+User not permitted to use a One Time Password
+Unable to log in using Single Sign-On. Log in manually.
+locked the device due to incorrect login attempts.
+User not permitted to use a One Time Password
+Please enter the installer's policy data password and device index.
+Unable to register because there is missing information
+After providing the Challenge to the PolicyServer Administrator, type the Response and click Log in.
+Copyright © Trend Micro, Inc. All Rights Reserved.
+Powered by Mobile Armor cross platform FIPS 140-2 Validated Encryption Module 3.5
+You have answered the incorrect number of questions.
+There are not enough letters in the password.
+There are not enough numbers in the password.
+There are not enough special characters in the password.
+The device is locked. Please contact your Administrator.
+There are not enough lower-case characters in the password.
+There are not enough upper-case characters in the password.
+Unable to change hostname. Check the PolicyServer information and try again.
+Warning: do you want to permanently delete these files? This action cannot be undone.
+The specified user does not belong to any groups.
+File Encryption has successfully moved files to your new Windows folder structure.
+The discovered files are File Encryption SP6 encrypted files.
+Select SP6 to replace all file extensions with SP6. Double click to reencrypt a copy.
+Provide the hostname or IP address for the new PolicyServer:
+Provide and confirm the archive password. It will be used to open the archive later.
+© Trend Micro, Inc. 2013. All Rights Reserved.
+This archive contains data encrypted via certificates. Please select the extract folder to continue.
+Unable to extract this archive, the archive appears to have been altered preventing extraction.
+Unable to extract this archive, a valid recipient certificate must be available to continue.
+The password provided is incorrect, please a valid password to continue.
+Selected folder is not available for extraction, please select another folder.
+Please provide a valid archive password to continue.
+Trend Micro Full Disk Encryption upgrade has begun. Please do not restart your computer.
+Trend Micro Full Disk Encryption does not appear to be installed on this computer.
+Upgrade of Trend Micro Full Disk Encryption has finished
+A shutdown is required to finish this upgrade. Would you like to shutdown now?
+Trend Micro Full Disk Encryption Upgrade for Windows
+Preboot has been removed. Please restart the computer.
+The RepairCD has detected a DataArmor SP7 install. Please use a DataArmor SP7 repair CD.
+Are you sure you want to erase this disk? This action can not be undone.
+Are you sure you want to remove the preboot? This action is permanenent.
+Provide your user name and password, and provide the IP address or host name of PolicyServer.
+Current sector is of for a percentage of 
+Forced decryption has completed successfully. Restart your endpoint to continue.
+Once started, forcing decryption may not be interrupted. Are you sure you want to force decryption?
+Device has already been forced to decrypt. Are your sure you want to force decryption again?
+Unable to authenticate server. The device ID is invalid.
+Unable to authenticate server. The server IP address is invalid.
+Welcome to the Repair CD for Trend Micro Full Disk Encryption
+Unable to modify the Full Disk Encryption database. Contact Trend Micro support.
+The PolicyServer IP address or host name is not in a valid format.
+Multiple disks detected. Remove disks until there is only one attached disk and try again.
+Please wait while we scan your drives for any issues...
+The Full Disk Encryption preboot is enabled. Restart the endpoint to access the preboot.
+Unable to access device. The device has been killed and is unrecoverable.
+Specify the PolicyServer IP address or host name.
+Unable to connect to PolicyServer. Check your network status and configure your network accordingly.
+Unable to decrypt the Full Disk Encryption database. Contact Trend Micro support.
+The Recovery Tool requires authentication with PolicyServer to continue repairs.
+Unable to contact PolicyServer. The IP address or host name may be incorrect.
+Unable to repair the backup sector of the disk. Contact Trend Micro support.
+Unable to repair the UEFI bootloader. Contact Trend Micro support for assistance.
+The recovery tool has completed decrypting all SED disks. Restart your endpoint to access the disk.
+Are you sure you want to unmount the selected disk?
+Need root privileges to unmount the disk partition.
+This is not a mount point on the disk or the directory does not exist.
+Unable to unmount the disk. Contact Trend Micro for support.
+Are you sure you want to remove ?
+Enterprise settings has been updated. Exit Recovery Console to apply the changes.
+Unable to parse server address. Please re-type the server address.
+Invalid user name or password. Verify your credentials and try again.
+Are you sure you want to delete this file?
+Are you sure you want to detach this disk?
+You do not have access to save this file.
+The specified file name is null or invalid. Specify a valid file name to continue.
+Confirm the selected network settings or specify a network connection.
+Please enter a password must be less than 128 characters
+Please enter the SSID must be less than 128 characters
+Please enter the user name must be less than 128 characters
+Full Disk Encryption is connected to the following wireless network:
+Full Disk Encryption has successfully connected to .
+Full Disk Encryption has successfully disconnected from .
+The disk has been successfully detached but the disk list did not update successfully.
+Disk provisioning was unsuccessful. Try disk provisioning again. If the problem persists, contact technical support.
+Disk provisioning was unsuccessful. Full Disk Encryption functionality has not been enabled for this disk.
+The system is performing a traceroute. Wait for the process to complete and then try again.
+Unable to retrieve the PolicyServer host name from the database.
+Unable to load encryption module. Contact technical support for assistance.
+Please select from the menu to the left to begin using the recovery console.
+The endpoint must have a supported operating system installed.
+The physical disk must be fixed and not removable.
+The drive must have at least 256MB of contiguous free disk space.
+The endpoint must have at least 512MB of RAM.
+The drive must not have more than 25 partitions.
+The installer checks that the hard disk has SED hardware compatibility.
+Encryption Management for Microsoft BitLocker is Already Installed
+More than one physical disk is installed. See the following details:
+The disk space for each device must be no more than 2 TB.
+PolicyServer and Full Disk Encryption may not be installed on the same endpoint.
+Drives using Intel Rapid Storage Technology with mSATA caches are not supported.
+The Full Disk Encryption Preboot supports the current keyboard layout.
+The Full Disk Encryption Preboot supports the system Network Interface Controller(NIC) and WiFi hardware.
+Disks on this device are with unique hardware property - SerialNumber and Model
+Check the first usable LBA and partition size
+There are one or more disks which are not initialized. Open Disk Management to initialize.
+This version of PolicyServer is not compatible with the client.
+The endpoint must not have incompatible software installed.
+Unable to retrieve PolicyServer information. Unable to resolve IP address from the host name.
+IP address obtained. Host name resolution is skipped.
+Are you sure you want to shut down the computer?
+You have exceeded the number of signon attempts. Please contact your Administrator for more information.
+Are you sure you want to restart the computer?
+Restart the computer to change the keyboard layout. Restart now?
+Unable to authenticate due to system error. Restart the computer and try again.
+The password type cannot be changed during installation.
+Trend Micro Full Disk Encryption provides enterprise mobile data security for both standard and self-encrypting drives.
+Powered by Mobile Armor cross platform FIPS 140-2 Level 2 Validated Encryption Module.
+Unable to encrypt using this Smart Card. Check if the card is supported.
+Unable to change the Domain password. Verify policies and try again.
+Password does not meet the minimum length requirement.
+Password does not meet the required number of characters.
+Password does not meet the required number of numerals.
+Password does not meet the required number of special characters.
+The new password cannot be the same as the current password.
+Provide a one time password to register the Smart Card
+Unable to read the Smart Card. Check if the reader and card are supported.
+The password type cannot be changed to RSA until the installation is complete.
+The password type cannot be changed to Smart Card until the installation is complete.
+Password does not meet the required number of lower case characters.
+Password does not meet the required number of upper case characters.
+Unable to change password due to system error.
+Unable to change the password. Verify policies and try again.
+attempts to login but the number exceeds allowable number .
+Administrative users should use an alternative authentication method to access this system
+Full Disk Encryption device has been erased. [AttemptsExceeded]
+Full Disk Encryption device has been erased. [DeadManSwitch]
+The user is not permitted to log on to PolicyServer.
+Device Log Max Size Limit Reached Event Log Truncated
+Unable To Contact The PolicyServer In Past 24 hours
+Unable to obtain polices from server. Please check server logs for information.
+Unable to retrieve disk information. Uninstallation has stopped.
+User does not have proper rights to access disk drive.
+Encryption software is already installed on this device. Uninstall this software, and then restart the installation.
+All data successfully deleted. Power off the machine.
+An exception has occurred. Please see log for details.
+A connection to the PolicyServer is needed to complete this upgrade
+This version of Trend Micro Full Disk Encryption is not supported by this upgrade.
+Trend Micro Full Disk Encryption does not appear to be installed.
+Unable to access files in Program Files folder.
+Unable to detect the current running version of Trend Micro Full Disk Encryption.
+A reboot is required to finish this upgrade. Would you like to reboot now?
+Unable to install or upgrade Full Disk Encryption. Reason: 
+Full Disk Encryption pre-installation verification was unsuccessful. View the following article for more information:
+Unable to retrieve disk information. Contact Trend Micro support for assistance.
+Powered by Mobile Armor cross platform FIPS 140-2 Level 2 Validated Encryption Module 3.5.
+Decryption complete. Run the uninstaller again to finish removing Trend Micro Full Disk Encryption.
+Unable to communicate with service. Please check the status of .
+Unable to install disk to Policy Server. Check the PolicyServer’s logs for more details.
+Request was unsuccessful. Check the PolicyServer logs for more details.
+Unable to access disk. This disk belongs to a different group. Contact your administrator for assistance.
+Unable to move the disk. Check the PolicyServer logs for more details.
+The disk [] has been provisioned for encryption successfully. Restart your endpoint to continue encryption.
+The disk [] has been provisioned for encryption successfully. Shut down your endpoint to continue encryption.
+The disk [] has moved to the endpoint successfully. Restart your endpoint to complete the operation.
+Your endpoint hardware is incompatible with Full Disk Encryption. Uninstall Full Disk Encryption from this endpoint.
+Failed to load encryption module, please contact technical support.
+The uninstall allows you to remove Full Disk Encryption and de-activate the self-encrypting drive.
+Full Disk Encryption is unable to determine the currently logged in user.
+Managed installation requires a connection to Trend Micro PolicyServer.
+Are you sure you want to cancel the install?
+Unable to install Full Disk Encryption. Please try again.
+Full Disk Encryption provides three policy configuration templates. Select one of the following options:
+Are you sure you want to uninstall Full Disk Encryption?
+Contact your network administrator for access privileges to uninstall.
+The drive will be decrypted in the background. A prompt will appear when decryption has finished.
+Unmanaged installation is for users who do not connect to a Trend Micro PolicyServer.
+Full Disk Encryption provides two installation methods to optimize installation for your environment:
+You must shut down the computer to lock the drive. Shut down now?
+An error has prevented the installer from completing. Try to install again.
+Unable to finish installing . Please try again.
+Provide your user name and password to continue.
+Restart the computer to lock the drive or initiate encryption.
+Unable to obtain polices from server. Please check server logs for information.
+Unable to obtain user information. Please check server logs for information.
+Full Disk Encryption has disabled hibernation mode. Do not re-enable hibernation or data loss may occur.
+Unable to install disk to PolicyServer. Check the PolicyServer logs, and try again.
+Please check your GPT header is correct and try again.
+Choose unmanaged installation if the computer will not connect to a Trend Micro PolicyServer.
+Choose managed installation if the computer will connect to a Trend Micro PolicyServer.
+Full Disk Encryption provides three policy configuration templates:
+Encryption complete - MB of MB currently encrypted.
+Encryption in progress - MB of MB currently encrypted.
+Provides Trend Micro endpoint security and full disk encryption.
+Purge all users who have not logged on a device for longer than:
+Unable to communicate with PolicyServer. Please change the server settings and try again.
+The system requirements are not met. Resolve the following issues before installing the agent:
+•Apple FileVault is enabled.Disable Apple FileVault, restart the endpoint, and try again.
+•Mono Framework 2.10.11 is required. Uninstall the currently installed version and try again.
+Purge all devices that have not been used for longer than:
+Check this to mark as a Single Enterprise
+Policy Configuration - policies that have been turned off.
+License - total users, total devices, number of days, etc.
+There are two possible reasons for this issue:
+Click a ConnectWise Automate Client name to view information on the product_short_name console.
+The Action Required Events widget lists your customers with endpoints that require attention.
+Click a Company name to view information on the product_short_name console.
+Trend Micro Product IDs for ConnectWise Manage Integration
+Follow the step below to continue configuring product_name integration with ConnectWise Manage 2014.5 and earlier versions:
+Add Trend Micro Products to ConnectWise Manage - Conref
+Integrate the following product_name products/services with ConnectWise Manage for billing purposes:
+From the ConnectWise Manage console, go to Procurement Products .
+Click New Item () to add a new product.
+Type the necessary product_name managed product/service product IDs in the Product ID field.
+ConnectWise Manage adds the new product to the products list.
+From the ConnectWise Manage console, go to Procurement Product Catalog
+ConnectWise Manage adds the new product to the Product Catalog.
+Follow the steps below to continue configuring product_name integration with ConnectWise Manage:
+Adding New Products Using a Customer Licensing Portal Account
+You can only add the following products using a CLP account:
+In the Product type drop-down, select the product you want to register to the customer.
+On the managed product console, go to AdministrationTrend Micro Remote Manager.
+Provide the Authorization Key or GUID in the available field.
+The managed product connects to product_short_name and registers to the previously selected customer account.
+Optional: Click Add device and type the following information for each device.
+Device name: Type a name that is not identical to the company name.
+Serial number: The serial number is not case-sensitive.
+For more information, see Configuring Default Setting Templates for Cloud Edge.
+You should identify basic customer information before you create the customer account.
+From the product_short_name web console banner, click New Customer.
+You can click New Customer from the Banner, or from the Customers tab.
+Assign a service plan, license start date, and the number of units per license.
+Set up the product default settings for this account.
+This feature is only for Worry-Free Business Security Services and Cloud Edge.
+Basic: Configure only the settings on this screen that new customer accounts will use.
+Templates: Use this option to select a default setting template.
+Configure the settings from AdministrationConfigure default settings template.
+Verify all the information and then click Save.
+Adding New Products Using a Licensing Management Platform Account
+Specify the service plan, the start date, and the units per license.
+This feature will show only if you selected Worry-Free Business Security Services.
+Approved List for Web Reputation and URL Filtering
+The product/service is added and the details of the addition appear.
+Click Connect to get information on how to connect the product/service to the console.
+Allows you to configure the global notification settings
+Allows you to change the banner image that appears on the product_short_name console
+View the current status of the product_short_name features integrated with third-party software
+Allows you to enable integration with supported third-party software and configure global integration settings
+product_short_name only supports default setting templates for Worry-Free Business Security Services and Cloud Edge.
+Displays information related to product_short_name console changes made by users
+Status messages displayed by the Agent’s system tray icon
+Unexpected errors, typically system errors, are preventing the Agent from functioning properly.
+Check the managed server for low memory or other system problems.
+The GUID you provided may be incorrect or there may be a network issue.
+There are two situations that may cause this:
+Verify that you have used the correct GUID.
+See to find the correct GUID on the product_short_name web console.
+If the network has an issue, the Agent cannot connect to the server.
+Check the network connection between Worry-Free Business Security (Standard and Advanced) server and the product_name server.
+The managed server may be experiencing Internet connectivity problems.
+Also, check the Agent’s proxy settings and the specified server address and port.
+The Agent has been temporarily disabled through the product_short_name web console.
+Enable the Agent through the product_short_name web console.
+Agent does not match the Client Server Messaging Security (CSM).
+The Client Server or Client Server Messaging Security Suite and Agent versions do not match.
+Start the Agent service by right-clicking the Agent system tray icon and clicking Start Service.
+The Agent encountered problems while loading some components.
+If this does not work, uninstall and then reinstall the Agent.
+Assigning Worry-Free Business Security Services Templates to Existing Customers
+Default setting templates contain preconfigured settings for a specific customer or group.
+For more information on the configurable settings, refer to the product documentation.
+Templates can only be assigned to existing companies using Worry-Free Business Security Services.
+Select one or more Worry-Free Business Security Services customers from the Company list.
+The Assign Template to Worry-Free Business Security Services screen appears.
+Verify that all the valid customers are correct and click Next.
+Select a template from the list to apply to all selected customers with valid accounts.
+Assigning Trend Micro User Permissions in ConnectWise Automate
+The Editing the information for {user} screen appears.
+Under the User Classes field, click the Open User Class Manager () icon.
+Select the following check boxes to assign the appropriate permissions.
+Next to Trend Micro Worry-Free Services Plug-in for ConnectWise Automate, select the Access check box.
+The ConnectWise Automate user can access the Trend Micro Worry-Free Services Plug-in for ConnectWise Automate features.
+Merging Multiple Remote Manager Accounts in Licensing Management Platform
+Sign into a product_short_name account that has been migrated to Licensing Management Platform.
+Click the arrow next to the sign in name and click Merge Another AccountYes.
+This data has been merged with the admin1 account.
+Wait a couple of minutes for the data to be merged.
+After migrating the account, you will always see the following when adding a new customer:
+Ensure that the ConnectWise Automate client has sufficient licenses available before enabling automatic deployment.
+Ensure that the Kaseya customer has sufficient licenses available before enabling automatic deployment.
+This topic uses variables based on the bp_legal_vars.xml file.
+Please do not change anything in this topic or rename the file.
+It is boilerplate and should have a 100% match with L10n translation memory.
+If you change the file, please rename it too.
+Read through the documentation before installing or using the product_or_service.
+From the product_short_name Customer screen in ConnectWise, update the new company ID.
+Checking the Trend Micro Remote Manager Agent Connection
+On the product_name console, go to Customers {customer} {Worry-Free Business Security server name} .
+This status can occur if the managed server did not shut down properly.
+Ensure that the managed server administrator is aware of this situation.
+This status is set manually from the console.
+When an Agent in disabled status, the Agent queries commands from the server every 10 minutes.
+The Agent closed normally after having sent a logoff request to the product_short_name server.
+Ensure that the managed server administrator is aware that the server has shut down.
+Remove the Agent and have the managed server administrator reinstall the Agent.
+Contact your support provider if this issue persists.
+The console has detected errors in the Agent's service plug-in component.
+Remove the Agent and ask the managed server administrator to re-install the Agent.
+The Agent has not registered to the product_short_name server.
+Incompatibility between the versions of any of the following components has been detected:
+If this does not work, report this problem to the Trend Micro Data Center administrator.
+Cloud App Security Customers with the Most Threats Widget
+Shows the Cloud App Security customers with the most threat events.
+Click a bar to view the event logs.
+Cloud App Security Data Loss Prevention Top Violations Widget
+Shows the Cloud App Security customers with the highest number of Data Loss Prevention template violations.
+The dashboard shows the following Cloud App Security widgets:
+Add a new customer on the Remote Manager web console.
+Add Cloud App Security to that customer's service plan.
+Go to the Cloud App Security web console to activate the license.
+Cloud App Security data will automatically sync with Remote Manager.
+Cloud Edge Customers with the Most Threats Widget
+This widget shows the Cloud Edge customers with the highest number of threat events.
+Data displays in a table and bar chart.
+To switch views, click the table icon or the bar chart icon in the upper-right ().
+Click the count to the right to view detailed threat information from the Cloud Edge console.
+Change the category of the data shown by selecting from:
+Cloud Edge Devices with the Most Threats Widget
+This widget shows the Cloud Edge devices with the highest number of threat events.
+Some Threat Events from Cloud Edge may display additional channel information.
+The dashboard shows the following Cloud Edge widgets:
+VPN support also secures connections from mobile devices, corporate sites, and remote employees.
+You can also use Remote Manager to manage licensing and billing of multiple customers.
+The following table outlines the information available on the Company Profile tab.
+The city in which the customer's company is located
+The state/province/region in which the customer's company is located
+The postal code / zip code for the customer's company
+The country in which the customer's company is located
+The URL that the customer can use to sign into Licensing Management Platform
+The customized banner for the customer's company that can display on supported Trend Micro product consoles
+product_name allows reseller administrators to issue commands to manage critical aspects of network security.
+product_name is hosted on regional Trend Micro Data Center servers where resellers obtain an account.
+Component updates and updates to the managed server
+product_name also supports comprehensive reporting features and allows resellers to subscribe individuals to automatically generated reports.
+Enable document protection against unauthorized encryption or modification: Protects documents from unauthorized changes.
+Other programs can be allowed to update Intuit files.
+To do this, add the required program to the Behavior Monitoring Exception List on the Agent.
+Remember to remove the program from the exception list after the update.
+These rules identify known and suspicious threat behavior that is common amongst malware.
+Known threats: Blocks behavior associated with known threats
+After detecting a "newly encountered" file, administrators can choose to prompt users before executing the file.
+For HTTP channels, executable (.exe) files are scanned.
+Exceptions: Exceptions include an Approved Program List and a Blocked Program List.
+Enter Program Full Path: Type the full Windows or UNC path of the program.
+Use environment variables to specify paths, if required.
+Approved Program List: Programs in this list can be started.
+Click the corresponding icon to delete an entry.
