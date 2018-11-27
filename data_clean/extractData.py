@@ -1,6 +1,7 @@
 # coding=UTF-8
-import sys
 import os
+import re
+import sys
 
 
 def get_args():
@@ -9,74 +10,98 @@ def get_args():
         if tlang_code is None or tlang_code == '':
             raise Exception
     except:
-        print("##################### ERROR TIP ####################\n"
+        print("##################### ERROR TIP #######\n"
               "## Usage: extractData.py {tlang_code}##\n"
-              "####################################################\n")
+              "#######################################\n")
     return tlang_code
 
 
 def match_fluent_sentence(line):
-    if 8 <= len(line.split(' ')) <= 16:
+    match = re.match(r'[a-zA-Z\s,.-:]+', line)
+    # 8~16个单词 && 仅由字母、空格、逗号，句号，短横，冒号组成
+    if 8 <= len(line.split(' ')) <= 16 and match is not None and match.group() == line:
         return True
     return False
 
 
-def open_write_files(sfile_not_extract_path, tfile_not_extract_path, sfile_extract_path, tfile_extract_path):
-    if os.path.exists(sfile_not_extract_path):
-        os.remove(sfile_not_extract_path)
-    if os.path.exists(tfile_not_extract_path):
-        os.remove(tfile_not_extract_path)
-    if os.path.exists(sfile_extract_path):
-        os.remove(sfile_extract_path)
-    if os.path.exists(tfile_extract_path):
-        os.remove(tfile_extract_path)
+def open_write_files(train_sfile_path, train_tfile_path, val_sfile_path, val_tfile_path, test_sfile_path,
+                     test_tfile_path):
+    if os.path.exists(train_sfile_path):
+        os.remove(train_sfile_path)
+    if os.path.exists(train_tfile_path):
+        os.remove(train_tfile_path)
+    if os.path.exists(val_sfile_path):
+        os.remove(val_sfile_path)
+    if os.path.exists(val_tfile_path):
+        os.remove(val_tfile_path)
+    if os.path.exists(test_sfile_path):
+        os.remove(test_sfile_path)
+    if os.path.exists(test_tfile_path):
+        os.remove(test_tfile_path)
 
-    not_extract_sfile = open(sfile_not_extract_path, 'a', encoding='utf-8')
-    not_extract_tfile = open(tfile_not_extract_path, 'a', encoding='utf-8')
-    extract_sfile = open(sfile_extract_path, 'a', encoding='utf-8')
-    extract_tfile = open(tfile_extract_path, 'a', encoding='utf-8')
-    return not_extract_sfile, not_extract_tfile, extract_sfile, extract_tfile
+    train_sfile = open(train_sfile_path, 'a', encoding='utf-8')
+    train_tfile = open(train_tfile_path, 'a', encoding='utf-8')
+    val_sfile = open(val_sfile_path, 'a', encoding='utf-8')
+    val_tfile = open(val_tfile_path, 'a', encoding='utf-8')
+    test_sfile = open(test_sfile_path, 'a', encoding='utf-8')
+    test_tfile = open(test_tfile_path, 'a', encoding='utf-8')
+    return train_sfile, train_tfile, val_sfile, val_tfile, test_sfile, test_tfile
 
 
-def close_files(not_extract_sfile, not_extract_tfile, extract_sfile, extract_tfile):
-    not_extract_sfile.close()
-    not_extract_tfile.close()
-    extract_sfile.close()
-    extract_tfile.close()
+def close_files(train_sfile, train_tfile, val_sfile, val_tfile, test_sfile, test_tfile):
+    train_sfile.close()
+    train_tfile.close()
+    val_sfile.close()
+    val_tfile.close()
+    test_sfile.close()
+    test_tfile.close()
 
 
 # input params
 # tlang_code = get_args()
-tlang_code = 'fr'
+tlang_code = 'de'
 
 sfile_path = 'output/all_en.align'
 tfile_path = 'output/all_' + tlang_code + '.align'
-not_extract_sfile_path = 'output/not_extract_en.txt'
-not_extract_tfile_path = 'output/not_extract_' + tlang_code + '.txt'
-extract_sfile_path = 'output/extract_en.txt'
-extract_tfile_path = 'output/extract_' + tlang_code + '.txt'
+train_sfile_path = 'output/src-train.txt'
+train_tfile_path = 'output/tgt-train.txt'
+val_sfile_path = 'output/src-val.txt'
+val_tfile_path = 'output/tgt-val.txt'
+test_sfile_path = 'output/src-test.txt'
+test_tfile_path = 'output/tgt-test.txt'
 
 # prepare
 with open(sfile_path, 'r', encoding='utf-8') as f:
     slines = f.readlines()
 with open(tfile_path, 'r', encoding='utf-8') as f:
     tlines = f.readlines()
-not_extract_sfile, not_extract_tfile, extract_sfile, extract_tfile = open_write_files(not_extract_sfile_path,
-                                                                                      not_extract_tfile_path,
-                                                                                      extract_sfile_path,
-                                                                                      extract_tfile_path)
+train_sfile, train_tfile, val_sfile, val_tfile, test_sfile, test_tfile = open_write_files(train_sfile_path,
+                                                                                          train_tfile_path,
+                                                                                          val_sfile_path,
+                                                                                          val_tfile_path,
+                                                                                          test_sfile_path,
+                                                                                          test_tfile_path)
 
 # extract
 extract_count = 0
-for i in range(0, len(slines)):
+i = len(slines) - 1
+while i >= 0:
+    # for i in range(0, len(slines)):
     sline = slines[i]
     tline = tlines[i]
-    if extract_count < 10000 and match_fluent_sentence(sline):
-        extract_sfile.write(sline)
-        extract_tfile.write(tline)
+    if 0 <= extract_count < 5000 and match_fluent_sentence(sline):
+        val_sfile.write(sline)
+        val_tfile.write(tline)
+        extract_count += 1
+        # if extract_count == 5001:
+        #     print(extract_count)
+    elif 5000 <= extract_count < 10000 and match_fluent_sentence(sline):
+        test_sfile.write(sline)
+        test_tfile.write(tline)
         extract_count += 1
     else:
-        not_extract_sfile.write(sline)
-        not_extract_tfile.write(tline)
-close_files(not_extract_sfile, not_extract_tfile, extract_sfile, extract_tfile)
+        train_sfile.write(sline)
+        train_tfile.write(tline)
+    i = i - 1
+close_files(train_sfile, train_tfile, val_sfile, val_tfile, test_sfile, test_tfile)
 print('extract success!')
