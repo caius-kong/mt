@@ -1,7 +1,3 @@
-数据来源：
-src-train.txt ==> not_extract_en.txt                 |           src-train.txt ==> not_extract_xx.txt
-src-val.txt ==> extract_en.txt (0-5000)              |           src-val.txt ==> extract_xx.txt (0-5000)
-src-test.txt ==> extract_en.txt (5001 - 10000)       |           src-test.txt ==> extract_xx.txt (5001 - 10000)
+数据来源：根据抽取脚本规则定义，我会抽取前5000个优秀的句子写入src-val.txt；抽取后5000个句子写入src-test.txt；其余句子一律写入src-train.txt
 
-
-备注：目前抽取脚本还不够完善，因此验证文本 与 测试文本 需要手动检查一遍，去掉不优秀的句子（例如js、css）
+备注：验证、测试文件会极大的影响bleu得分，而抽取脚本规则是本人自定义的（不够完善），因此如果有更好的规则，请自行扩展！
