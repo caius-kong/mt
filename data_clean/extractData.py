@@ -58,8 +58,8 @@ def close_files(train_sfile, train_tfile, val_sfile, val_tfile, test_sfile, test
 
 
 # input params
-# tlang_code = get_args()
-tlang_code = 'fr'
+tlang_code = get_args()
+# tlang_code = 'es'
 
 sfile_path = 'output/all_en.align'
 tfile_path = 'output/all_' + tlang_code + '.align'
@@ -85,7 +85,6 @@ train_sfile, train_tfile, val_sfile, val_tfile, test_sfile, test_tfile = open_wr
 # extract
 extract_count = 0
 i = len(slines) - 1
-# while i >= 0:
 for i in range(0, len(slines)):
     sline = slines[i]
     tline = tlines[i]
@@ -100,6 +99,5 @@ for i in range(0, len(slines)):
     else:
         train_sfile.write(sline)
         train_tfile.write(tline)
-    # i = i - 1
 close_files(train_sfile, train_tfile, val_sfile, val_tfile, test_sfile, test_tfile)
 print('extract success!')

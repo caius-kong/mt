@@ -123,9 +123,9 @@ def small_file_clean_data(file_path, sfile, tfile):
 
 
 # input params
-# tlang_code, input_folder = get_args()
-tlang_code = 'fr'
-input_folder = '/Users/caius_kong/Documents/work/2018/MT/TMX/fr-FR/2018.11'
+tlang_code, input_folder = get_args()
+# tlang_code = 'es'
+# input_folder = '/Users/caius_kong/Documents/work/2018/MT/TMX/es-ES/2018.11'
 
 # match pattern
 source_pattern = re.compile(r'<tuv xml:lang="EN-US">', re.IGNORECASE)
