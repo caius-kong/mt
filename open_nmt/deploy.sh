@@ -11,14 +11,16 @@
 #luarocks install restserver-xavante
 
 # 1、Single Model Rest server (first version, kept for backward compatiblity)
-th $OPENNMT_HOME/tools/rest_translation_server.lua -model output/en-de-model_epoch5_20.44.t7 -gpuid 1 -host ... -port -case_feature -bpe_model ...
+# optional: -host 127.0.0.1
+# optional: -port 7784
+#th $OPENNMT_HOME/tools/rest_translation_server.lua -model output/en-de-model_epoch5_20.44.t7 -gpuid 1
 
 # test
 #curl -v -H "Content-Type: application/json" -X POST -d '[{ "src" : "Hello World" }]' http://127.0.0.1:7784/translator/translate
 
 # 2、Multi Model Rest server
 #luarocks install yaml
-#th $OPENNMT_HOME/tools/rest_multi_models.lua -gpuid 1 --mode_config rest_config.yml
+th $OPENNMT_HOME/tools/rest_multi_models.lua -gpuid 1 --mode_config rest_config.yml -log_file /var/tmp/deploy.log &
 
 # 3、Use ZeroMQ
 #sudo apt-get install libzmq-dev   ==> http://zeromq.org/docs:source-git
