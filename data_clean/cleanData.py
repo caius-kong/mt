@@ -19,9 +19,9 @@ def get_args():
         if (tlang_code is None or tlang_code == '') or (input_folder is None or input_folder == ''):
             raise Exception
     except:
-        print("##################### ERROR TIP ###########################\n"
-              "## Usage: python cleanData.py {tlang_code} {input_folder}##\n"
-              "###########################################################\n")
+        print("##################### ERROR TIP ############################\n"
+              "## Usage: python3 cleanData.py {tlang_code} {input_folder}##\n"
+              "############################################################\n")
     return tlang_code, input_folder
 
 

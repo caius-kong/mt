@@ -10,9 +10,9 @@ def get_args():
         if tlang_code is None or tlang_code == '':
             raise Exception
     except:
-        print("##################### ERROR TIP ##############\n"
-              "## Usage: python extractData.py {tlang_code}##\n"
-              "##############################################\n")
+        print("##################### ERROR TIP ###############\n"
+              "## Usage: python3 extractData.py {tlang_code}##\n"
+              "###############################################\n")
     return tlang_code
 
 
