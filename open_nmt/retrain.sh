@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # continue the training from the last checkpoint.
-# case1: 恢复停止的训练：use '-continue', 确保训练继续具有相同的配置和优化状态 --> 继续训练，而不是开始新的训练
+# case1: 恢复停止的训练：use '-continue', 确保训练继续具有相同的配置和优化状态
 # case2: 使用基础模型并使用新的培训选项进一步训练它：not use '-continue' and add new options (-optim/-learning_rate)
 # case3: 培训新数据模型（增量适应）：use '-update_vocab'，更改检查点中包含的单词词汇表（例如，添加域术语）。这对微调现有模型很有用。例如，在机器翻译中，与从头开始训练相比，将通用模型适应特定域更快。
 
