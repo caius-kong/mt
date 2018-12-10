@@ -16,7 +16,7 @@ for f in input/en-de/* ; do th $OPENNMT_HOME/tools/tokenize.lua -mode aggressive
 # for example:
 #wget "https://s3.amazonaws.com/opennmt-trainingdata/wmt15-de-en.tgz"
 #tar xzf wmt15-de-en.tgz
-#for f in ../wmt15-de-en/* ; do th tools/tokenize.lua < $f > $f.tok ; done
+#for f in ../wmt15-de-en/* ; do th tools/tokenize.lua -mode aggressive -case_feature true -joiner_annotate true < $f > $f.tok ; done
 #for l in en de ; do cat ../wmt15-de-en/commoncrawl.de-en.$l.tok ../wmt15-de-en/europarl-v7.de-en.$l.tok ../wmt15-de-en/news-commentary-v10.de-en.$l.tok > ../wmt15-de-en/wmt15-all-de-en.$l.tok ; done
 #th preprocess.lua -train_src ../wmt15-de-en/wmt15-all-de-en.en.tok -train_tgt ../wmt15-de-en/wmt15-all-de-en.de.tok -valid_src ../wmt15-de-en/newstest2013.en.tok -valid_tgt ../wmt15-de-en/newstest2013.de.tok -save_data ../wmt15-de-en/wmt15-all-en-de
 #th train.lua -data ../wmt15-de-en/wmt15-all-en-de-train.t7 -save_model ../wmt15-de-en/wmt15-all-en-de -gpuid 1
