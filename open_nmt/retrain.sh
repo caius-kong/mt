@@ -13,14 +13,14 @@
 # merge: 保留所有旧的单词，初始化新的单词
 
 # case 1 example:
-th $OPENNMT_HOME/train.lua -data output/en-de-train.t7 -save_model output/en-de-model -train_from output/en-de-model_epoch7_12.32.t7 -continue
+th $OPENNMT_HOME/train.lua -data output/en-de-train.t7 -save_model output/en-de-model -gpuid 1 -train_from output/en-de-model_epoch7_12.32.t7 -continue
 
 
 # case3 example:
 # 1、使用原词汇表预处理数据
 # th $OPENNMT_HOME/preprocess.lua
-#   -train_src input/en-de-new/src-train.txt
-#   -train_tgt input/en-de-new/tgt-train.txt
+#   -train_src input/en-de-new/src-train.txt.tok
+#   -train_tgt input/en-de-new/tgt-train.txt.tok
 #   -save_data output/en-de-new
 # 2、增量训练
 # th $OPENNMT_HOME/train.lua

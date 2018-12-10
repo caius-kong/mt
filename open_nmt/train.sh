@@ -9,4 +9,4 @@
 # optional: -end_epoch 13                           (If = 0, train forever unless -min_learning_rate is reached)
 # optional: -optim sgd                              (accepted: sgd, adagrad, adadelta, adam) (训练优化方法。通常来说，sgd效率是最差的，adam是最好的，能迅速收敛)
 # optional: -learning_rate 1                        (Recommended settings are: sgd = 1, adagrad = 0.1, adam = 0.0002.)
-th $OPENNMT_HOME/train.lua -data output/en-de-train.t7 -save_model output/en-de-model
+th $OPENNMT_HOME/train.lua -data output/en-de-train.t7 -save_model output/en-de-model -gpuid 1 -optim adam -learning_rate 0.0002
