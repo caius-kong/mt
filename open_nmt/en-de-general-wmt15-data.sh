@@ -12,7 +12,7 @@ cp dev/newstest2012.en dev/newstest2012.de wmt15-de-en
 #cd ~/OpenNMT/
 #for f in ../wmt15-de-en/* ; do th tools/tokenize.lua -mode aggressive -case_feature true -joiner_annotate true < $f > $f.tok ; done
 #for l in en de ; do cat ../wmt15-de-en/commoncrawl.de-en.$l.tok ../wmt15-de-en/europarl-v7.de-en.$l.tok ../wmt15-de-en/news-commentary-v10.de-en.$l.tok > ../wmt15-de-en/wmt15-all-de-en.$l.tok ; done
-#cp ../wmt15-de-en/wmt15-all-de-en.*.tok ../wmt15-de-en/newstest*.tok mt/open_nmt/input/en-de-genral-wmt15
+#cp ../wmt15-de-en/wmt15-all-de-en.*.tok ../wmt15-de-en/newstest*.tok ~/mt/open_nmt/input/en-de-general-wmt15/
 
 
 
