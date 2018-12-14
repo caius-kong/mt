@@ -1,14 +1,17 @@
 # coding=UTF-8
-import os
-import re
-import sys
+import os, re, sys, requests, uuid, json, logging, traceback
 
 language_dict = {
     "fr": "fr-FR",
     "de": "de-DE",
     "es": "es-ES",
     "ko": "ko-KR",
-    "zh-TW": "zh-TW"
+    "zh-TW": "zh-TW",
+    "it": "it-IT",
+    "pl": "pl-PL",
+    "ru": "ru-RU",
+    "tr": "tr-TR",
+    "pt": "pt-BR"
 }
 
 
@@ -36,11 +39,51 @@ def del_blank(s):
     return " ".join([x for x in s.split(" ") if x != ""])
 
 
-def is_not_space(s):
-    return s != '' and s != '\n'
+def is_significant(s):
+    # 'o\n'这类单字母可以认为是无效行
+    return s != '' and s != '\n' and len(s) > 2
 
 
-def content_handle(content_line):
+def ms_detect_lang_init():
+    global constructed_url, headers
+    if 'TRANSLATOR_TEXT_KEY' in os.environ:
+        subscription_key = os.environ['TRANSLATOR_TEXT_KEY']
+    else:
+        print('Environment variable for TRANSLATOR_TEXT_KEY is not set.')
+        exit()
+
+    base_url = 'https://api.cognitive.microsofttranslator.com'
+    path = '/detect?api-version=3.0'
+    constructed_url = base_url + path
+
+    headers = {
+        'Ocp-Apim-Subscription-Key': subscription_key,
+        'Content-type': 'application/json',
+        'X-ClientTraceId': str(uuid.uuid4())
+    }
+
+
+def ms_detect_lang(text):
+    body = [{
+        'text': text
+    }]
+    try:
+        request = requests.post(constructed_url, headers=headers, json=body)
+        response = request.json()
+        # print(json.dumps(response, sort_keys=True, indent=4, ensure_ascii=False, separators=(',', ': ')))
+        langs = []
+        langs.append(response[0]['language'])
+        if response[0].get('alternatives', None):
+            for item in response[0]['alternatives']:
+                langs.append(item['language'])
+        return langs
+    except Exception as e:
+        print('detect lang raise exception, the text is: %s' % text)
+        logging.exception(traceback.format_exc())
+        return []
+
+
+def content_handle(content_line, is_source=False):
     content = seg_tag_pattern.sub('', content_line)
     if html_pattern.match(content):
         content = html_pattern.sub('', content).strip()
@@ -52,6 +95,10 @@ def content_handle(content_line):
     if http_pattern.match(content):
         content = http_pattern.sub("", content).strip()
     content = del_blank(content)
+    if is_detect_lang and is_source and 'en' not in ms_detect_lang(content):
+        print("remove other lang words: %s" % content)
+        dfile.write(content)
+        content = ''
     return content
 
 
@@ -102,15 +149,13 @@ def small_file_clean_data(file_path, sfile, tfile):
         if skip_file_pattern.match(line):
             break
         if source_pattern.match(line):
-            # 新的一轮，清理残留数据
-            target_content = ''
             source_line = lines[i + 1]
-            source_content = content_handle(source_line)
-        if target_pattern.match(line):
+            source_content = content_handle(source_line, is_source=True)
+        if target_pattern.match(line) and is_significant(source_content):
             target_line = lines[i + 1]
             target_content = content_handle(target_line)
         # 当本轮解析的st/tt同时有效时，写入
-        if is_not_space(source_content) and is_not_space(target_content):
+        if is_significant(source_content) and is_significant(target_content):
             sfile.write(source_content)
             source_write_count += 1
             tfile.write(target_content)
@@ -124,8 +169,17 @@ def small_file_clean_data(file_path, sfile, tfile):
 
 # input params
 tlang_code, input_folder = get_args()
-# tlang_code = 'es'
-# input_folder = '/Users/caius_kong/Documents/work/2018/MT/TMX/es-ES/2018.11'
+# tlang_code = 'it'
+# input_folder = '/Users/caius_kong/Documents/work/2018/MT/TMX/it-IT/2018.12'
+
+# init
+is_detect_lang = False  # 语言检测开关
+if is_detect_lang:
+    ms_detect_lang_init()
+    dfile_path = os.path.join(os.getcwd(), "output") + "/del_en.txt"
+    if os.path.exists(dfile_path):
+        os.remove(dfile_path)
+    dfile = open(dfile_path, 'a', encoding='utf-8')
 
 # match pattern
 source_pattern = re.compile(r'<tuv xml:lang="EN-US">', re.IGNORECASE)
@@ -143,10 +197,15 @@ file_path_list = []
 init_file_path_list(input_folder)
 output_folder = os.path.join(os.getcwd(), "output")
 sfile, tfile = file_prepare()
+count = 0
 for file_path in file_path_list:
+    count += 1.0
     if os.path.splitext(file_path)[1] != '.tmx':
         continue
     print("file parse: " + file_path)
     small_file_clean_data(file_path, sfile, tfile)
+    print("current progress: %s" % ("%.2f%%" % (count/len(file_path_list)*100)))
 sfile.close()
 tfile.close()
+if dfile:
+    dfile.close()
