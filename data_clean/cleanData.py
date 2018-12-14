@@ -174,6 +174,7 @@ tlang_code, input_folder = get_args()
 
 # init
 is_detect_lang = False  # 语言检测开关
+dfile = None
 if is_detect_lang:
     ms_detect_lang_init()
     dfile_path = os.path.join(os.getcwd(), "output") + "/del_en.txt"
