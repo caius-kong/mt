@@ -85,15 +85,10 @@ def ms_detect_lang(text):
 
 def content_handle(content_line, is_source=False):
     content = seg_tag_pattern.sub('', content_line)
-    if html_pattern.match(content):
-        content = html_pattern.sub('', content).strip()
-    if tr_pattern.match(content):
-        content = tr_pattern.sub('', content).strip()
+    content = html_pattern.sub('', content)
+    content = tr_pattern.sub('', content)
     content = html_tag_pattern.sub('', content)
-    # if css_pattern.match(content):
-    #     content = css_pattern.sub("", content).strip()
-    if http_pattern.match(content):
-        content = http_pattern.sub("", content).strip()
+    content = http_pattern.sub("", content)
     content = del_blank(content)
     if is_detect_lang and is_source and 'en' not in ms_detect_lang(content):
         print("remove other lang words: %s" % content)
@@ -169,8 +164,8 @@ def small_file_clean_data(file_path, sfile, tfile):
 
 # input params
 tlang_code, input_folder = get_args()
-# tlang_code = 'it'
-# input_folder = '/Users/caius_kong/Documents/work/2018/MT/TMX/it-IT/2018.12'
+# tlang_code = 'tr'
+# input_folder = '/Users/caius_kong/Documents/work/2018/MT/TMX/tr-TR/2018.12'
 
 # init
 is_detect_lang = False  # 语言检测开关
