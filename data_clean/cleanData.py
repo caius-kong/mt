@@ -61,6 +61,10 @@ def is_significant(s):
 
 
 def is_CJK(text):
+    """
+    判断文本是否属于中日韩编码集
+    :return:
+    """
     for char in text:
         for CJK_START, CJK_END in CJK_SCOPE:
             if CJK_START <= ord(char) <= CJK_END:
@@ -213,9 +217,9 @@ def small_file_detect_lang(sfile, tfile, valid_sfile, valid_tfile, detect_file):
 
 # input params
 tlang_code, input_folder = get_args()
-# tlang_code = 'tr'
-# input_folder = '/Users/caius_kong/Documents/work/2018/MT/TMX/tr-TR/2018.12'
-is_detect_lang = False
+# tlang_code = 'it'
+# input_folder = '/Users/caius_kong/Documents/work/2018/MT/TMX/it-IT/2018.12'
+is_detect_lang = False  # 混语言处理开关
 
 # match pattern
 source_pattern = re.compile(r'<tuv xml:lang="EN-US">', re.IGNORECASE)
