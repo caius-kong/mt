@@ -28,9 +28,10 @@ def get_args():
         if (tlang_code is None or tlang_code == '') or (input_folder is None or input_folder == ''):
             raise Exception
     except:
-        print("##################### ERROR TIP ############################\n"
-              "## Usage: python3 cleanData.py {tlang_code} {input_folder}##\n"
-              "############################################################\n")
+        print("########################## ERROR TIP ###############################\n"
+              "## Usage: python3 cleanData.py {tlang_code} {input_folder}        ##\n"
+              "## Note: is_detect_lang is mixed language handle switch (boolean) ##\n"
+              "####################################################################\n")
     return tlang_code, input_folder
 
 
@@ -189,10 +190,10 @@ def small_file_detect_lang(sfile, tfile, valid_sfile, valid_tfile):
 
 
 # input params
-# tlang_code, input_folder = get_args()
-tlang_code = 'it'
-input_folder = '/Users/caius_kong/Documents/work/2018/MT/TMX/it-IT/2018.12'
-is_detect_lang = True
+tlang_code, input_folder = get_args()
+# tlang_code = 'tr'
+# input_folder = '/Users/caius_kong/Documents/work/2018/MT/TMX/tr-TR/2018.12'
+is_detect_lang = False
 
 # match pattern
 source_pattern = re.compile(r'<tuv xml:lang="EN-US">', re.IGNORECASE)
