@@ -2,10 +2,11 @@
 import logging
 import os
 import re
-import requests
 import sys
 import traceback
 import uuid
+
+import requests
 
 language_dict = {
     "fr": "fr-FR",
@@ -19,6 +20,14 @@ language_dict = {
     "tr": "tr-TR",
     "pt": "pt-BR"
 }
+
+CJK_SCOPE = [
+    (int('4E00', 16), int('9FA5', 16)),
+    (int('2E80', 16), int('A4CF', 16)),
+    (int('F900', 16), int('FAFF', 16)),
+    (int('FE30', 16), int('FE4F', 16)),
+    (int('AC00', 16), int('D7AF', 16))
+]
 
 
 def get_args():
@@ -51,60 +60,24 @@ def is_significant(s):
     return s != '' and s != '\n' and len(s) > 2
 
 
-def ms_detect_lang_init():
-    global constructed_url, headers
-    if 'TRANSLATOR_TEXT_KEY' in os.environ:
-        subscription_key = os.environ['TRANSLATOR_TEXT_KEY']
-    else:
-        print('Environment variable for TRANSLATOR_TEXT_KEY is not set.')
-        exit()
-
-    base_url = 'https://api.cognitive.microsofttranslator.com'
-    path = '/detect?api-version=3.0'
-    constructed_url = base_url + path
-
-    headers = {
-        'Ocp-Apim-Subscription-Key': subscription_key,
-        'Content-type': 'application/json',
-        'X-ClientTraceId': str(uuid.uuid4())
-    }
+def is_CJK(text):
+    for char in text:
+        for CJK_START, CJK_END in CJK_SCOPE:
+            if CJK_START <= ord(char) <= CJK_END:
+                return True
+    return False
 
 
-def mixed_language_handle(start_index, src_texts, tlines, valid_sfile, valid_tfile):
-    """
-    混语言处理（剔除混语言，将有效平行语句分别写入vaildLang_xx.align）
-
-    关键点：利用list的有序性。src_texts 和 response 都是 list，理论上第i个text对应了第i个res_item
-    :return:
-    """
-    body = [{'text': text} for text in src_texts]
-    try:
-        request = requests.post(constructed_url, headers=headers, json=body)
-        response = request.json()
-        for i in range(len(response)):
-            # fetch all possible lang for every res_item
-            langs = []
-            langs.append(response[i]['language'])
-            if response[i].get('alternatives', None):
-                for item in response[i]['alternatives']:
-                    langs.append(item['language'])
-            # if has 'en', write valid file
-            if 'en' in langs:
-                text_index = start_index + i
-                valid_sfile.write(src_texts[i])
-                valid_tfile.write(tlines[text_index])
-    except Exception as e:
-        print('detect lang raise exception, the texts is: %s' % src_texts)
-        logging.exception(traceback.format_exc())
-
-
-def content_handle(content_line):
+def content_handle(content_line, cjk_file_obj=None):
     content = seg_tag_pattern.sub('', content_line)
     content = html_pattern.sub('', content)
     content = tr_pattern.sub('', content)
     content = html_tag_pattern.sub('', content)
     content = http_pattern.sub("", content)
     content = del_blank(content)
+    if cjk_file_obj and is_CJK(content):
+        cjk_file_obj.write(content)
+        content = ''
     return content
 
 
@@ -131,7 +104,7 @@ def count_align_check(source_write_count, target_write_count, file_path):
         sys.exit(0)
 
 
-def small_file_clean_data(file_path, sfile, tfile):
+def small_file_clean_data(file_path, sfile, tfile, cjk_file):
     """
     小文件逐行处理
     :return:
@@ -153,7 +126,7 @@ def small_file_clean_data(file_path, sfile, tfile):
             break
         if source_pattern.match(line):
             source_line = lines[i + 1]
-            source_content = content_handle(source_line)
+            source_content = content_handle(source_line, cjk_file_obj=cjk_file)
         if target_pattern.match(line) and is_significant(source_content):
             target_line = lines[i + 1]
             target_content = content_handle(target_line)
@@ -170,7 +143,56 @@ def small_file_clean_data(file_path, sfile, tfile):
     count_align_check(source_write_count, target_write_count, file_path)
 
 
-def small_file_detect_lang(sfile, tfile, valid_sfile, valid_tfile):
+def ms_detect_lang_init():
+    global constructed_url, headers
+    if 'TRANSLATOR_TEXT_KEY' in os.environ:
+        subscription_key = os.environ['TRANSLATOR_TEXT_KEY']
+    else:
+        print('Environment variable for TRANSLATOR_TEXT_KEY is not set.')
+        exit()
+
+    base_url = 'https://api.cognitive.microsofttranslator.com'
+    path = '/detect?api-version=3.0'
+    constructed_url = base_url + path
+
+    headers = {
+        'Ocp-Apim-Subscription-Key': subscription_key,
+        'Content-type': 'application/json',
+        'X-ClientTraceId': str(uuid.uuid4())
+    }
+
+
+def mixed_language_handle(start_index, src_texts, tlines, valid_sfile, valid_tfile, detect_file):
+    """
+    混语言处理（剔除混语言，将有效平行语句分别写入vaildLang_xx.align）
+
+    关键点：利用list的有序性。src_texts 和 response 都是 list，理论上第i个text对应了第i个res_item
+    :return:
+    """
+    body = [{'text': text} for text in src_texts]
+    try:
+        request = requests.post(constructed_url, headers=headers, json=body)
+        response = request.json()
+        for i in range(len(response)):
+            # fetch all possible lang for every res_item
+            langs = []
+            langs.append(response[i]['language'])
+            if response[i].get('alternatives', None):
+                for item in response[i]['alternatives']:
+                    langs.append(item['language'])
+            # if has 'en', write valid file. Otherwise, write detect_lang.txt
+            text_index = start_index + i
+            if 'en' in langs:
+                valid_sfile.write(src_texts[i])
+                valid_tfile.write(tlines[text_index])
+            else:
+                detect_file.write(src_texts[i])
+    except Exception as e:
+        print('detect lang raise exception, the texts is: %s' % src_texts)
+        logging.exception(traceback.format_exc())
+
+
+def small_file_detect_lang(sfile, tfile, valid_sfile, valid_tfile, detect_file):
     """
     小文件混语言处理（批量）
     :return:
@@ -182,18 +204,18 @@ def small_file_detect_lang(sfile, tfile, valid_sfile, valid_tfile):
     for i in range(0, len(slines)):
         src_texts.append(slines[i])
         # 每100条(max) | row_end 处理一次混语言
-        if i % 100 == 99 or i == len(slines)-1:
+        if i % 100 == 99 or i == len(slines) - 1:
             start_index += 100
-            mixed_language_handle(start_index, src_texts, flines, valid_sfile, valid_tfile)
+            mixed_language_handle(start_index, src_texts, flines, valid_sfile, valid_tfile, detect_file)
             src_texts.clear()
-            print("current detect progress: %s" % ("%.2f%%" % ((i+1) / len(slines) * 100)))
+            print("current detect progress: %s" % ("%.2f%%" % ((i + 1) / len(slines) * 100)))
 
 
 # input params
-tlang_code, input_folder = get_args()
-# tlang_code = 'tr'
-# input_folder = '/Users/caius_kong/Documents/work/2018/MT/TMX/tr-TR/2018.12'
-is_detect_lang = False
+# tlang_code, input_folder = get_args()
+tlang_code = 'tr'
+input_folder = '/Users/caius_kong/Documents/work/2018/MT/TMX/tr-TR/2018.12'
+is_detect_lang = True
 
 # match pattern
 source_pattern = re.compile(r'<tuv xml:lang="EN-US">', re.IGNORECASE)
@@ -212,17 +234,19 @@ init_file_path_list(input_folder)
 output_folder = os.path.join(os.getcwd(), "output")
 sfile_path = output_folder + "/all_en.align"
 tfile_path = output_folder + "/all_" + tlang_code + ".align"
-sfile, tfile = file_output_prepare((sfile_path, tfile_path))
+cjk_file_path = output_folder + "/cjk.txt"
+sfile, tfile, cjk_file = file_output_prepare((sfile_path, tfile_path, cjk_file_path))
 count = 0
 for file_path in file_path_list:
     count += 1.0
     if os.path.splitext(file_path)[1] != '.tmx':
         continue
     print("file parse: " + file_path)
-    small_file_clean_data(file_path, sfile, tfile)
-    print("current progress: %s" % ("%.2f%%" % (count/len(file_path_list)*100)))
+    small_file_clean_data(file_path, sfile, tfile, cjk_file)
+    print("current progress: %s" % ("%.2f%%" % (count / len(file_path_list) * 100)))
 sfile.close()
 tfile.close()
+cjk_file.close()
 
 # 混语言处理
 if is_detect_lang:
@@ -231,12 +255,14 @@ if is_detect_lang:
 
     valid_sfile_path = output_folder + "/vaildLang_en.align"
     valid_tfile_path = output_folder + "/vaildLang_" + tlang_code + ".align"
+    detect_file_path = output_folder + "/detect_lang.txt"
     sfile = open(sfile_path, 'r', encoding='utf-8')
     tfile = open(tfile_path, 'r', encoding='utf-8')
-    valid_sfile, valid_tfile = file_output_prepare((valid_sfile_path, valid_tfile_path))
-    small_file_detect_lang(sfile, tfile, valid_sfile, valid_tfile)
+    valid_sfile, valid_tfile, detect_file = file_output_prepare((valid_sfile_path, valid_tfile_path, detect_file_path))
+    small_file_detect_lang(sfile, tfile, valid_sfile, valid_tfile, detect_file)
 
     sfile.close()
     tfile.close()
     valid_sfile.close()
     valid_tfile.close()
+    detect_file.close()
