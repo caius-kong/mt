@@ -212,10 +212,10 @@ def small_file_detect_lang(sfile, tfile, valid_sfile, valid_tfile, detect_file):
 
 
 # input params
-# tlang_code, input_folder = get_args()
-tlang_code = 'tr'
-input_folder = '/Users/caius_kong/Documents/work/2018/MT/TMX/tr-TR/2018.12'
-is_detect_lang = True
+tlang_code, input_folder = get_args()
+# tlang_code = 'tr'
+# input_folder = '/Users/caius_kong/Documents/work/2018/MT/TMX/tr-TR/2018.12'
+is_detect_lang = False
 
 # match pattern
 source_pattern = re.compile(r'<tuv xml:lang="EN-US">', re.IGNORECASE)
