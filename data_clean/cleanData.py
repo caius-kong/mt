@@ -69,24 +69,6 @@ def ms_detect_lang_init():
     }
 
 
-def ms_detect_lang(texts):
-    body = [{'text': text} for text in texts]
-    try:
-        request = requests.post(constructed_url, headers=headers, json=body)
-        response = request.json()
-        # print(json.dumps(response, sort_keys=True, indent=4, ensure_ascii=False, separators=(',', ': ')))
-        langs = []
-        langs.append(response[0]['language'])
-        if response[0].get('alternatives', None):
-            for item in response[0]['alternatives']:
-                langs.append(item['language'])
-        return langs
-    except Exception as e:
-        print('detect lang raise exception, the texts is: %s' % texts)
-        logging.exception(traceback.format_exc())
-        return []
-
-
 def mixed_language_handle(start_index, src_texts, tlines, valid_sfile, valid_tfile):
     """
     混语言处理（剔除混语言，将有效平行语句分别写入vaildLang_xx.align）
@@ -133,10 +115,10 @@ def init_file_path_list(root_dir):
             init_file_path_list(path)
 
 
-def file_output_prepare(paths, is_clean=True):
+def file_output_prepare(paths):
     files = []
     for path in paths:
-        if is_clean and os.path.exists(path):
+        if os.path.exists(path):
             os.remove(path)
         files.append(open(path, 'a', encoding='utf-8'))
     return files
@@ -195,11 +177,13 @@ def small_file_detect_lang(sfile, tfile, valid_sfile, valid_tfile):
     slines = sfile.readlines()
     flines = tfile.readlines()
     src_texts = []
+    start_index = -100
     for i in range(0, len(slines)):
         src_texts.append(slines[i])
         # 每100条(max) | row_end 处理一次混语言
         if i % 100 == 99 or i == len(slines)-1:
-            mixed_language_handle(i-99, src_texts, flines, valid_sfile, valid_tfile)
+            start_index += 100
+            mixed_language_handle(start_index, src_texts, flines, valid_sfile, valid_tfile)
             src_texts.clear()
             print("current detect progress: %s" % ("%.2f%%" % ((i+1) / len(slines) * 100)))
 
