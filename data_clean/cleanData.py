@@ -5,10 +5,13 @@ import re
 import sys
 import traceback
 import uuid
+import json
 
 import requests
 
 language_dict = {
+    "zh": "zh-CN",
+    "ja": "ja-JP",
     "fr": "fr-FR",
     "de": "de-DE",
     "es": "es-ES",
@@ -18,7 +21,16 @@ language_dict = {
     "pl": "pl-PL",
     "ru": "ru-RU",
     "tr": "tr-TR",
-    "pt": "pt-BR"
+    "pt": "pt-BR",
+    "nl": "nl-NL",
+    "nb": "nb-NO",
+    "sv": "sv-SE",
+    "da": "da-DK",
+    "cs": "cs-CZ",
+    "th": "th-TH",
+    "vi": "vi-VN",
+    "id": "id-ID",
+    "el": "el-GR",
 }
 
 CJK_SCOPE = [
@@ -51,13 +63,16 @@ def pre_handle(line):
     return line
 
 
-def del_blank(s):
-    return " ".join([x for x in s.split(" ") if x != ""])
+def del_redundant_blank(s):
+    return ' '.join(filter(lambda x: x, s.split(' ')))
 
 
 def is_significant(s):
-    # 'o\n'这类单字母可以认为是无效行
-    return s != '' and s != '\n' and len(s) > 2
+    """
+    判断句子是否有意义: 大于3个字符的句子 && 非一个单词组成的句子
+    参考：
+    """
+    return len(s) > 4 and len(s.split(" ")) > 1
 
 
 def is_CJK(text):
@@ -78,7 +93,7 @@ def content_handle(content_line, cjk_file_obj=None):
     content = tr_pattern.sub('', content)
     content = html_tag_pattern.sub('', content)
     content = http_pattern.sub("", content)
-    content = del_blank(content)
+    content = del_redundant_blank(content)
     if cjk_file_obj and is_CJK(content):
         cjk_file_obj.write(content)
         content = ''
@@ -127,6 +142,7 @@ def small_file_clean_data(file_path, sfile, tfile, cjk_file):
     for i in range(0, len(lines)):
         line = lines[i]
         if skip_file_pattern.match(line):
+            print('the file skip!')
             break
         if source_pattern.match(line):
             source_line = lines[i + 1]
