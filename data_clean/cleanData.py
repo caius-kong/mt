@@ -87,15 +87,18 @@ def is_CJK(text):
     return False
 
 
-def content_handle(content_line, cjk_file_obj=None):
+def content_handle(content_line, cjk_file=None, src_list=None):
     content = seg_tag_pattern.sub('', content_line)
     content = html_pattern.sub('', content)
     content = tr_pattern.sub('', content)
     content = html_tag_pattern.sub('', content)
     content = http_pattern.sub("", content)
     content = del_redundant_blank(content)
-    if cjk_file_obj and is_CJK(content):
-        cjk_file_obj.write(content)
+    if cjk_file and is_CJK(content):
+        cjk_file.write(content)
+        content = ''
+    if src_list and content in src_list:
+        # print("repeated sentence: %s" % content)
         content = ''
     return content
 
@@ -139,6 +142,7 @@ def small_file_clean_data(file_path, sfile, tfile, cjk_file):
     target_write_count = 0
     source_content = ''
     target_content = ''
+    src_list = []
     for i in range(0, len(lines)):
         line = lines[i]
         if skip_file_pattern.match(line):
@@ -146,7 +150,7 @@ def small_file_clean_data(file_path, sfile, tfile, cjk_file):
             break
         if source_pattern.match(line):
             source_line = lines[i + 1]
-            source_content = content_handle(source_line, cjk_file_obj=cjk_file)
+            source_content = content_handle(source_line, cjk_file=cjk_file, src_list=src_list)
         if target_pattern.match(line) and is_significant(source_content):
             target_line = lines[i + 1]
             target_content = content_handle(target_line)
@@ -156,6 +160,8 @@ def small_file_clean_data(file_path, sfile, tfile, cjk_file):
             source_write_count += 1
             tfile.write(target_content)
             target_write_count += 1
+            # 去重准备
+            src_list.append(source_content)
             # 清理本轮数据
             source_content = ''
             target_content = ''
@@ -233,8 +239,8 @@ def small_file_detect_lang(sfile, tfile, valid_sfile, valid_tfile, detect_file):
 
 # input params
 tlang_code, input_folder = get_args()
-# tlang_code = 'it'
-# input_folder = '/Users/caius_kong/Documents/work/2018/MT/TMX/it-IT/2018.12'
+# tlang_code = 'de'
+# input_folder = '/Users/caius_kong/Documents/work/2018/MT/TMX/de-DE/2018.11'
 is_detect_lang = False  # 混语言处理开关
 
 # match pattern
