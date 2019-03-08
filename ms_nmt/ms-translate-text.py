@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 import os, requests, uuid, json
 
-deploy_languages = ['zh']
+# deploy_languages = ['zh-Hans', 'zh-Hant']
+deploy_languages = ['ja', 'zh-TW']
 
 if 'TRANSLATOR_TEXT_KEY' in os.environ:
     subscriptionKey = os.environ['TRANSLATOR_TEXT_KEY']
@@ -25,7 +26,7 @@ headers = {
 ## 翻译文本
 # 最多可以有 25 个元素
 body = [{
-    'text': 'Cisco ICS doesnt support upgrade from the installed version.'
+    'text': '17'
 }]
 # to是必选参数，其他都可选。category指定部署的自定义翻译，默认general; textType指定是否作为html翻译，默认plain
 to_params = ''

@@ -120,7 +120,7 @@ def update_corpus_len_max(current_corpus_lens):
 
 def self_adaptive_col_width(worksheet):
     global corpus_len_max
-    worksheet.col(1).width = 256 * corpus_len_max
+    worksheet.col(1).width = 256 * corpus_len_max if 256 * corpus_len_max < 65536 else 65535
 
 
 # base params

@@ -17,8 +17,15 @@ headers = {
     'X-ClientTraceId': str(uuid.uuid4())
 }
 
+# 最多100条
 body = [{
     'text': 'Gun Clubs / Hunting'
+}, {
+    'text': 'Waffenvereine / Jagd'
+}, {
+    'text': 'tmsm300-en.fbs25.trendmicro.com'
+}, {
+    'text': 'Ransomware'
 }]
 request = requests.post(constructed_url, headers=headers, json=body)
 response = request.json()
