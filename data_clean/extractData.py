@@ -10,18 +10,10 @@ def get_args():
         if tlang_code is None or tlang_code == '':
             raise Exception
     except:
-        print("##################### ERROR TIP ###############\n"
-              "## Usage: python3 extractData.py {tlang_code}##\n"
-              "###############################################\n")
+        print("##################### ERROR TIP #####################\n"
+              "## Usage: python3 extractData.py src_path tgt_path ##\n"
+              "#####################################################\n")
     return tlang_code
-
-
-def match_fluent_sentence(line):
-    match = re.match(r'[a-zA-Z\s,.-:]+', line)
-    # 8~16个单词 && 仅由字母、空格、逗号，句号，短横，冒号组成
-    if 8 <= len(line.split(' ')) <= 16 and match is not None and match.group() == line:
-        return True
-    return False
 
 
 def open_write_files(train_sfile_path, train_tfile_path, val_sfile_path, val_tfile_path, test_sfile_path,
@@ -57,20 +49,27 @@ def close_files(train_sfile, train_tfile, val_sfile, val_tfile, test_sfile, test
     test_tfile.close()
 
 
-# input params
-tlang_code = get_args()
-# tlang_code = 'es'
+def match_fluent_sentence(line):
+    match = re.match(r'[a-zA-Z\s,.-:]+', line)
+    # 8~16个单词 && 仅由字母、空格、逗号，句号，短横，冒号组成
+    if 8 <= len(line.split(' ')) <= 16 and match is not None and match.group() == line:
+        return True
+    return False
 
-sfile_path = 'output/all_en.align'
-tfile_path = 'output/all_' + tlang_code + '.align'
-train_sfile_path = 'output/src-train.txt'
-train_tfile_path = 'output/tgt-train.txt'
-val_sfile_path = 'output/src-val.txt'
-val_tfile_path = 'output/tgt-val.txt'
-test_sfile_path = 'output/src-test.txt'
-test_tfile_path = 'output/tgt-test.txt'
+
+# input params
+# tlang_code = get_args()
+tlang_code = 'de'
 
 # prepare
+sfile_path = 'output/all_en.align'
+tfile_path = 'output/all_' + tlang_code + '.align'
+train_sfile_path = 'output/src-training.align'
+train_tfile_path = 'output/tgt-training.align'
+val_sfile_path = 'output/src-tuning.align'
+val_tfile_path = 'output/tgt-tuning.align'
+test_sfile_path = 'output/src-testing.align'
+test_tfile_path = 'output/tgt-testing.align'
 with open(sfile_path, 'r', encoding='utf-8') as f:
     slines = f.readlines()
 with open(tfile_path, 'r', encoding='utf-8') as f:
@@ -84,7 +83,6 @@ train_sfile, train_tfile, val_sfile, val_tfile, test_sfile, test_tfile = open_wr
 
 # extract
 extract_count = 0
-i = len(slines) - 1
 for i in range(0, len(slines)):
     sline = slines[i]
     tline = tlines[i]

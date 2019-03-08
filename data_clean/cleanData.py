@@ -5,7 +5,6 @@ import re
 import sys
 import traceback
 import uuid
-import json
 
 import requests
 
@@ -111,13 +110,18 @@ def init_file_path_list(root_dir):
             init_file_path_list(path)
 
 
-def file_output_prepare(paths):
+def open_write_files(paths):
     files = []
     for path in paths:
         if os.path.exists(path):
             os.remove(path)
         files.append(open(path, 'a', encoding='utf-8'))
     return files
+
+
+def close_files(files):
+    for f in files:
+        f.close()
 
 
 def count_align_check(source_write_count, target_write_count, file_path):
@@ -132,11 +136,11 @@ def small_file_clean_data(file_path, sfile, tfile, cjk_file):
     :return:
     """
     try:
-        f = open(file_path, 'r', encoding='utf-8')
-        lines_origin = f.readlines()
+        with open(file_path, 'r', encoding='utf-8') as f:
+            lines_origin = f.readlines()
     except:
-        f = open(file_path, 'r', encoding='utf-16')
-        lines_origin = f.readlines()
+        with open(file_path, 'r', encoding='utf-16') as f:
+            lines_origin = f.readlines()
     lines = list(map(pre_handle, lines_origin))
     source_write_count = 0
     target_write_count = 0
@@ -165,7 +169,6 @@ def small_file_clean_data(file_path, sfile, tfile, cjk_file):
             # 清理本轮数据
             source_content = ''
             target_content = ''
-    f.close()
     count_align_check(source_write_count, target_write_count, file_path)
 
 
@@ -238,9 +241,9 @@ def small_file_detect_lang(sfile, tfile, valid_sfile, valid_tfile, detect_file):
 
 
 # input params
-tlang_code, input_folder = get_args()
-# tlang_code = 'de'
-# input_folder = '/Users/caius_kong/Documents/work/2018/MT/TMX/de-DE/2018.11'
+# tlang_code, input_folder = get_args()
+tlang_code = 'de'
+input_folder = '/Users/caius_kong/Documents/work/2018/MT/TMX/de-DE/2018.11'
 is_detect_lang = False  # 混语言处理开关
 
 # match pattern
@@ -261,7 +264,7 @@ output_folder = os.path.join(os.getcwd(), "output")
 sfile_path = output_folder + "/all_en.align"
 tfile_path = output_folder + "/all_" + tlang_code + ".align"
 cjk_file_path = output_folder + "/cjk.txt"
-sfile, tfile, cjk_file = file_output_prepare((sfile_path, tfile_path, cjk_file_path))
+sfile, tfile, cjk_file = open_write_files((sfile_path, tfile_path, cjk_file_path))
 count = 0
 for file_path in file_path_list:
     count += 1.0
@@ -270,9 +273,7 @@ for file_path in file_path_list:
     print("file parse: " + file_path)
     small_file_clean_data(file_path, sfile, tfile, cjk_file)
     print("current progress: %s" % ("%.2f%%" % (count / len(file_path_list) * 100)))
-sfile.close()
-tfile.close()
-cjk_file.close()
+close_files((sfile, tfile, cjk_file))
 
 # 混语言处理
 if is_detect_lang:
@@ -284,11 +285,6 @@ if is_detect_lang:
     detect_file_path = output_folder + "/detect_lang.txt"
     sfile = open(sfile_path, 'r', encoding='utf-8')
     tfile = open(tfile_path, 'r', encoding='utf-8')
-    valid_sfile, valid_tfile, detect_file = file_output_prepare((valid_sfile_path, valid_tfile_path, detect_file_path))
+    valid_sfile, valid_tfile, detect_file = open_write_files((valid_sfile_path, valid_tfile_path, detect_file_path))
     small_file_detect_lang(sfile, tfile, valid_sfile, valid_tfile, detect_file)
-
-    sfile.close()
-    tfile.close()
-    valid_sfile.close()
-    valid_tfile.close()
-    detect_file.close()
+    close_files((sfile, tfile, valid_sfile, valid_tfile, detect_file))
