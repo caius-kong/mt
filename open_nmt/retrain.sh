@@ -19,13 +19,13 @@ th $OPENNMT_HOME/train.lua -data output/en-de-train.t7 -save_model output/en-de-
 # case3 example:
 # 1、使用原词汇表预处理数据
 # th $OPENNMT_HOME/preprocess.lua
-#   -train_src input/en-de-new/src-train.txt.tok
-#   -train_tgt input/en-de-new/tgt-train.txt.tok
+#   -train_src input/en-de-new/src-train.align.tok
+#   -train_tgt input/en-de-new/tgt-train.align.tok
 #   -save_data output/en-de-new
 # 2、增量训练
 # th $OPENNMT_HOME/train.lua
 #   -data output/en-de-new-train.t7
-#   -save_model output/en-de-model
+#   -save_model output/en-de-new-model
 #   -train_from output/en-de-model_epoch13_12.32.t7
 #   -update_vocab replace
 #   -gpuid 1

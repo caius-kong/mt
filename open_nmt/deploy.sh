@@ -13,7 +13,7 @@
 # 1、Single Model Rest server (first version, kept for backward compatiblity)
 # optional: -host 127.0.0.1 (如果您想要支持远程访问，请改用 0.0.0.0)
 # optional: -port 7784
-th $OPENNMT_HOME/tools/rest_translation_server.lua -model output/en-de-model_epoch5_20.44.t7 -host 0.0.0.0 -gpuid 1 &
+th $OPENNMT_HOME/tools/rest_translation_server.lua -model output/en-de-model_epoch5_20.44.t7 -host 0.0.0.0 -port 7784 -gpuid 1 &
 
 # test
 #curl -v -H "Content-Type: application/json" -X POST -d '[{ "src" : "Hello World" }]' http://127.0.0.1:7784/translator/translate
