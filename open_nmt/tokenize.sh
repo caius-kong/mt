@@ -8,7 +8,7 @@
 # Optional: -case_feature false                     (Generate case feature. 论坛：一般情况下使用-case_feature对几乎所有语言都是一个好主意，并且在源中的目标案例变体中处理和呈现时表现出良好的性能。但是有人说反向bleu下降了-->需要实验)
 # Optional: -joiner_annotate false                  (Include joiner annotation using -joiner character. If choose true, you can use detokenize.lua)
 #th tools/tokenize.lua -mode aggressive -case_feature true -joiner_annotate true < file > file.tok
-for f in input/en-de/* ; do th $OPENNMT_HOME/tools/tokenize.lua -mode aggressive -case_feature true -joiner_annotate true < $f > $f.tok ; done
+for f in input/en-de/* ; do th $OPENNMT_HOME/tools/tokenize.lua -mode aggressive -case_feature true -segment_case true -joiner_annotate true < $f > $f.tok ; done
 
 # If you activate -joiner_annotate marker, the tokenization is reversible. Just use:
 #th tools/detokenize.lua -mode aggressive -case_feature true -joiner_annotate true < file.tok > file.detok
