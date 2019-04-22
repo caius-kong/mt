@@ -7,6 +7,7 @@
 # Optional: -mode conservative                      (accepted: space, conservative, aggressive. 定义标记化的积极程度，aggressive只保留字母/数字序列，conservative允许混合使用字母数字，如"2,000", "E65", "soft-landing"等，space正在进行空间标记化)
 # Optional: -case_feature false                     (Generate case feature. 论坛：一般情况下使用-case_feature对几乎所有语言都是一个好主意，并且在源中的目标案例变体中处理和呈现时表现出良好的性能。但是有人说反向bleu下降了-->需要实验)
 # Optional: -joiner_annotate false                  (Include joiner annotation using -joiner character. If choose true, you can use detokenize.lua)
+# Optional: -segment_alphabet <table>               (特殊语种（中日，单词间无空格）需要指定分割字母表。例如，将中文句子拆分为字符，使用 -segment_alphabet Han)
 #th tools/tokenize.lua -mode aggressive -case_feature true -joiner_annotate true < file > file.tok
 for f in input/en-de/* ; do th $OPENNMT_HOME/tools/tokenize.lua -mode aggressive -case_feature true -segment_case true -joiner_annotate true < $f > $f.tok ; done
 
