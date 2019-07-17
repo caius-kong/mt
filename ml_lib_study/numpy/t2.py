@@ -1,7 +1,7 @@
 import numpy as np
 
-# 在数组上的算数运算应用于每个元素
-a = np.array([10, 20, 30, 40])
+# 在数组上的算数运算应用于每个元素（shape不同，但小数组shape=大数组子元素shape，也可以算数运算 - 广播）
+a = np.array([[10, 20, 30, 40], [50, 60, 70, 80]])
 b = np.arange(4)
 print(a - b)
 print(a * b)  # 注意a*b 与 np.dot(a,b) 不同，前者还是一个数组，后者是向量积，是一个值
