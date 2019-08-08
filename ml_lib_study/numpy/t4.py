@@ -12,7 +12,7 @@ print(c)
 d = a.resize((5, 3))
 print(d)
 
-e = c.T  # 颠倒
+e = c.T  # 颠倒（顺时针90°）
 print(e)
 
 f = np.arange(12).reshape(2, -1)  # -1 表示其他维度自动填充
