@@ -41,7 +41,7 @@ print(e)
 f = np.empty((2, 3))  # 随机
 print(f)
 
-g = np.random.random((2, 3))  # 0-1随机
+g = np.random.random((2, 3))  # 0-1随机  == np.random.rand(100, 3)
 print(g)
 
 # 创建数字序列
