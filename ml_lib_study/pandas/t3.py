@@ -11,7 +11,7 @@ res[1] = df.head(3)
 
 # res[2] = df.loc('01/01/2017 01:00')
 
-res[3] = df.sort_index(ascending=False).head(3)  # 按索引排序
+res[3] = df.sort_index(ascending=False).head(3)  # 按索引排序(降序)
 
 df = df.reset_index('date_time')  # 撤销指定索引
 res[4] = df.head(3)
