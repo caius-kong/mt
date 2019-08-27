@@ -29,7 +29,7 @@ def scatter(data, ax=None, label='data'):
 
 
 def scatter_cluster(groups):
-    # 画出已分类的数据集合a、b、c...的三维散点图（X取第一列，Y取第二列，Z取第三列）
+    # 画出已分类的数据集合a、b、c...的三维散点图（X取每组的第一列，Y取每组的第二列，Z取每组的第三列，每组一个3D图）
     xx = [[] for i in range(len(groups))]
     yy = [[] for i in range(len(groups))]
     zz = [[] for i in range(len(groups))]
@@ -58,7 +58,7 @@ def computing_cluster(spott, K):
     # Classify data group by cluster
     groups = [[] for i in range(K)]
     for i in range(len(cluster)):
-        # 根据聚簇值，选择相应索引的组
+        # 根据聚簇值，选择相应索引的组（cluster元素的值1/2/3，groups元素的索引1/2/3）
         for index in range(len(groups)):
             if cluster[i] == index:
                 groups[index].append(spott[i])
