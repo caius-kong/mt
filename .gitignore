@@ -5,3 +5,4 @@
 **/MNIST_data
 venv
 settings.json
+launch.json
