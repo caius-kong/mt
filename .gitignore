@@ -4,3 +4,4 @@
 **/logs
 **/MNIST_data
 venv
+settings.json
