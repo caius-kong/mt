@@ -1,8 +1,8 @@
 # coding=utf-8
 
 import matplotlib.pyplot as plt
-import numpy as np
 from mpl_toolkits.mplot3d import Axes3D
+import numpy as np
 from scipy.cluster.vq import kmeans, vq, whiten
 
 """ scipy.cluster 
@@ -66,7 +66,8 @@ def computing_cluster(spott, K):
 
 
 # 数据准备（三个维度）
-spott = np.vstack((np.random.rand(100, 3) + np.array([.5, .5, .5]), np.random.rand(100, 3)))
+spott = np.vstack(
+    (np.random.rand(100, 3) + np.array([.5, .5, .5]), np.random.rand(100, 3)))
 scatter(spott)
 plt.show()
 

@@ -6,3 +6,4 @@ requests
 jieba
 pandas
 scipy
+pylint
